@@ -5,7 +5,7 @@
 
 ### T
 
-| **Test** | **Of the Year** |
+| Test | Of the Year |
 | -- | -- |
 | 0:2 | 1:2 |
 
