@@ -18,4 +18,4 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 **Info** Info
 
-![](img/icon.jpg)
+![](img/icon.jpg = 50x50)
