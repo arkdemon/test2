@@ -16,6 +16,6 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}img/icon.jpg,audio/audio1.wav{% endaimg %}
 
-
+**Info** Info
 
 ![](img/icon.jpg)
