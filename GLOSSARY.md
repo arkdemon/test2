@@ -1,5 +1,0 @@
-# Glossary
-
-## Test
-
-Test
