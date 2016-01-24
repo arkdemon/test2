@@ -38,25 +38,21 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 3.1.wav{% endaimg %}
-	<em>
-		enregistrement 3.2
-	</em>
-</p>
+
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 3.2.wav{% endaimg %}
+
+
 <p>
-	   En réalité, c’est parce que si l’on décompose ces deux ondes avec la série de Fourier, nous remarquerons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
+En réalité, c’est parce que si l’on décompose ces deux ondes avec la série de Fourier, nous remarquerons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
 </p>
+
+
+![](../img/fig 5.1.png)
+
+![](../img/fig 5.2.png)
+
 <p>
-	<em>
-		fig. 5.1
-	</em>
-</p>
-<p>
-	<em>
-		fig. 5.2
-	</em>
-</p>
-<p>
-	   Le son le plus pur correspond donc à une onde sinusoïdale. Une interprétation musicale de l’analyse de Fourier est que toute onde périodique peut être décomposée en une superposition de sons purs dont les fréquences sont multiples de la fréquence fondamentale. La complexité d’un son résulte du nombre de sons pur qui le composent (dont les intensités sont non négligeables) jusqu’à produire le son blanc lorsque toutes les harmoniques ont plus ou moins la même intensité
+Le son le plus pur correspond donc à une onde sinusoïdale. Une interprétation musicale de l’analyse de Fourier est que toute onde périodique peut être décomposée en une superposition de sons purs dont les fréquences sont multiples de la fréquence fondamentale. La complexité d’un son résulte du nombre de sons pur qui le composent (dont les intensités sont non négligeables) jusqu’à produire le son blanc lorsque toutes les harmoniques ont plus ou moins la même intensité
 </p>
 <p>
 	   Ici nous abordons donc la pureté d’un son. Ainsi plus le son est pur, plus il est agréable à écouter comme nous l’avons remarqué avec les enregistrement. Nous faisons les premiers pas dans une explication physique et mathématiques de la consonance, et nous introduisons un outil important pour comprendre l’analyse de Fourier.
