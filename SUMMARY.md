@@ -23,4 +23,5 @@
    * La théorie de d’Alembert: une première notion des harmoniques
    * La théorie d’Helmholtz: quantifier la dissonance
 * Explications
+* Conclusion
 
