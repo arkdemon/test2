@@ -2,7 +2,7 @@
 
 <p>&nbsp;&nbsp;Pour la pr&eacute;paration de ce sondage, nous avons r&eacute;alis&eacute; quelques enregistrements d&rsquo;accords pr&eacute;sentant certaines caract&eacute;ristiques particuli&egrave;res, qui seront expliqu&eacute;es tout au long du dossier. Nous avons ensuite fait &eacute;cout&eacute; &nbsp;une s&eacute;rie de couples d&rsquo;accords &agrave; une dizaine de nos camarades, non-musiciens, les couples ayant &eacute;t&eacute; choisi au pr&eacute;alable pour que l&rsquo;un des accords soit consonant et l&rsquo;autre dissonant, selon les conventions musicales. Nous leur demandions par la suite lequel des accords leur semblait le plus agr&eacute;able &agrave; l&rsquo;oreille.</p>
 <p>&nbsp;&nbsp;Nous nous attendions &agrave; ce que la majorit&eacute; des sujets choisissent de pr&eacute;f&eacute;rence l&rsquo;accord consonant. Voici un tableau qui d&eacute;crit les r&eacute;ponses des sujets en fonction de nos attentes.</p>
-<p>Protocole et r&eacute;sultats pr&eacute;cis&eacute;s dans l&rsquo;annexe.</p>
+<p>Protocole et r&eacute;sultats seront précisés dans l'annexe.</p>
 <p><strong><strong>&nbsp;</strong></strong></p>
 <table>
 <tbody>
