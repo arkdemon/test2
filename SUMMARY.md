@@ -11,4 +11,5 @@
 * Approche Physique
    * Des généralités sur le son
        * L'onde sonore
+       * L'analyse de Fourier et le timbre
 
