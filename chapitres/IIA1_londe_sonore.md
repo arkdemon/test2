@@ -1,13 +1,13 @@
 # L'onde sonore
-![](../img/oscillogramme.gif)
+
+
 <p>&nbsp;&nbsp;
 	Avant tout, il est nécessaire de savoir ce qu’est le son. Physiquement, il correspond à notre perception de la fluctuation de pression de notre milieu environnant ou bien, de manière équivalente, le déplacement local des particules du milieu. Afin de visualiser cette variation de pression, nous représentons l’évolution de la pression à un endroit donnée, elle ne dépendra donc que du temps. Le graphique obtenu s’appelle un
 	<em>
 		 oscillogramme
 	</em>
-	 .
+	.
 </p>
-
 <p style="text-align: center;">
 	<em>
 		 exemple d’un oscillogramme
