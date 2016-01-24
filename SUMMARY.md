@@ -8,4 +8,5 @@
    * Sondage Introductif
    * Théorie Musicale
        * Comment classifier les intervalles et les accords
+       * Classification des consonances par les musiciens
 
