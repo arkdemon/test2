@@ -12,7 +12,7 @@
        * [L'analyse de Fourier et le timbre](IIA2_lanalyse_de_fourier_et_le_timbre.md)
    * Expérience
        * [Les outils d'enregistrement](IIB1_les_outils_denregistrement.md)
-       * Étude de cas sur l'accord parfait majeur
+       * [Étude de cas sur l'accord parfait majeur](IIB2_etude_de_cas_sur_laccord_parfait_majeur.md)
    * L’intensité et la hauteur
    * Superpositions de plusieurs notes
    * L’analyse des coups et l’analyse de Fourier
