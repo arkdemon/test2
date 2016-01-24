@@ -1,4 +1,4 @@
-# Classification des consonances par les musiciens
+### Classification des consonances par les musiciens
 
 <p>&nbsp;&nbsp;
 D’après Gevaert (un compositeur et théoricien belge du XIXème-XXème, qui a fait du théâtre avant de se consacrer aux théories et à l’histoire musicales), la consonance “se produit lorsque deux sons résonnent en même temps, se mélangent plus ou moins”. La consonance est donc la propriété que de deux notes sonnent bien à l’oreille (pour la plupart des gens) quand elles sont jouées en même temps. La consonance étant relative, elle dépend du facteur physiologique, c’est à dire de la perception, et psychologique, c’est à dire du jugement et du ressenti. Les accords “consonants” varient selon la culture et les époques: par exemple, seules l’octave et la quinte étaient considérées comme des intervalles consonants jusqu’au milieu du Moyen-Âge en Europe. Progressivement, des accords comme la tierce ainsi que la sixte mineure et majeure ont fait leur apparition et des hiérarchies plus complexes sont apparues.
