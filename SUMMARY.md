@@ -14,6 +14,7 @@
        * Les outils d'enregistrement
        * Étude de cas sur l'accord parfait majeur
    * L’intensité et la hauteur
+   * Superpositions de plusieurs notes
 * [Test](test.md)
 * [Annexe](annexe.md)
 
