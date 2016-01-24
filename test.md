@@ -10,8 +10,6 @@ $$\frac{1}{2}$$
 
 > **Nota Bene** Il est intéressant de voir que 
 
-
-![](./img/icon.jpg)
 <img src="./img/icon.jpg" width="50px" height="50px" />
 
 <h2><strong>&nbsp;</strong></h2>
