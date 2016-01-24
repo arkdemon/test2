@@ -11,31 +11,31 @@
 <p><strong>R&eacute;sultat du sondage</strong></p>
 </td>
 <td><br />
-<p>Sujet 1</p>
+<p><strong>Sujet 1</strong></p>
 </td>
 <td><br />
-<p>Sujet 2</p>
+<p><strong>Sujet 2</strong></p>
 </td>
 <td><br />
-<p>Sujet 3</p>
+<p><strong>Sujet 3</strong></p>
 </td>
 <td><br />
-<p>Sujet 4</p>
+<p><strong>Sujet 4</strong></p>
 </td>
 <td><br />
-<p>Sujet 5</p>
+<p><strong>Sujet 5</strong></p>
 </td>
 <td><br />
-<p>Sujet 6</p>
+<p><strong>Sujet 6</strong></p>
 </td>
 <td><br />
-<p>Sujet 7</p>
+<p><strong>Sujet 7</strong></p>
 </td>
 <td><br />
-<p>Sujet 8</p>
+<p><strong>Sujet 8</strong></p>
 </td>
 <td><br />
-<p>Sujet 9</p>
+<p><strong>Sujet 9</strong></p>
 </td>
 </tr>
 <tr>
