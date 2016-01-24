@@ -7,4 +7,5 @@
 * Notions
    * Sondage Introductif
    * Théorie Musicale
+       * Comment classifier les intervalles et les accords
 
