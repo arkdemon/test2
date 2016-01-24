@@ -13,7 +13,7 @@
    * Expérience
        * [Les outils d'enregistrement](IIB1_les_outils_denregistrement.md)
        * [Étude de cas sur l'accord parfait majeur](IIB2_etude_de_cas_sur_laccord_parfait_majeur.md)
-   * L’intensité et la hauteur
+   * [L’intensité et la hauteur](IIC_lintensite_et_la_hauteur.md)
    * Superpositions de plusieurs notes
    * L’analyse des coups et l’analyse de Fourier
 * [Test](test.md)
