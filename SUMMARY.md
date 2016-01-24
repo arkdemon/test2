@@ -18,4 +18,5 @@
    * L’analyse des coups et l’analyse de Fourier
 * [Test](test.md)
 * [Annexe](annexe.md)
+* Les théories mathématico-musicales autour de la consonance
 
