@@ -28,4 +28,5 @@
 * Synthèses Personnelles
    * Adrien
    * Alexandre
+   * David
 
