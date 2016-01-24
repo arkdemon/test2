@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Notions](chapitres/I_notions.md)
    * [Sondage Introductif](chapitres/IA_sondage_introductif.md)
-   * Théorie Musicale
+   * [Théorie Musicale](chapitres/IB_theorie_musicale.md)
        * [Comment classifier les intervalles et les accords](chapitres/IB1_comment_classifier_les_intervalles_et_les_accords.md)
        * [Classification des consonances par les musiciens](chapitres/IB2_classification_des_consonances_par_les_musiciens.md)
 * Approche Physique
