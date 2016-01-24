@@ -8,4 +8,5 @@
        * [Classification des consonances par les musiciens](chapitres/IB2_classification_des_consonances_par_les_musiciens.md)
 * [Test](test.md)
 * [Annexe](annexe.md)
+* Approche Physique
 
