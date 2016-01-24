@@ -19,7 +19,7 @@
 * Les théories mathématico-musicales autour de la consonance
    * [La théorie d’Euler: associer des degrés de douceur aux accords](chapitres/IIIA_la_theorie_deuler_associer_des_degres_de_douceur_a.md)
    * [La théorie de d’Alembert: une première notion des harmoniques](chapitres/IIIB_la_theorie_de_dalembert_une_premiere_notion_des_ha.md)
-   * La théorie d’Helmholtz: quantifier la dissonance
+   * [La théorie d’Helmholtz: quantifier la dissonance](chapitres/IIIC_la_theorie_dhelmholtz_quantifier_la_dissonance.md)
 * Explications
 * [Test](chapitres/test.md)
 * [Conclusion](chapitres/Conclusion.md)
