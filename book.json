@@ -1,3 +1,3 @@
 {
-    "plugins": ["katex", "audio_image", "richquotes"]
+    "plugins": ["audio_image", "richquotes"]
 }
