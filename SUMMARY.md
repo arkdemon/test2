@@ -21,8 +21,8 @@
    * La théorie d’Euler: associer des degrés de douceur aux accords
    * La théorie de d’Alembert: une première notion des harmoniques
    * La théorie d’Helmholtz: quantifier la dissonance
+* Explications
 * [Test](chapitres/test.md)
 * [Annexe](chapitres/Annexe.md)
-* Explications
 * Conclusion
 
