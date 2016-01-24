@@ -12,6 +12,7 @@
        * L'analyse de Fourier et le timbre
    * Expérience
        * Les outils d'enregistrement
+       * Étude de cas sur l'accord parfait majeur
 * [Test](test.md)
 * [Annexe](annexe.md)
 
