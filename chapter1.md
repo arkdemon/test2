@@ -6,11 +6,10 @@
 
 
 
-{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/audio1.wav{% endaimg %}
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/audio1.wav{% endaimg %}
 
 > **Nota Bene** Il est intéressant de voir que 
 
 
-![](../img/icon.jpg)
+![](./img/icon.jpg)
 <img src="../img/icon.jpg" width="50px" height="50px" />
-[](_book.zip)
