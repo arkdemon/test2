@@ -226,4 +226,5 @@
 <p>&nbsp;&nbsp;
 	En particulier, les notes de l’accord joué correspondent aux 4e, 5e et 6e harmoniques du spectre du Mi0 (75Hz). Ainsi nous pouvons penser que la raison de la consonance de cet accord est qu’il est constitué des premières harmoniques d’une note, le rendant ainsi plus naturel à notre oreille
 </p>
+<p>A FINIR</p>
 
