@@ -46,7 +46,6 @@ Bien que plusieurs sons aient la même hauteur, nous arrivons à les différenci
 En réalité, c’est parce que si l’on décompose ces deux ondes avec la série de Fourier, nous remarquerons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
 </p>
 
-
 ![](../img/fig 5.1.png)
 
 ![](../img/fig 5.2.png)
