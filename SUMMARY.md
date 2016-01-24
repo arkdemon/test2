@@ -6,4 +6,5 @@
 * [Annexe](annexe.md)
 * Notions
    * Sondage Introductif
+   * Théorie Musicale
 
