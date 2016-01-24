@@ -1,2 +1,2 @@
-# L’intensité et la hauteur
+## L’intensité et la hauteur
 
