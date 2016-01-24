@@ -1,2 +1,2 @@
-# La théorie d’Helmholtz: quantifier la dissonance
+## La théorie d’Helmholtz: quantifier la dissonance
 
