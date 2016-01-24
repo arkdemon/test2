@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Introduction](chapitres/Introduction.md)
 * Notions
    * [Sondage Introductif](chapitres/IA_sondage_introductif.md)
@@ -14,7 +15,7 @@
        * [Les outils d'enregistrement](chapitres/IIB1_les_outils_denregistrement.md)
        * [Étude de cas sur l'accord parfait majeur](chapitres/IIB2_etude_de_cas_sur_laccord_parfait_majeur.md)
    * [L’intensité et la hauteur](chapitres/IIC_lintensite_et_la_hauteur.md)
-   * Superpositions de plusieurs notes
+   * [Superpositions de plusieurs notes](chapitres/IID_superpositions_de_plusieurs_notes.md)
    * L’analyse des coups et l’analyse de Fourier
 * [Test](chapitres/test.md)
 * [Annexe](chapitres/Annexe.md)
