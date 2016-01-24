@@ -9,5 +9,5 @@
 * [Test](test.md)
 * [Annexe](annexe.md)
 * Approche Physique
-   * Des Généralités sur le Son
+   * Des généralités sur le son
 
