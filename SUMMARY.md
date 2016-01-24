@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Notions
+* [Notions](chapitres/I_notions.md)
    * [Sondage Introductif](chapitres/IA_sondage_introductif.md)
    * Théorie Musicale
        * [Comment classifier les intervalles et les accords](chapitres/IB1_comment_classifier_les_intervalles_et_les_accords.md)
