@@ -1,9 +1,9 @@
 # Étude de cas sur l'accord parfait majeur
 
-<p>
-	Notre oreille réussit à décomposer des bruits très complexes, qui sont des mélanges de nombreux sons. Nous pouvons réaliser une analyse similaire grâce à un logiciel. Afin de comprendre les différences de consonance entre deux accords, nous avons décidé d’étudier des vrai sons, et non des sons générés par un logiciel informatique. Pour ce faire, nous avons enregistré des notes et des accordd de guitare électrique pour pouvoir les analyser et les comparer.
+<p>&nbsp;&nbsp;
+	Notre oreille réussit à décomposer des bruits très complexes, qui sont des mélanges de nombreux sons. Nous pouvons réaliser une analyse similaire grâce à un logiciel. Afin de comprendre les différences de consonance entre deux accords, nous avons décidé d’étudier des vrai sons, et non des sons générés par un logiciel informatique. Pour ce faire, nous avons enregistré des notes et des accords de guitare électrique pour pouvoir les analyser et les comparer.
 </p>
-<p>
+<p>&nbsp;&nbsp;
 	Voici l'expérience que nous avons réalisé pour tenter d’étudier des vrai sons:
 </p>
 <p>
@@ -43,7 +43,7 @@
 </p>
 <ul>
 	<li >
-		L’environnement où ils ont été réalisés étaient trop bruyant
+		L’environnement dans lequel ils ont été réalisés étaient trop bruyant
 	</li>
 	<li >
 		Nous avons collé le microphone à la caisse de résonance, nous avons donc enregistré non pas les sons générés par la corde, mais les vibrations de la plaque en plastique couvrant la caisse de résonance.
@@ -77,9 +77,5 @@
 	</strong>
 </p>
 <p>
-	Nous allons enregistrer un accord parfait majeur de Mi (Mi2, Sol#2, Si2) joué et enregistré dans un lieu silencieux avec le programme Audacity. La guitare électrique est branchée à l’ordinateur (par le biais de la carte son), utilisant donc les capteurs électromagnétiques intégrés dans la guitare pour enregistrer le son. Les enregistrements seront ensuite transférés au programme Regavi, qui les traiteras pour ensuite les envoyer vers le programme Regressi. Ce programme décomposera le signal périodique obtenu grace à l’enregistrement, nous donnant le spectrogramme de l’accord.  A l’aide des outils du programme, nous analyserons le spectrogramme obtenu.
-</p>
-<p>
-	<br />
-	<br />
+	Nous allons enregistrer un accord parfait majeur de Mi (Mi2, Sol#2, Si2) joué et enregistré dans un lieu silencieux avec le programme Audacity. La guitare électrique est branchée à l’ordinateur (par le biais de la carte son), utilisant donc les capteurs électromagnétiques intégrés dans la guitare pour enregistrer le son. Les enregistrements seront ensuite transférés au programme Regavi, qui les traitera pour ensuite les envoyer vers le programme Regressi. Ce programme décomposera le signal périodique obtenu grace à l’enregistrement, nous donnant le spectrogramme de l’accord. A l’aide des outils offerts par le programme, nous analyserons le spectrogramme obtenu.
 </p>
