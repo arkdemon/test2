@@ -16,7 +16,7 @@
        * [Étude de cas sur l'accord parfait majeur](chapitres/IIB2_etude_de_cas_sur_laccord_parfait_majeur.md)
    * [L’intensité et la hauteur](chapitres/IIC_lintensite_et_la_hauteur.md)
    * [Superpositions de plusieurs notes](chapitres/IID_superpositions_de_plusieurs_notes.md)
-   * L’analyse des coups et l’analyse de Fourier
+   * [L’analyse des coups et l’analyse de Fourier](chapitres/IIE_lanalyse_des_coups_et_lanalyse_de_fourier.md)
 * [Test](chapitres/test.md)
 * [Annexe](chapitres/Annexe.md)
 * Les théories mathématico-musicales autour de la consonance
