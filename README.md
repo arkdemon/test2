@@ -8,6 +8,8 @@ $$x = { \frac{-b \pm \sqrt{b^2-4ac}}{2a}}.$$
 
 Test
 
+$$\frac $$
+
 |Coups | 1:0 |
 | -- | -- |
 | 0:2 | 1:2 |
