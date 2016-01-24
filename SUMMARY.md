@@ -21,7 +21,7 @@
    * [La théorie d’Helmholtz: quantifier la dissonance](chapitres/IIIC_la_theorie_dhelmholtz_quantifier_la_dissonance.md)
 * Explications
    * [L’analyse des coups et l’analyse de Fourier](chapitres/IIE_lanalyse_des_coups_et_lanalyse_de_fourier.md)
-   * Exploitation des résultats
+   * [Exploitation des résultats](IVB_exploitation_des_resultats.md)
 * [Test](chapitres/test.md)
 * [Conclusion](chapitres/Conclusion.md)
 * [Annexe](chapitres/Annexe.md)
