@@ -7,7 +7,8 @@
 	</em>
 	 .
 </p>
-![](../img/oscillogramme.gif)
+<img style="text-align: center;" alt="" src="../img/oscillogramme.gif">
+
 <p style="text-align: center;">
 	<em>
 		 exemple d’un oscillogramme
