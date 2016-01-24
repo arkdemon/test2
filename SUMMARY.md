@@ -25,5 +25,4 @@
 * [Test](chapitres/test.md)
 * [Conclusion](chapitres/Conclusion.md)
 * [Annexe](chapitres/Annexe.md)
-   * Synthèses Personnelle
 
