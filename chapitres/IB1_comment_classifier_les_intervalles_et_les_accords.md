@@ -16,7 +16,7 @@
 <tbody>
 <tr>
 <td>
-<p>Intervalles</p>
+<p><b>Intervalles</b></p>
 </td>
 <td colspan="2">
 <p>Seconde</p>
