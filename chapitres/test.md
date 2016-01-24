@@ -8,7 +8,7 @@ $$\frac{1}{2}$$
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/audio1.wav{% endaimg %}
 
-> **Nota Bene** Il est intéressant de voir que 
+> **Note** Il est intéressant de voir que 
 
 <img src="./img/icon.jpg" width="50px" height="50px" />
 
