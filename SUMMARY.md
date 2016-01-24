@@ -11,7 +11,7 @@
        * [L'onde sonore](IIA_londe_sonore.md)
        * [L'analyse de Fourier et le timbre](IIA2_lanalyse_de_fourier_et_le_timbre.md)
    * Expérience
-       * Les outils d'enregistrement
+       * [Les outils d'enregistrement](IIB1_les_outils_denregistrement.md)
        * Étude de cas sur l'accord parfait majeur
    * L’intensité et la hauteur
    * Superpositions de plusieurs notes
