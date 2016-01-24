@@ -157,4 +157,15 @@
 <p align="center"><em>Tableau 2: quelques intervalles classiques et leurs demi-tons correspondants</em></p>
 <p>&nbsp;&nbsp;En musique, deux sons qui ont une octave de diff&eacute;rence sont la m&ecirc;me note: c&rsquo;est le principe de l&rsquo;identit&eacute; des octaves. Il en est de m&ecirc;me pour les intervalles. Ainsi, un intervalle d&eacute;doubl&eacute;, c&rsquo;est &agrave; dire un intervalle auquel nous avons ajout&eacute; au moins une octave, sonnera pareil que l&rsquo;intervalle simple. Par exemple, la tierce majeure form&eacute;e entre do et mi sonnera comme la 10e majeure entre do et mi une octave au dessus. (Ceci est vrai en harmonie classique mais l&rsquo;est moins dans d&rsquo;autres courants comme le jazz o&ugrave; les intervalles conservent leur identit&eacute; jusqu&rsquo;&agrave; la 13e).</p>
 <p>&nbsp;&nbsp;Comme nous l&rsquo;avons vu pr&eacute;c&eacute;demment, un accord est la superposition d&rsquo;au moins trois notes. Il est dit arp&eacute;g&eacute; si elles sont jou&eacute;es successivement, et plaqu&eacute; si elles sont jou&eacute;es simultan&eacute;ment. Un accord est donc la superposition de plusieurs intervalles. Pour les noter, on reporte l&rsquo;intervalle form&eacute; entre chaque note de l&rsquo;accord et la note la plus grave: la basse. Par exemple, pour un accord form&eacute; des notes do, mi et sol, la basse est do, donc nous reportons l&rsquo;intervalle entre do et mi, une tierce majeure (not&eacute;e 3) et do et sol, une quinte juste (not&eacute;e 5). nous empilons donc ces nombres les uns sur les autres, ce qui nous donne le chiffrage de l&rsquo;accord. Ainsi, si un musicien conna&icirc;t la basse et le chiffrage d&rsquo;un accord, il pourra le d&eacute;duire sans ambigu&iuml;t&eacute;.</p>
-<p><br /><br /></p>
+
+exemples de chiffrages d’accords
+
+<p>&nbsp;&nbsp;
+	Un accord est dit classé lorsqu’il est réductible à une superposition de tierce. Les accords classés de trois notes, aussi appelés triades, comprennent donc la note fondamentale, sa tierce et sa quinte. Les accords à quatre notes comprennent une triade à laquelle nous ajoutons l’intervalle de septième (majeure ou mineure) ou la sixte majeure. Les accords de cinq notes ou plus comprennent en plus de l’accord de quatre notes, la seconde, la quarte ou la sixte.
+</p>
+<p>&nbsp;&nbsp;
+	Mais un accord n’est pas entièrement déterminé que par son chiffrage. En effet, les musiciens ont remarqué que si l’on permute l’ordre des notes, la “structure” de l’accord reste la même, c’est ce que l’on appelle en musique un renversement. Par exemple, l’accord mi, sol, do est un renversement de l’accord pris au départ do, mi, sol. Ainsi, l’accord n’est pas en réalité une simple succession de notes mais plutôt leur structure invariante par permutation de l’ordre des notes qui les constituent ou renversements. Par exemple les deux renversements cités plus haut représentent en réalité le même accord: l’accord parfait majeur.
+</p>
+<p>&nbsp;&nbsp;
+	C’est ainsi que l’on classifie un accord et cette classification met en évidence des différences entre les accords, différences qui peuvent liées à la  consonance et dissonance.
+</p>
