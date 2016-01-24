@@ -29,4 +29,5 @@
    * Adrien
    * Alexandre
    * David
+   * Etienne
 
