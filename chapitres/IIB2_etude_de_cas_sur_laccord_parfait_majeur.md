@@ -91,3 +91,139 @@
 
 ![](../img/Image 6.png)
 <p><em>Spectrogramme  de la fréquence en kHz par rapport à l’amplitude obtenu avec Regressi</em></p>
+
+<table>
+	<tbody>
+		<tr>
+			<td>
+				<p>
+					<strong>
+						Fréquences (Hz)
+					</strong>
+				</p>
+			</td>
+			<td>
+				<p>
+					-
+				</p>
+			</td>
+			<td>
+				<p>
+					80
+				</p>
+			</td>
+			<td>
+				<p>
+					122.5
+				</p>
+			</td>
+			<td>
+				<p>
+					162
+				</p>
+			</td>
+			<td>
+				<p>
+					205
+				</p>
+			</td>
+			<td>
+				<p>
+					244
+				</p>
+			</td>
+			<td>
+				<p>
+					-
+				</p>
+			</td>
+			<td>
+				<p>
+					325
+				</p>
+			</td>
+			<td>
+				<p>
+					368
+				</p>
+			</td>
+			<td>
+				<p>
+					411
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					<strong>
+						Fréquences attendues
+					</strong>
+				</p>
+			</td>
+			<td>
+				<p>
+					40
+				</p>
+			</td>
+			<td>
+				<p>
+					80
+				</p>
+			</td>
+			<td>
+				<p>
+					120
+				</p>
+			</td>
+			<td>
+				<p>
+					160
+				</p>
+			</td>
+			<td>
+				<p>
+					200
+				</p>
+			</td>
+			<td>
+				<p>
+					240
+				</p>
+			</td>
+			<td>
+				<p>
+					280
+				</p>
+			</td>
+			<td>
+				<p>
+					320
+				</p>
+			</td>
+			<td>
+				<p>
+					360
+				</p>
+			</td>
+			<td>
+				<p>
+					400
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p align="center">
+	<em>
+		 Tableau 4: comparaison des fréquences des premières harmoniques de l’enregistrement avec leurs valeurs théoriques
+	</em>
+</p>
+
+<p>&nbsp;&nbsp;
+	Nous constatons que ces fréquences correspondent approximativement à une suite arithmétique de raison 40, donc qu’elles correspondent aux harmoniques du spectre d’un son dont la fréquence fondamentale est 40 Hz. La note correspondante à cette fréquence est donc la même que celle de 320 Hz (320=8*40). En étudiant l’intervalle entre cette fréquence et celle du La3 (440Hz) nous obtenons le rapport 440/320 ~ 4/3 donc leur intervalle est une quarte. La note inconnue est donc une quarte en dessous du La3, soit le Mi3, donc la note est un Mi (ceci est justifié puisque si l’on regarde la fréquence du Mi0, nous trouvons une fréquence de 41,2 Hz). Toutes les harmoniques de l’accord correspondent à celle du Mi0, ce qui justifie appellation de cette note comme fondamentale de l’accord.
+</p>
+<p>&nbsp;&nbsp;
+	En particulier, les notes de l’accord joué correspondent aux 4e, 5e et 6e harmoniques du spectre du Mi0 (75Hz). Ainsi nous pouvons penser que la raison de la consonance de cet accord est qu’il est constitué des premières harmoniques d’une note, le rendant ainsi plus naturel à notre oreille
+</p>
+
