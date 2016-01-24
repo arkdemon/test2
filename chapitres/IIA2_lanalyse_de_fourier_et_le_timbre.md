@@ -36,11 +36,11 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 	   Bien que plusieurs sons aient la même hauteur, nous arrivons à les différencier. Par exemple, la note d’une guitare et d’un piano sont distinguables, mettant en évidence une nouvelle caractéristique du son: le timbre. Cette caractéristique permet d’établir la pureté d’un son. Par exemple, le premier enregistrement est plus pur que le deuxième même s’ils ont la même hauteur.
 </p>
 
-<audio controls>
-  <source src="../audio/enregistrement 3.1.wav" type="audio/wav">
-  <source src="../audio/enregistrement 3.2.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 3.1.wav"{% endaimg %}
+
+
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 3.2.wav{% endaimg %}
+
 
 <p>
 En réalité, c’est parce que si l’on décompose ces deux ondes avec la série de Fourier, nous remarquerons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
