@@ -11,6 +11,7 @@
        * L'onde sonore
        * L'analyse de Fourier et le timbre
    * Expérience
+       * Les outils d'enregistrement
 * [Test](test.md)
 * [Annexe](annexe.md)
 
