@@ -20,4 +20,5 @@
 * [Annexe](annexe.md)
 * Les théories mathématico-musicales autour de la consonance
    * La théorie d’Euler: associer des degrés de douceur aux accords
+   * La théorie de d’Alembert: une première notion des harmoniques
 
