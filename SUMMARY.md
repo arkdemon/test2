@@ -22,6 +22,6 @@
    * La théorie d’Helmholtz: quantifier la dissonance
 * Explications
 * [Test](chapitres/test.md)
-* Conclusion
+* [Conclusion](chapitres/Conclusion.md)
 * [Annexe](chapitres/Annexe.md)
 
