@@ -15,6 +15,7 @@
        * Étude de cas sur l'accord parfait majeur
    * L’intensité et la hauteur
    * Superpositions de plusieurs notes
+   * L’analyse des coups et l’analyse de Fourier
 * [Test](test.md)
 * [Annexe](annexe.md)
 
