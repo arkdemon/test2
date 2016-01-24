@@ -6,7 +6,7 @@ This file file serves as your book's preface, a great place to describe your boo
 When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are
 $$x = { \frac{-b \pm \sqrt{b^2-4ac}}{2a}}.$$
 
-Test
+<style="color:red">Test</style>
 
 $$\frac{1}{2}$$
 
