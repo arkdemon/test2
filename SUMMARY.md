@@ -8,7 +8,7 @@
        * [Classification des consonances par les musiciens](chapitres/IB2_classification_des_consonances_par_les_musiciens.md)
 * Approche Physique
    * Des généralités sur le son
-       * [L'onde sonore](chapitres/IIA_londe_sonore.md)
+       * [L'onde sonore](chapitres/IIA1_londe_sonore.md)
        * [L'analyse de Fourier et le timbre](chapitres/IIA2_lanalyse_de_fourier_et_le_timbre.md)
    * Expérience
        * [Les outils d'enregistrement](chapitres/IIB1_les_outils_denregistrement.md)
