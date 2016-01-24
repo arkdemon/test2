@@ -9,7 +9,7 @@
 * Approche Physique
    * Des généralités sur le son
        * [L'onde sonore](IIA_londe_sonore.md)
-       * L'analyse de Fourier et le timbre
+       * [L'analyse de Fourier et le timbre](IIA2_lanalyse_de_fourier_et_le_timbre.md)
    * Expérience
        * Les outils d'enregistrement
        * Étude de cas sur l'accord parfait majeur
