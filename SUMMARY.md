@@ -8,5 +8,5 @@
    * [Sondage Introductif](IA_sondage_introductif.md)
    * Théorie Musicale
        * [Comment classifier les intervalles et les accords](IB1_comment_classifier_les_intervalles_et_les_accords.md)
-       * Classification des consonances par les musiciens
+       * [Classification des consonances par les musiciens](IB2_classification_des_consonances_par_les_musiciens.md)
 
