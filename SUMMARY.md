@@ -19,4 +19,5 @@
 * [Test](test.md)
 * [Annexe](annexe.md)
 * Les théories mathématico-musicales autour de la consonance
+   * La théorie d’Euler: associer des degrés de douceur aux accords
 
