@@ -12,4 +12,4 @@
 
 
 ![](./img/icon.jpg)
-<img src="../img/icon.jpg" width="50px" height="50px" />
+<img src="./img/icon.jpg" width="50px" height="50px" />
