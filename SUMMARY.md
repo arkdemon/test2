@@ -15,7 +15,7 @@
        * [Étude de cas sur l'accord parfait majeur](chapitres/IIB2_etude_de_cas_sur_laccord_parfait_majeur.md)
    * [L’intensité et la hauteur](chapitres/IIC_lintensite_et_la_hauteur.md)
    * [Superpositions de plusieurs notes](chapitres/IID_superpositions_de_plusieurs_notes.md)
-* Les théories mathématico-musicales autour de la consonance
+* [Les théories mathématico-musicales autour de la consonance](chapitres/III_les_theories_mathematico-musicales_autour_de_la_co.md)
    * [La théorie d’Euler: associer des degrés de douceur aux accords](chapitres/IIIA_la_theorie_deuler_associer_des_degres_de_douceur_a.md)
    * [La théorie de d’Alembert: une première notion des harmoniques](chapitres/IIIB_la_theorie_de_dalembert_une_premiere_notion_des_ha.md)
    * [La théorie d’Helmholtz: quantifier la dissonance](chapitres/IIIC_la_theorie_dhelmholtz_quantifier_la_dissonance.md)
