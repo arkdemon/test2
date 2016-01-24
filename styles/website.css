@@ -10,4 +10,16 @@ p {
     text-align:;"justify";
 }
 
+h1 {
+    color: rgb(152,0,0);
+}
+
+h2 {
+    color: rgb(0, 60, 0);
+}
+
+h3 {
+    color: rgb(0, 40, 100);
+}
+
 background: rgba(255, 255, 255, 0.5);
