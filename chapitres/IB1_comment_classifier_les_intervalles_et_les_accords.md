@@ -168,5 +168,5 @@
 	Mais un accord n’est pas entièrement déterminé que par son chiffrage. En effet, les musiciens ont remarqué que si l’on permute l’ordre des notes, la “structure” de l’accord reste la même, c’est ce que l’on appelle en musique un renversement. Par exemple, l’accord mi, sol, do est un renversement de l’accord pris au départ do, mi, sol. Ainsi, l’accord n’est pas en réalité une simple succession de notes mais plutôt leur structure invariante par permutation de l’ordre des notes qui les constituent ou renversements. Par exemple les deux renversements cités plus haut représentent en réalité le même accord: l’accord parfait majeur.
 </p>
 <p>&nbsp;&nbsp;
-	C’est ainsi que l’on classifie un accord et cette classification met en évidence des différences entre les accords, différences qui peuvent liées à la  consonance et dissonance.
+	C’est ainsi que l’on classifie un accord et cette classification met en évidence des différences entre les accords, différences qui peuvent liées à la consonance et dissonance.
 </p>
