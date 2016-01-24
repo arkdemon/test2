@@ -1,2 +1,0 @@
-# Les outils d'enregistrement
-
