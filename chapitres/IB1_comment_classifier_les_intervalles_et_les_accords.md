@@ -159,7 +159,7 @@
 <p>&nbsp;&nbsp;Comme nous l&rsquo;avons vu pr&eacute;c&eacute;demment, un accord est la superposition d&rsquo;au moins trois notes. Il est dit arp&eacute;g&eacute; si elles sont jou&eacute;es successivement, et plaqu&eacute; si elles sont jou&eacute;es simultan&eacute;ment. Un accord est donc la superposition de plusieurs intervalles. Pour les noter, on reporte l&rsquo;intervalle form&eacute; entre chaque note de l&rsquo;accord et la note la plus grave: la basse. Par exemple, pour un accord form&eacute; des notes do, mi et sol, la basse est do, donc nous reportons l&rsquo;intervalle entre do et mi, une tierce majeure (not&eacute;e 3) et do et sol, une quinte juste (not&eacute;e 5). nous empilons donc ces nombres les uns sur les autres, ce qui nous donne le chiffrage de l&rsquo;accord. Ainsi, si un musicien conna&icirc;t la basse et le chiffrage d&rsquo;un accord, il pourra le d&eacute;duire sans ambigu&iuml;t&eacute;.</p>
 
 ![](../img/chiffrage d'accords.png)
-<p align="center"><em>Exemple de chiffrage d'accords</em></p>
+<p><em>Exemple de chiffrage d'accords</em></p>
 
 <p>&nbsp;&nbsp;
 	Un accord est dit classé lorsqu’il est réductible à une superposition de tierce. Les accords classés de trois notes, aussi appelés triades, comprennent donc la note fondamentale, sa tierce et sa quinte. Les accords à quatre notes comprennent une triade à laquelle nous ajoutons l’intervalle de septième (majeure ou mineure) ou la sixte majeure. Les accords de cinq notes ou plus comprennent en plus de l’accord de quatre notes, la seconde, la quarte ou la sixte.
