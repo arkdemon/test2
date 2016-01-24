@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](chapitres/Introduction.md)
 * Notions
    * [Sondage Introductif](chapitres/IA_sondage_introductif.md)
    * Théorie Musicale
