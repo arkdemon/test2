@@ -17,7 +17,7 @@
    * [Superpositions de plusieurs notes](chapitres/IID_superpositions_de_plusieurs_notes.md)
    * [L’analyse des coups et l’analyse de Fourier](chapitres/IIE_lanalyse_des_coups_et_lanalyse_de_fourier.md)
 * Les théories mathématico-musicales autour de la consonance
-   * La théorie d’Euler: associer des degrés de douceur aux accords
+   * [La théorie d’Euler: associer des degrés de douceur aux accords](chapitres/IIIA_la_theorie_deuler_associer_des_degres_de_douceur_a.md)
    * La théorie de d’Alembert: une première notion des harmoniques
    * La théorie d’Helmholtz: quantifier la dissonance
 * Explications
