@@ -59,8 +59,13 @@ avec pides nombres premiers et kides coefficients entiers positifs. nous pouvons
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Puis, en prenant le tableau pr&eacute;c&eacute;dent et n&rsquo;y laissant que les consonances et dissonances, nous retrouvons cette classification:</p>
+<center>
+<p>
+</p>
 
 ![](../img/image12.gif)
+
+</center>
 <p><em>Tableau 6.2: les intervalles classiques avec leur degr&eacute; de douceur correspondants</em></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
