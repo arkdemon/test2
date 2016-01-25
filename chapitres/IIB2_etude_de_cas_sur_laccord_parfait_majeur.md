@@ -219,10 +219,10 @@ Choix de la période avec le programme Regavi
 </p>
 
 <p>&nbsp;&nbsp;
-	Nous constatons que ces fréquences correspondent approximativement à une suite arithmétique de raison 40, donc qu’elles correspondent aux harmoniques du spectre d’un son dont la fréquence fondamentale est 40 Hz. La note correspondante à cette fréquence est donc la même que celle de 320 Hz (320=8*40). En étudiant l’intervalle entre cette fréquence et celle du La3 (440Hz) nous obtenons le rapport $$\frac{440}{320}$$ ~ $$\frac{4}{3}$$ donc leur intervalle est une quarte. La note inconnue est donc une quarte en dessous du La3, soit le Mi3, donc la note est un Mi (ceci est justifié puisque si l’on regarde la fréquence du Mi0, nous trouvons une fréquence de 41,2 Hz). Toutes les harmoniques de l’accord correspondent à celle du Mi0, ce qui justifie appellation de cette note comme fondamentale de l’accord.
+	Nous constatons que ces fréquences correspondent approximativement à une suite arithmétique de raison $$40$$, donc qu’elles correspondent aux harmoniques du spectre d’un son dont la fréquence fondamentale est $$40Hz$$. La note correspondante à cette fréquence est donc la même que celle de $$320Hz$$ ($$320=8*40$$). En étudiant l’intervalle entre cette fréquence et celle du La3 ($$440Hz$$) nous obtenons le rapport $$\frac{440}{320} \approx \frac{4}{3}$$ donc leur intervalle est une quarte. La note inconnue est donc une quarte en dessous du La3, soit le Mi3, donc la note est un Mi (ceci est justifié puisque si l’on regarde la fréquence du Mi0, nous trouvons une fréquence de $$41.2 Hz$$). Toutes les harmoniques de l’accord correspondent à celle du Mi0, ce qui justifie appellation de cette note comme fondamentale de l’accord.
 </p>
 <p>&nbsp;&nbsp;
-	En particulier, les notes de l’accord joué correspondent aux 4e, 5e et 6e harmoniques du spectre du Mi0 (75Hz). Ainsi nous pouvons penser que la raison de la consonance de cet accord est qu’il est constitué des premières harmoniques d’une note, le rendant ainsi plus naturel à notre oreille
+	En particulier, les notes de l’accord joué correspondent aux 4e, 5e et 6e harmoniques du spectre du Mi0 ($$75Hz$$). Ainsi nous pouvons penser que la raison de la consonance de cet accord est qu’il est constitué des premières harmoniques d’une note, le rendant ainsi plus naturel à notre oreille.
 </p>
 <p>A FINIR</p>
 
