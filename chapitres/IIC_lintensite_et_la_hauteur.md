@@ -43,7 +43,7 @@ On peut expliquer ce ph&eacute;nom&egrave;ne en supposant que la fonction d&rsqu
 <tbody>
 <tr>
 <td>
-<strong><p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p></strong>
+<p><strong>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</strong></p>
 </td>
 </tr>
 </tbody>
