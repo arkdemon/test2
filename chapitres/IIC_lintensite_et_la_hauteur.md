@@ -42,4 +42,4 @@ On peut expliquer ce ph&eacute;nom&egrave;ne en supposant que la fonction d&rsqu
 </p>
 
 <table><tbody><tr><td><p><strong>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</strong></p></td></tr></tbody></table>
-<p align="center"><em> Représentation schématique d’un son par des coups </em></p>
+<p><em> Représentation schématique d’un son par des coups </em></p>
