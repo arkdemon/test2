@@ -30,7 +30,8 @@ Le terme “micro” est utilisé dans le cadre d’un instrument électrique, n
 <p>
 </p>
 
-![](../img/Image 3.png)
+<img src="../img/Image 3.png" alt="Mountain View" style="width:304px;height:228px;">
+
 <p><em> Image d’une barre de six capteurs électromagnétiques de guitare électrique </em></p>
 
 ![](../img/Image 4.png)
