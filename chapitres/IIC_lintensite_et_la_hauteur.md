@@ -39,13 +39,5 @@ On peut expliquer ce ph&eacute;nom&egrave;ne en supposant que la fonction d&rsqu
 <p>Pour les sons, nous partons du principe &agrave; chaque fois que le signal sonore correspondant est p&eacute;riodique, donc nous pouvons associer &agrave; un son des &ldquo;coups,&rdquo; c&rsquo;est &agrave; dire un &eacute;v&egrave;nement p&eacute;riodique dont la p&eacute;riode est celle du signal. Cette consid&eacute;ration en terme de coups a donc un fondement physique.
 </p>
 
-<table>
-<tbody>
-<tr>
-<td>
-<p><strong>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</strong></p>
-</td>
-</tr>
-</tbody>
-</table>
+<table><tbody><tr><td><p><strong>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</strong></p></td></tr></tbody></table>
 <p align="center"><em> Représentation schématique d’un son par des coups </em></p>
