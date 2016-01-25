@@ -35,8 +35,7 @@ Tout microphone possède un diaphragme, aussi appelé membrane, qui est poussé 
 <p>
 </p>
 
-<img src="../img/Image 3.png" alt="Mountain View" style="width:304px;height:228px;">
-
+![](../img/Image 3.png)
 <p><em> Image d’une barre de six capteurs électromagnétiques de guitare électrique </em></p>
 
 ![](../img/Image 4.png)
