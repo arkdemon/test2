@@ -24,9 +24,7 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 
 
 <center>
-<p>
-d
-</p>
+
 
 
 ![](../img/fig 1.1.jpeg)
@@ -51,18 +49,22 @@ Bien que plusieurs sons aient la même hauteur, nous arrivons à les différenci
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 3.2.wav{% endaimg %}
 
-
-<p>&nbsp;&nbsp;
+<center>
+<p align="left">&nbsp;&nbsp;
 En réalité, c’est parce que si l’on décompose ces deux ondes avec la série de Fourier, nous remarquerons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
 </p>
+
+
 
 ![](../img/fig 5.1.png)
 
 ![](../img/fig 5.2.png)
 
+</center>
 <p>&nbsp;&nbsp;
 Le son le plus pur correspond donc à une onde sinusoïdale. Une interprétation musicale de l’analyse de Fourier est que toute onde périodique peut être décomposée en une superposition de sons purs dont les fréquences sont multiples de la fréquence fondamentale. La complexité d’un son résulte du nombre de sons pur qui le composent (dont les intensités sont non négligeables) jusqu’à produire le son blanc lorsque toutes les harmoniques ont plus ou moins la même intensité
 </p>
+
 <p>&nbsp;&nbsp;
 Ici nous abordons donc la pureté d’un son. Ainsi plus le son est pur, plus il est agréable à écouter comme nous l’avons remarqué avec les enregistrement. Nous faisons les premiers pas dans une explication physique et mathématiques de la consonance, et nous introduisons un outil important pour comprendre l’analyse de Fourier.
 </p>
