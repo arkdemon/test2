@@ -24,11 +24,10 @@ Tout microphone possède un diaphragme, aussi appelé membrane, qui est poussé 
 5. Courant électrique
 </font>
 </p>
+
 <p>
 </p>
-
-
-
+</center>
 <p align="left">&nbsp;&nbsp;
 Le terme “micro” est utilisé dans le cadre d’un instrument électrique, notamment la guitare électrique, la basse électrique et le piano électrique. Ceux-ci ne sont pas des microphones, mais des capteurs électromagnétiques. Ces capteurs fonctionnent de manière similaire aux microphones dynamiques, avec un aimant et un métal, l’aimant se rapprochant et s’éloignant du métal. Les cordes (ou plaques métalliques dans le cas du piano électrique), magnétiques, jouent le rôle de la bobine, et vibrent lorsqu’elles génèrent un son. Ce mouvement des cordes relatif à l’aimant crée des variations dans le champs magnétique, qui est ensuite enregistré par une bobine entourant l’aimant. Ces systèmes sont utilisés dans les instruments électriques car ils contournent des problèmes liés à l’effet Larsen (l’effet Larsen est un effet d’amplification d’un son à une certaine fréquence, créé lorsqu’un microphone capture le son émis par l'amplificateur qui lui est lié, créant une boucle, le son s’amplifiant à chaque fois). Pour contourner des interférences potentielles dans le champs magnétique de l’aimant, un système avec deux capteurs électromagnétiques est souvent employé, dont les sens de polarité des aimants sont inversés. Dans ce cas, les interférences s’annulent, mais les variations liés au déplacement de la corde ou de la plaque métallique s’ajoutent.</p>
 <center>
