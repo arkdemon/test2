@@ -1,2 +1,179 @@
 # Annexe
 
+<p>
+	Dans le but de connaître la réaction intuitive d’une personne face à différents accords, nous avons décidé de mettre en place un sondage, au cours duquel nous allons faire écouter les enregistrements de différents accords à une assistance (qui pourra être notre classe, notre famille ou des amis), à qui nous allons poser une série de question qui aura pour but de vérifier si la notion de consonance des musicien est bien partagée par le grand public.
+</p>
+<p>
+	<strong>
+		<strong>
+			 
+		</strong>
+	</strong>
+</p>
+<p>
+	<strong>
+		Matériel:
+	</strong>
+</p>
+<p>
+	<strong>
+		<strong>
+			 
+		</strong>
+	</strong>
+</p>
+<ul>
+	<li>
+		Enregistrements réalisés au préalable
+	</li>
+	<li>
+		Sujets / camarades de classe
+	</li>
+	<li>
+		Questions suivante: Quel accord accord vous semble le plus agréable à écouter?
+	</li>
+</ul>
+<p>
+	<strong>
+		<strong>
+			 
+		</strong>
+	</strong>
+</p>
+<p>
+	<strong>
+		Protocole:
+	</strong>
+</p>
+<p>
+	Nous allons donc faire écouter à chaque sujet deux accords, un consonant et l’autre dissonant d’après la théorie musicale. Nous leurs demandons de choisir à chaque fois celui qui leur sonne le mieux et nous comparerons ensuite ces réponses avec nos connaissance de théorie musicale. Voici les accords sur lesquels nous avons testés chaque sujet.
+</p>
+<p>
+	<strong>
+		<strong>
+			 
+		</strong>
+	</strong>
+</p>
+<table>
+	<tbody>
+		<tr>
+			<td>
+				<p>
+					Sujet 1
+				</p>
+			</td>
+			<td>
+				<p>
+					Sujet 2
+				</p>
+			</td>
+			<td>
+				<p>
+					Sujet 3
+				</p>
+			</td>
+			<td>
+				<p>
+					Sujet 4
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					accord parfait majeur;
+				</p>
+				<p>
+					accord parfait mineur
+				</p>
+			</td>
+			<td>
+				<p>
+					accord parfait majeur; accord de 7e de dominante
+				</p>
+			</td>
+			<td>
+				<p>
+					accord parfait mineur; accord de 7e diminuée
+				</p>
+			</td>
+			<td>
+				<p>
+					accord parfait mineur; accord de 7e de dominante
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	<strong>
+		<strong>
+			 
+		</strong>
+	</strong>
+</p>
+<table>
+	<tbody>
+		<tr>
+			<td>
+				<p>
+					Sujet 5
+				</p>
+			</td>
+			<td>
+				<p>
+					Sujet 6
+				</p>
+			</td>
+			<td>
+				<p>
+					Sujet 7
+				</p>
+			</td>
+			<td>
+				<p>
+					Sujet 8
+				</p>
+			</td>
+			<td>
+				<p>
+					Sujet 9
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					accord parfait majeur;
+				</p>
+				<p>
+					accord parfait mineur
+				</p>
+			</td>
+			<td>
+				<p>
+					accord parfait mineur; accord de 7e de dominante
+				</p>
+			</td>
+			<td>
+				<p>
+					accord parfait mineur; accord de 7e mineure
+				</p>
+			</td>
+			<td>
+				<p>
+					accord parfait mineur; accord de 7e de dominante
+				</p>
+			</td>
+			<td>
+				<p>
+					accord parfait majeur;
+				</p>
+				<p>
+					accord de septième majeure
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
