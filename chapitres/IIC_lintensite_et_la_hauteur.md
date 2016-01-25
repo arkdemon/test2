@@ -40,15 +40,15 @@ On peut expliquer ce ph&eacute;nom&egrave;ne en supposant que la fonction d&rsqu
 </p>
 
 <table>
-	<tbody>
-		<tr>
-			<td>
-				<p>
-					- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-				</p>
-			</td>
-		</tr>
-	</tbody>
+<tbody>
+<tr>
+<td>
+<p>
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+</p>
+</td>
+</tr>
+</tbody>
 </table>
 <p align="center">
 	<em>
