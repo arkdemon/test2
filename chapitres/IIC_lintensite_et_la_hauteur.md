@@ -14,9 +14,9 @@ L&rsquo;intensit&eacute; d&rsquo;un son correspond &agrave; la perception de l&r
 
 <p>&nbsp;&nbsp;Lorsque la fonction d&rsquo;onde est p&eacute;riodique dans le temps, notons $$T$$ la p&eacute;riode et $$f$$, sa fr&eacute;quence (l&rsquo;inverse de la p&eacute;riode). Fixons la fonction d&rsquo;onde &agrave; un point de l&rsquo;espace de tel sorte qu&rsquo;elle ne d&eacute;pend plus que du temps, au quel cas nous pouvons la noter $$f(t)$$ avec $$f$$ p&eacute;riodique. Lorsque nous entendons un son, la hauteur per&ccedil;ue correspond &agrave; la fr&eacute;quence. En effet, plus nous augmentons la fr&eacute;quence, plus la hauteur per&ccedil;ue para&icirc;tra aigu&euml;. Par exemple, ces deux enregistrements sont des signaux p&eacute;riodiques de fr&eacute;quences respectives $$440Hz$$ et $$880Hz$$. Si nous les &eacute;coutons, nous percevons bien que le deuxi&egrave;me son est plus aigu que le premier.</p>
 
-{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 1.1.wav{% endaimg %}
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 1.1.wav{% endaimg %}
 
-{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 1.2.wav{% endaimg %}
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 1.2.wav{% endaimg %}
 
 <p>&nbsp;&nbsp;De plus, si l&rsquo;on peut d&eacute;composer l&rsquo;onde p&eacute;riodique en une somme d&rsquo;harmoniques avec la s&eacute;rie de Fourier, alors la hauteur per&ccedil;ue correspondra &agrave; celle de la fr&eacute;quence fondamentale.</p>
 
@@ -24,9 +24,9 @@ L&rsquo;intensit&eacute; d&rsquo;un son correspond &agrave; la perception de l&r
 Mais m&ecirc;me si une onde n&rsquo;est pas p&eacute;riodique nous percevons toujours une hauteur. Par exemple, les deux sons enregistr&eacute;s sont bien de la m&ecirc;me hauteur bien que le deuxi&egrave;me son n&rsquo;est pas p&eacute;riodique.
 </p>
 
-{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 2.1.wav{% endaimg %}
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 2.1.wav{% endaimg %}
 
-{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 2.2.wav{% endaimg %}
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 2.2.wav{% endaimg %}
 
 ![](../img/fig 3.1.jpg)
 
