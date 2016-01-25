@@ -109,11 +109,9 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     On remarque que le principe de l’identité des octaves peut être justifié par la consonance de l’octave, tellement parfaite qu’un musicien considère deux sons qui ont une octave d’écart comme le même son car la consonance des deux est comparable à l’unisson. C’est pourquoi il peut les considérer comme étant la même note.
 </p>
-<p>
-&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
     La dissonance d’un accord dépend donc des intervalles qui les composent. Ainsi, un accord parfait, composé d’une tierce majeur et d’une quinte juste, sera perçue comme consonant. En réalité, c’est l'accord consonant par excellence.
 </p>
-<p>
-&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
     Nous remarquons donc que la consonance peut être classée, et que cette classification évolue au cours de l’histoire. Cette évolution signale un certain degré de subjectivité quant à la perception de la consonance.
 </p>
