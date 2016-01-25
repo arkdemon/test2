@@ -28,6 +28,8 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 </p>
 
 ![](../img/fig 1.1.jpeg)
+<p>
+</p>
 </center>
 <p align="right">&nbsp;&nbsp;
 Lorsque le spectrogramme change en fonction du temps, nous utilisons aussi un sonagramme, où l’on représente le temps en abscisse et les fréquences des harmoniques en ordonnées, et leurs amplitudes relatives sont soit représentées par des codes couleurs, soit en introduisant un nouvel axe pour les amplitude (auquel cas le graphe sera en 3D).
@@ -37,6 +39,8 @@ Lorsque le spectrogramme change en fonction du temps, nous utilisons aussi un so
 </p>
 
 ![](../img/fig 1.2.gif)
+<p>
+</p>
 </center>
 <p>&nbsp;&nbsp;
 On peut généraliser la série de Fourier et l’étendre à une fonction quelconque (comme si elle avait une période infinie), mais ce ne sera alors plus une série discrète d’harmoniques mais une intégrale continue d’harmoniques et pour calculer les amplitudes respectives de chaque partiels il faut désormais utiliser la transformée de Fourier. nous donnerons maintenant une interprétation acoustique de la série de Fourier.
