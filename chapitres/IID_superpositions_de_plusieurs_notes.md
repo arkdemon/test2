@@ -1,5 +1,3 @@
-## Superpositions de plusieurs notes
-
 <p><span style="font-weight: 400;">Maintenant que nous avons vu les trois propri&eacute;t&eacute;s fondamentales d&rsquo;une note (la hauteur, le timbre et l&rsquo;intensit&eacute;) ainsi que leurs grandeurs physique associ&eacute;es, nous savons d&eacute;sormais d&eacute;crire enti&egrave;rement un son. Mais il ne faut pas perdre de vue notre probl&eacute;matique qui se repose sur la consonance des accords, donc il faudra maintenant chercher &agrave; d&eacute;crire ce qui se passe lorsque nous superposons plusieurs sons en m&ecirc;me temps.</span></p>
 <p><span style="font-weight: 400;">Une propri&eacute;t&eacute; remarquable de l&rsquo;&eacute;quation d&rsquo;onde est qu&rsquo;elle est lin&eacute;aire, c&rsquo;est &agrave; dire que si l&rsquo;on a deux solutions, leur somme en est une aussi. Ainsi, pour superposer deux ondes, nous les additionnons simplement et elle ne l'influenceront pas mutuellement, propri&eacute;t&eacute; connue sous le nom du principe de superposition.</span></p>
 <p><span style="font-weight: 400;">Par exemple, superposons deux ondes sinuso&iuml;dales de m&ecirc;me amplitude et de fr&eacute;quence respectives f</span><span style="font-weight: 400;">1</span><span style="font-weight: 400;"> et f</span><span style="font-weight: 400;">2</span><span style="font-weight: 400;"> et de m&ecirc;me phase. Par une identit&eacute; trigonom&eacute;trique, nous calculons que l&rsquo;onde r&eacute;sultante vaut donc:</span></p>
@@ -9,119 +7,11 @@
 <p><a href="https://drive.google.com/open?id=0ByqkMz82VpcTQTNOdXdOTzJ1VUU"><em><span style="font-weight: 400;">fig</span></em></a><em><span style="font-weight: 400;">. 6.1</span></em></p>
 <p><span style="font-weight: 400;">L&rsquo;&eacute;cart entre deux sons peut &ecirc;tre quantifi&eacute; par le rapport des fr&eacute;quences des deux notes consid&eacute;r&eacute;es. nous remarquons que c&rsquo;est une grandeur sans unit&eacute; qui est ind&eacute;pendante de l&rsquo;unit&eacute; de temps que l&rsquo;on choisit au d&eacute;part pour mesurer leurs fr&eacute;quences respectives, donc c&rsquo;est bien une propri&eacute;t&eacute; intrins&egrave;que. &Agrave; chaque intervalle, nous pouvons donc associer un rapport.</span></p>
 <p><strong><strong>&nbsp;</strong></strong></p>
-<table>
-<tbody>
-<tr>
-<td>
-<p><span style="font-weight: 400;">Intervalles</span></p>
-</td>
-<td colspan="2">
-<p><span style="font-weight: 400;">Seconde</span></p>
-</td>
-<td colspan="2">
-<p><span style="font-weight: 400;">Tierce</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Quarte</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Triton</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Quinte</span></p>
-</td>
-<td colspan="2">
-<p><span style="font-weight: 400;">Sixte</span></p>
-</td>
-<td colspan="2">
-<p><span style="font-weight: 400;">Septi&egrave;me</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Octave</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">Qualit&eacute;</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Mineure</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Majeure</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Mineure</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Majeure</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Juste</span></p>
-</td>
-<td>&nbsp;</td>
-<td>
-<p><span style="font-weight: 400;">Juste</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Mineure</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Majeure</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Mineure</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Majeure</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">Juste</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><span style="font-weight: 400;">Rapport</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">10/9</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">9/8</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">6/5</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">5/4</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">4/3</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">&radic;2</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">3/2</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">8/5</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">5/3</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">9/5</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">15/8</span></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">2</span></p>
-</td>
-</tr>
-</tbody>
-</table>
+
+<p>
++ TABLEAU
+</p>
+
 <p><em><span style="font-weight: 400;">Tableau 5: intervalles classiques avec leurs rapports correspondants</span></em></p>
 <p><strong><strong>&nbsp;</strong></strong></p>
 <p><span style="font-weight: 400;">On remarquera la diff&eacute;rence entre une note et un son, puisque la note est attribu&eacute;e &agrave; un son &agrave; une hauteur &agrave; une octave pr&egrave;s. C&rsquo;est &agrave; dire que deux sons espac&eacute;s d&rsquo;un nombre quelconque d&rsquo;octave repr&eacute;sentent la m&ecirc;me note. Autrement dit, le rapport des fr&eacute;quences des deux notes est une puissance de deux. Posons la relation binaire entre deux fr&eacute;quences f f&rsquo;, et d&eacute;finissons la de telle sorte que f et f&rsquo; v&eacute;rifient la relation si et seulement s&rsquo;il existe un entier n (qui peut &ecirc;tre n&eacute;gatif) tel que </span><span style="font-weight: 400;">f=</span><span style="font-weight: 400;">2</span><span style="font-weight: 400;">n</span><span style="font-weight: 400;">f '</span><span style="font-weight: 400;">. Nous pouvons v&eacute;rifier sans peine que la relation est r&eacute;flexive, sym&eacute;trique et transitive, donc est une relation d&rsquo;&eacute;quivalence. Nous pouvons ainsi d&eacute;finir math&eacute;matiquement ce qu&rsquo;est une note: c&rsquo;est une classe d&rsquo;&eacute;quivalence par cette relation.</span></p>
