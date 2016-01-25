@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td>
-<p><b>Correspondance avec la r&eacute;ponse attendue</b></p>
+<p align="center"><b>Correspondance avec la r&eacute;ponse attendue</b></p>
 </td>
 <td><br />
 <p>✔</p>
