@@ -8,7 +8,4 @@ La musique d'un point de vue mathématique et physique
 
 <p>&nbsp;&nbsp;
 L&rsquo;existence de consonance et de dissonance a toujours &eacute;t&eacute; pr&eacute;sente dans la pens&eacute;e des hommesnos esprits. En g&eacute;n&eacute;ral, Nnous y associons une pr&eacute;f&eacute;rence pour un son par rapport &agrave; un autre. Cependant, les raisons de cette pr&eacute;f&eacute;rence ne sont jamais vraiment ne nous ont jamais vraiment &eacute;t&eacute; expliqu&eacute;es. Dans le cadre de ce travail personnel encadr&eacute; &ldquo;TPE&rdquo;, nous nous sommes propos&eacute; d&rsquo;en d&eacute;couvrir les raisons. Nous nous demandons donc pourquoi certains accords nous semblent plus consonant que d&rsquo;autres.</p>
-<center>
-<p>
-</p>
 
