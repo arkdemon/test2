@@ -34,7 +34,7 @@
 </p>
 <p>&nbsp;&nbsp;
 	
-		<br />
+	
 		 Ainsi, nous pouvons dire qu’il existe une explication mathématique et physique à la consonance, et que celle-ci a influencé la théorie musicale. Mais il est aussi évident que l’aspect intuitif de la consonance est à l’origine de la recherche de cette explication et donc de la théorie musicale par extension. Nous pouvons aussi remarquer que malgré toute la réalité de l’approche scientifique, des zones d’ombre qui persistent. En effet la subjectivité est présente: une personne peut préférer un accord communément considéré comme dissonant à un accord considéré comme consonant. Nous pourrions appeler cela “l’aspect humain de la consonance”.
 	
 </p>
