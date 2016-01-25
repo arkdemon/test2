@@ -5,15 +5,18 @@
 
 ![](../img/fig 2.1.png)
 <p><span style="font-weight: 400;">Lorsque la fonction d&rsquo;onde est p&eacute;riodique dans le temps, notons T la p&eacute;riode et f, sa fr&eacute;quence (l&rsquo;inverse de la p&eacute;riode). Fixons la fonction d&rsquo;onde &agrave; un point de l&rsquo;espace de tel sorte qu&rsquo;elle ne d&eacute;pend plus que du temps, au quel cas nous pouvons la noter f(t) avec f p&eacute;riodique. Lorsque nous entendons un son, la hauteur per&ccedil;ue correspond &agrave; la fr&eacute;quence. En effet, plus nous augmentons la fr&eacute;quence, plus la hauteur per&ccedil;ue para&icirc;tra aigu&euml;. Par exemple, ces deux enregistrements sont des signaux p&eacute;riodiques de fr&eacute;quences respectives 440Hz et 880Hz. Si nous les &eacute;coutons, nous percevons bien que le deuxi&egrave;me son est plus aigu que le premier.</span></p>
-<p><a href="https://drive.google.com/open?id=0ByqkMz82VpcTRW92NGJBNVdxZDQ"><em><span style="font-weight: 400;">enregistrement</span></em></a><em><span style="font-weight: 400;"> 1.1</span></em></p>
-<p><a href="https://drive.google.com/open?id=0ByqkMz82VpcTU3BjMy1UNWE2QXc"><em><span style="font-weight: 400;">enregistrement</span></em></a><em><span style="font-weight: 400;"> 1.2</span></em></p>
+
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 1.1.wav{% endaimg %}
+
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 1.2.wav{% endaimg %}
+
 <p><span style="font-weight: 400;">De plus, si l&rsquo;on peut d&eacute;composer l&rsquo;onde p&eacute;riodique en une somme d&rsquo;harmoniques avec la s&eacute;rie de Fourier, alors la hauteur per&ccedil;ue correspondra &agrave; celle de la fr&eacute;quence fondamentale.</span></p>
 
 <p><span style="font-weight: 400;">Mais m&ecirc;me si une onde n&rsquo;est pas p&eacute;riodique nous percevons toujours une hauteur. Par exemple, les deux sons enregistr&eacute;s sont bien de la m&ecirc;me hauteur bien que le deuxi&egrave;me son n&rsquo;est pas p&eacute;riodique.</span></p>
-<p><a href="https://drive.google.com/open?id=0ByqkMz82VpcTeUhCTE1nVllCRlU"><em><span style="font-weight: 400;">enregistrement </span></em></a><em><span style="font-weight: 400;">2.1 &nbsp;</span></em></p>
 
-<p><a href="https://drive.google.com/open?id=0ByqkMz82VpcTak5kU1hXc3NPVE0"><em><span style="font-weight: 400;">enregistrement</span></em> </a><em><span style="font-weight: 400;">2.2</span></em></p>
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 2.1.wav{% endaimg %}
 
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/enregistrement 2.2.wav{% endaimg %}
 
 ![](../img/fig 3.1.jpg)
 
