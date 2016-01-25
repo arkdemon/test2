@@ -7,9 +7,9 @@
 	Voici l'expérience que nous avons réalisé pour tenter d’étudier des vrai sons:
 </p>
 <p>
-	<strong>
+	<strong><u>
 		Matériel:
-	</strong>
+	</u></strong>
 </p>
 <ul>
 	<li >
@@ -23,17 +23,17 @@
 	</li>
 </ul>
 <p>
-	<strong>
+	<strong><u>
 		Protocole:
-	</strong>
+	</u></strong>
 </p>
 <p>
 	Nous allons connecter le microphone à l’ordinateur puis jouer une série de notes, par exemple un do à corde relâchée, un mi, un sol, etc. Une fois les enregistrements réalisés nous jouerons des accords, tels que l’accord de do majeur, ou l’accord de septième diminuée. Après avoir tout enregistré, nous allons vérifier l’exactitude des enregistrements en les comparant à des sons générés par ordinateur censés correspondre aux notes et accords enregistrés. à l’aide du programme Regavi et du programme Regressi.
 </p>
 <p>
-	<strong>
+	<strong><u>
 		Après l’expérience:
-	</strong>
+	</u></strong>
 </p>
 <p>
 	Nous avons rencontré des difficultés pour reproduire les sons sur l’ordinateur, et après consultation auprès du professeur, nous en avons conclu qu’il s’agissait d’un dysfonctionnement du programme utilisé. Nous allons donc utiliser une autre version du programme selon les conseils du professeur de physique.
@@ -53,9 +53,9 @@
 	Cette expérience demande donc à être réitérée ultérieurement. Voici donc notre deuxième expérience que nous avons réalisé. Elle consiste en enregistrant un accord de Mi majeur, puis l’analysant en utilisant un logiciel.
 </p>
 <p>
-	<strong>
+	<strong><u>
 		Matériel:
-	</strong>
+	</u></strong>
 </p>
 <ul>
 	<li >
@@ -72,9 +72,9 @@
 	</li>
 </ul>
 <p>
-	<strong>
+	<strong><u>
 		Protocole:
-	</strong>
+	</u></strong>
 </p>
 <p>
 	Nous allons enregistrer un accord parfait majeur de Mi (Mi2, Sol#2, Si2) joué et enregistré dans un lieu silencieux avec le programme Audacity. La guitare électrique est branchée à l’ordinateur (par le biais de la carte son), utilisant donc les capteurs électromagnétiques intégrés dans la guitare pour enregistrer le son. Les enregistrements seront ensuite transférés au programme Regavi, qui les traitera pour ensuite les envoyer vers le programme Regressi. Ce programme décomposera le signal périodique obtenu grace à l’enregistrement, nous donnant le spectrogramme de l’accord. A l’aide des outils offerts par le programme, nous analyserons le spectrogramme obtenu.
