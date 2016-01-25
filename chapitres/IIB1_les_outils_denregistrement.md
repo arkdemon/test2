@@ -6,11 +6,18 @@ Toute expérience nécessite des outils pour la réaliser, et il est toujours im
 <p>Le microphone dynamique, aussi appelé microphone à bobine mobile, est le plus fréquemment utilisé. Il utilise une bobine qui est attachée à la membrane pour créer ce courant; il vibre donc avec la membrane. Cette bobine est située dans le champ magnétique fixe d’un aimant: leur mouvement relatif génère donc un courant alternatif par induction. Ce type de microphone est très souvent utilisé car aucun courant est requis pour le faire fonctionner.</p>
 
 ![](../img/Image 2.jpg)
-1. Pression acoustique
-2. Diaphragme
-3. Bobine 
-4. Aimant 
+<font size="1.75">
+1. Pression acoustique&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2. Diaphragme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+3. Bobine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+4. Aimant &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 5. Courant électrique
+</font>
+
+<p>
+</p>
+
+
 
 <p>&nbsp;&nbsp;
 Le terme “micro” est utilisé dans le cadre d’un instrument électrique, notamment la guitare électrique, la basse électrique et le piano électrique. Ceux-ci ne sont pas des microphones, mais des capteurs électromagnétiques. Ces capteurs fonctionnent de manière similaire aux microphones dynamiques, avec un aimant et un métal, l’aimant se rapprochant et s’éloignant du métal. Les cordes (ou plaques métalliques dans le cas du piano électrique), magnétiques, jouent le rôle de la bobine, et vibrent lorsqu’elles génèrent un son. Ce mouvement des cordes relatif à l’aimant crée des variations dans le champs magnétique, qui est ensuite enregistré par une bobine entourant l’aimant. Ces systèmes sont utilisés dans les instruments électriques car ils contournent des problèmes liés à l’effet Larsen (l’effet Larsen est un effet d’amplification d’un son à une certaine fréquence, créé lorsqu’un microphone capture le son émis par l'amplificateur qui lui est lié, créant une boucle, le son s’amplifiant à chaque fois). Pour contourner des interférences potentielles dans le champs magnétique de l’aimant, un système avec deux capteurs électromagnétiques est souvent employé, dont les sens de polarité des aimants sont inversés. Dans ce cas, les interférences s’annulent, mais les variations liés au déplacement de la corde ou de la plaque métallique s’ajoutent.</p>
