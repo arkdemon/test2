@@ -9,7 +9,14 @@ En 1731, Euler &eacute;crit un essai sur la musique appel&eacute; <em>Essai d'un
 <p>&nbsp;&nbsp;
 Tout d&rsquo;abord, Euler va d&eacute;finir une &eacute;chelle de &ldquo;bont&eacute;&rdquo;. Pour cela, il va reprendre la th&eacute;orie de la co&iuml;ncidence des coups. Sachant que les coups d&rsquo;une note correspondent &agrave; un niveau de pression, le temps &eacute;coul&eacute; entre deux coups successifs correspondra &agrave; la p&eacute;riode de l&rsquo;onde sonore associ&eacute;e &agrave; la note, et le nombre de coups par unit&eacute; de temps &agrave; la fr&eacute;quence. La th&eacute;orie dit qu&rsquo;un intervalle est d'autant plus consonant que le temps entre deux co&iuml;ncidences cons&eacute;cutives de coups est court. Autrement dit un intervalle est plus consonant si la fr&eacute;quence de coups co&iuml;ncidents est &eacute;lev&eacute; (nombre de coups co&iuml;ncidents par unit&eacute; de temps).
 </p>
-<p>&nbsp;&nbsp;Coups 1</p>
+<center>
+<p>
+</p>
+
+![](../img/fig 3.1.jpg)
+<p>
+</p>
+</center>
 <p>&nbsp;&nbsp;
 Une note jou&eacute;e seule, ou deux notes &agrave; l'unisson, donnent l'ordre le plus simple. Cela correspond &agrave; l&rsquo;intervalle entre deux m&ecirc;mes sons (1 et 1). Il r&eacute;pond au rapport $$1:1$$ et correspond au premier degr&eacute; de douceur d&rsquo;Euler. Puis, arrive l&rsquo;octave (1 et 2) de rapport $$1:2$$; qui correspond au deuxi&egrave;me degr&eacute; de douceur. Les rapports $$1:3$$ et $$1:4$$ correspondent &agrave; la quinte de l'octave sup&eacute;rieure et &agrave; la double octave et sont regroup&eacute;s dans le 3e degr&eacute; de douceur.</p>
 <p>&nbsp;&nbsp;Euler attache ensuite le degr&eacute; $$n+1$$ au rapport $$1:2n$$, c&rsquo;est &agrave; dire qu&rsquo;&agrave; chaque puissance de 2 est attach&eacute; le degr&eacute; sup&eacute;rieur. </p>
