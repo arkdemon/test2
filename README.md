@@ -4,12 +4,12 @@ La musique d'un point de vue mathématique et physique
 
 
 
-<p>
+<p><strong>
 <font size="5">
 Mesure et art :
 </font>
 </p>
-<p>
+<p><strong>
 <font size="4">
 musique, métrique poétique, architecture (nombre d'or, etc.), arts plastiques (couleurs, illusions d'optique, etc.), etc.
 </font>
