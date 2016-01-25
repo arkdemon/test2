@@ -18,9 +18,10 @@
 ![](../img/fig 3.1.tiff)
 
 <p><span style="font-weight: 400;">Mais si l&rsquo;on compare de plus pr&egrave;s les deux oscillogrammes, nous nous rendons compte qu&rsquo;au voisinage d&rsquo;un instant, l&rsquo;oscillogramme du deuxi&egrave;me enregistrement para&icirc;t p&eacute;riodique et partage la m&ecirc;me p&eacute;riode que le premier.</span></p>
-xaWdDRGc"><em><span style="font-weight: 400;">fig</span></em></a><em><span style="font-weight: 400;">. 4.1</span></em></p>
 
-<p><a href="https://drive.google.com/open?id=0ByqkMz82VpcTc0wtY2lCT2ZRNjg"><em><span style="font-weight: 400;">fig</span></em></a><em><span style="font-weight: 400;">. 4.2</span></em></p>
+![](../img/fig 4.1.tiff)
+
+![](../img/fig 4.2.tiff)
 <p><span style="font-weight: 400;">On peut expliquer ce ph&eacute;nom&egrave;ne en supposant que la fonction d&rsquo;onde du deuxi&egrave;me enregistrement est un signal p&eacute;riodique &agrave; amplitude variable, c&rsquo;est &agrave; dire qu&rsquo;il peut &ecirc;tre &eacute;crit par exemple f(t)=A(t)*g(t), o&ugrave; g est p&eacute;riodique. Ainsi, bien que son enveloppe ne soit pas p&eacute;riodique, nous pouvons quand m&ecirc;me associer une fr&eacute;quence &agrave; l&rsquo;onde.</span></p>
 <p><span style="font-weight: 400;">Pour les sons, nous partons du principe &agrave; chaque fois que le signal sonore correspondant est p&eacute;riodique, donc nous pouvons associer &agrave; un son des &ldquo;coups,&rdquo; c&rsquo;est &agrave; dire un &eacute;v&egrave;nement p&eacute;riodique dont la p&eacute;riode est celle du signal. Cette consid&eacute;ration en terme de coups a donc un fondement physique.</span></p>
 <p>&nbsp;</p>
