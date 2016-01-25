@@ -6,10 +6,14 @@ Consid&eacute;rons la note en terme de coups, c&rsquo;est &agrave; dire que la f
 <p>&nbsp;&nbsp;
 On remarque que pour que deux coups des notes co&iuml;ncident &agrave; nouveau, il faut que le rapport des fr&eacute;quences soit rationnel. Sans perte de g&eacute;n&eacute;ralit&eacute;, choisissons l&rsquo;unit&eacute; de temps telle que la fr&eacute;quence de la premi&egrave;re note soit 1 (si la fr&eacute;quence de la deuxi&egrave;me note est $$f$$, alors leur rapport est $$f$$), et disons qu&rsquo;au temps $$t=0$$, les coups des deux notes co&iuml;ncident. Alors, les instants $$t$$ o&ugrave; l&rsquo;on a un coup de la premi&egrave;re sont de la forme $$n$$ ($$n$$ entier) et les coups de la deuxi&egrave;me sont aux instants $$m/f$$ ($$m$$ est entier). Ainsi, pour que les coups co&iuml;ncident &agrave; nouveau, cela veut dire qu&rsquo;il existe un instant $$t$$ tel que $$t=n=m/f$$ (o&ugrave; $$m$$ et $$n$$ sont des entiers non nuls), ce qui &eacute;quivaut &agrave; $$f=m/n$$, ce qui veut dire que f est rationnel. Ainsi nous avons d&eacute;montr&eacute; que pour que les coups co&iuml;ncident &agrave; nouveau il faut et suffit que le rapport de fr&eacute;quence des deux notes soit rationnel (on dit aussi qu&rsquo;elles sont commensurables). nous pouvons g&eacute;n&eacute;raliser cela &agrave; plus de trois notes ce qui nous int&eacute;ressera plus puisque cela correspondra &agrave; des accords. Ainsi si l&rsquo;on compare les coups de $$n$$ notes, tous leurs coups co&iuml;nciderons si et seulement si leurs fr&eacute;quences sont deux &agrave; deux commensurables. Dor&eacute;navant, nous consid&eacute;rerons donc uniquement des rapports de fr&eacute;quences rationnels. Une cons&eacute;quence de cette propri&eacute;t&eacute; est que l&rsquo;on peut donc toujours choisir une &eacute;chelle de temps telle que les fr&eacute;quences des deux notes soient enti&egrave;res, puisque partant du de l&rsquo;&eacute;chelle que l&rsquo;on a choisi dans la d&eacute;monstration, il suffit de la multiplier par le d&eacute;nominateur de la fraction.
 </p>
+<center>
+<p>
+</p>
 
-TODO
-<p>Coups 2</p>
-
+![](../../img/Coups 2.PNG)
+<p>
+</p>
+</center>
 <p><em>Repr&eacute;sentation de deux notes par leurs coups dont le rapport des fr&eacute;quences est 3/4</em></p>
 
 TODO a modifier le paragraphe suivant
