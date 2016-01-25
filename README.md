@@ -2,6 +2,9 @@ La musique d'un point de vue mathématique et physique
 =======
 
 <h1>Introduction</h1>
+
+##Theème :  Mesure et art : musique, métrique poétique, architecture (nombre d'or, etc.), arts plastiques (couleurs, illusions d'optique, etc.), etc.
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     L’existence de consonance et de dissonance a toujours été présente dans nos esprits. Nous associons à la consonance la préférence d’un son par rapport à un autre. Cependant, les raisons de cette préférence ne sont jamais vraiment  expliquées. Dans le cadre de ce Travail Personnel Encadré (“TPE”), nous nous sommes proposé d’en découvrir les raisons. Nous nous demandons donc pourquoi certains accords nous semblent plus consonant que d’autres.
 </p>
