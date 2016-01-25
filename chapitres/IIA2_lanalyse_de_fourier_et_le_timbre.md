@@ -28,7 +28,7 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 
 
 ![](../img/fig 1.1.jpeg)
-
+</center>
 
 
 
