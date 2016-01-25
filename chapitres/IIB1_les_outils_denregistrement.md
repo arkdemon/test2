@@ -12,7 +12,7 @@ Tout microphone possède un diaphragme, aussi appelé membrane, qui est poussé 
 
 ![](../img/Image 2.jpg)
 <p>
-<font size="1.75">
+<font size="1">
 1. Pression acoustique&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 2. Diaphragme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 3. Bobine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
