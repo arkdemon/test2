@@ -13,7 +13,7 @@ Par exemple, superposons deux ondes sinuso&iuml;dales de m&ecirc;me amplitude et
 A\sin(2 \pi f_1 t)+ A\sin(2 \pi f_2 t) = 2 A \sin(2 \pi \frac{f_1+f_2}{2}t) cos(2 \pi \frac{f_1-f_2}{2}t)
 $$
 </p>
-<p>&nbsp;&nbsp;On remarque que lorsque les deux fr&eacute;quences tendent l&rsquo;une vers l&rsquo;autre, le facteur sin(2&pi;(f1+f22)t) tend vers une onde dont la fr&eacute;quence est proche des deux de d&eacute;part (c&rsquo;est leur moyenne). Le facteur cos(2&pi;(f1-f22)t)  tend vers une onde dont la fr&eacute;quence est tr&egrave;s petite lorsque les deux fr&eacute;quences se rapprochent. Ainsi, c&rsquo;est une onde dont l&rsquo;enveloppe a une p&eacute;riode tr&egrave;s longue. Cette grande enveloppe se traduit par une modulation d&rsquo;amplitude du son r&eacute;sultant, ce qui est tr&egrave;s d&eacute;sagr&eacute;able &agrave; l&rsquo;oreille, et l&rsquo;on appelle ce ph&eacute;nom&egrave;ne les battements. Par exemple, cet enregistrement est la superposition de deux sons de fr&eacute;quences voisines (440 Hz et 450 Hz), et l&rsquo;on entend tr&egrave;s clairement les battements.
+<p>&nbsp;&nbsp;On remarque que lorsque les deux fr&eacute;quences tendent l&rsquo;une vers l&rsquo;autre, le facteur $$\sin(2 \pi \frac{f_1+f_2}{2}t)$$ tend vers une onde dont la fr&eacute;quence est proche des deux de d&eacute;part (c&rsquo;est leur moyenne). Le facteur $$cos(2 \pi \frac{f_1-f_2}{2}t)$$  tend vers une onde dont la fr&eacute;quence est tr&egrave;s petite lorsque les deux fr&eacute;quences se rapprochent. Ainsi, c&rsquo;est une onde dont l&rsquo;enveloppe a une p&eacute;riode tr&egrave;s longue. Cette grande enveloppe se traduit par une modulation d&rsquo;amplitude du son r&eacute;sultant, ce qui est tr&egrave;s d&eacute;sagr&eacute;able &agrave; l&rsquo;oreille, et l&rsquo;on appelle ce ph&eacute;nom&egrave;ne les battements. Par exemple, cet enregistrement est la superposition de deux sons de fr&eacute;quences voisines ($$440 Hz$$ et $$450 Hz$$), et l&rsquo;on entend tr&egrave;s clairement les battements.
 </p>
 
 <p>&nbsp;&nbsp;<a href="https://drive.google.com/open?id=0ByqkMz82VpcTaFlUUGZnYkNzMW8"><em>enregistrement</em> </a><em>4.1</em></p>
@@ -21,7 +21,7 @@ $$
 <p>&nbsp;&nbsp;L&rsquo;&eacute;cart entre deux sons peut &ecirc;tre quantifi&eacute; par le rapport des fr&eacute;quences des deux notes consid&eacute;r&eacute;es. nous remarquons que c&rsquo;est une grandeur sans unit&eacute; qui est ind&eacute;pendante de l&rsquo;unit&eacute; de temps que l&rsquo;on choisit au d&eacute;part pour mesurer leurs fr&eacute;quences respectives, donc c&rsquo;est bien une propri&eacute;t&eacute; intrins&egrave;que. &Agrave; chaque intervalle, nous pouvons donc associer un rapport.</p>
 <p>&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
 
-TODO + TABLEAU
+TODO TABLEAU
 
 <p>&nbsp;&nbsp;<em>Tableau 5: intervalles classiques avec leurs rapports correspondants</em></p>
 <p>&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
