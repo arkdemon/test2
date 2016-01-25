@@ -17,18 +17,23 @@
 <p>$$D = \frac{3600*(f-264)^2}{(900+(f-264)^2)^2}$$</p>
 
 <p>&nbsp;&nbsp;Et en multipliant l&rsquo;&eacute;nergie des battements (E) par D, nous obtenons la dissonance de deux sons simples. nous avons pour f variant de 296 &agrave; 396Hz, (qui correspond &agrave; la courbe 1:1 dans le graphique)</p>
-<p>&nbsp;&nbsp;Image 9</p>
-<p>&nbsp;&nbsp;<strong><strong><br /><br /></strong></strong></p>
-<p>&nbsp;&nbsp;Jusqu&rsquo;&agrave; pr&eacute;sent, nous avons &eacute;tudi&eacute; la dissonance de deux sons simples. Pour obtenir la dissonance de deux sons en dents de scie, ce qui correspond au timbre d&rsquo;un instrument &agrave; cordes frott&eacute;es, il faut maintenant additionner les partiels des deux sons concern&eacute;s (Helmholtz prendra les 10 premiers harmoniques).</p>
+
+![](../img/image9.png)
+
+<p>&nbsp;&nbsp;
+Jusqu&rsquo;&agrave; pr&eacute;sent, nous avons &eacute;tudi&eacute; la dissonance de deux sons simples. Pour obtenir la dissonance de deux sons en dents de scie, ce qui correspond au timbre d&rsquo;un instrument &agrave; cordes frott&eacute;es, il faut maintenant additionner les partiels des deux sons concern&eacute;s (Helmholtz prendra les 10 premiers harmoniques).</p>
 <p>&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
-<p>&nbsp;&nbsp;Maintenant, lorsque l&rsquo;on fait varier f entre 264 et 528 (=2*264; puisque la note se retrouve entre le do et le do une octave au-dessus) nous pouvons remplacer f par f1*k (k varie entre 1 et 2 et correspond donc au rapport f/f1), soit 264*k. nous pouvons calculer la dissonance entre deux harmoniques des deux sons (la m1-&egrave;me du premier, de fr&eacute;quence 264, et la m2-&egrave;me du second, de fr&eacute;quence f) gr&acirc;ce &agrave; cette formule:</p>
-<p>&nbsp;&nbsp;Image 10</p>
-<p>&nbsp;&nbsp;<strong><strong><br /><br /></strong></strong></p>
-<p>&nbsp;&nbsp;(o&ugrave; 3.14 correspond &agrave; pi, dissh la dissonance de deux partiels et A est une constante)</p>
-<p>&nbsp;&nbsp;Pour k variant de 1 &agrave; 2, et m1et m2variant de 1 &agrave; 10 chacun, car nous prendrons les 10 premiers harmoniques (et A qui ici vaut 0.1), nous obtenons graphiquement:</p>
-<p>&nbsp;&nbsp;Image 11</p>
-<p>&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
-<p>&nbsp;&nbsp;La th&eacute;orie de Helmholtz est fond&eacute;e sur l&rsquo;&eacute;tude des battements. D&rsquo;apr&egrave;s lui, la dissonance entre deux sons simple est &eacute;gal au produit de l&rsquo;&eacute;nergie des battements par la duret&eacute; propre de l&rsquo;accord, la duret&eacute; propre &eacute;tant obtenue &agrave; partir de l&rsquo;&eacute;cart de fr&eacute;quences des deux sons. Pour obtenir la dissonance de deux sons complexes, il suffit d&rsquo;additionner la dissonance de leurs harmoniques. nous obtenons en m&ecirc;me temps les accords consonants, car ils correspondent aux accords de dissonance faible.</p>
-<p>&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
+<p>&nbsp;&nbsp;Maintenant, lorsque l&rsquo;on fait varier $$f$$ entre $$264$$ et $$528$$ ($$=2*264$$; puisque la note se retrouve entre le do et le do une octave au-dessus) nous pouvons remplacer $$f$$ par $$f_1*k$$ ($$k$$ varie entre 1 et 2 et correspond donc au rapport $$f/f_1$$), soit $$264*k$$. nous pouvons calculer la dissonance entre deux harmoniques des deux sons (la $$m_1$$-&egrave;me du premier, de fr&eacute;quence $$264$$, et la $$m_2$$-&egrave;me du second, de fr&eacute;quence $$f$$) gr&acirc;ce &agrave; cette formule:</p>
+
+![](../img/image10.png)
+
+<p>(o&ugrave; $$3.14$$ correspond &agrave; $$\pi$$, dissh la dissonance de deux partiels et $$A$$ est une constante)</p>
+<p>&nbsp;&nbsp;Pour $$k$$ variant de $$1$$ &agrave; $$2$$, et $$m_1$$ et $$m_2$$ variant de $$1$$ &agrave; $$10$$ chacun, car nous prendrons les 10 premiers harmoniques (et $$A$$ qui ici vaut $$0.1$$), nous obtenons graphiquement:</p>
+
+![](../img/image11.png)
+
+<p>&nbsp;&nbsp;La th&eacute;orie de Helmholtz est fond&eacute;e sur l&rsquo;&eacute;tude des battements. D&rsquo;apr&egrave;s lui, la dissonance entre deux sons simple est &eacute;gal au produit de l&rsquo;&eacute;nergie des battements par la duret&eacute; propre de l&rsquo;accord, la duret&eacute; propre &eacute;tant obtenue &agrave; partir de l&rsquo;&eacute;cart de fr&eacute;quences des deux sons. Pour obtenir la dissonance de deux sons complexes, il suffit d&rsquo;additionner la dissonance de leurs harmoniques. nous obtenons en m&ecirc;me temps les accords consonants, car ils correspondent aux accords de dissonance faible.
+</p>
+
 <p>&nbsp;&nbsp;Nous avons ainsi vu comment trois scientifiques expliquent la consonance: Euler en associant des degr&eacute;s de douceur aux rapports de fr&eacute;quence justifi&eacute;s par la co&iuml;ncidence des coups; D&rsquo;Alembert par des constats, et Helmholtz par les battements. Toutefois, leur th&eacute;ories sont d&rsquo;une certaine mesure arbitraires, car ils ne se fondent pas sur des hypoth&egrave;ses commun&eacute;ment accept&eacute;es. </p>
 <p>&nbsp;&nbsp;<br /><br /></p>
