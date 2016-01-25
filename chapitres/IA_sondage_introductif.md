@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td>
-<p align="center"><b>Correspondance avec la r&eacute;ponse attendue</b></p>
+<p><b>Correspondance avec la r&eacute;ponse attendue</b></p>
 </td>
 <td><br />
 <p>✔</p>
@@ -72,7 +72,9 @@
 </tr>
 </tbody>
 </table>
-<p align="center"><em>Tableau 1.1: r&eacute;sultat du sondage</em></p>
+<center>
+<p><em>Tableau 1.1: r&eacute;sultat du sondage</em></p>
+</center>
 &nbsp;
 <table>
 <tbody>
@@ -94,7 +96,9 @@
 </tr>
 </tbody>
 </table>
-<p align="center"><em>Tableau 1.2: statistiques du sondage</em></p>
+<center>
+<p><em>Tableau 1.2: statistiques du sondage</em></p>
+</center>
 &nbsp;
 <p>&nbsp;&nbsp;Nous remarquons que les participants sont en grande majorit&eacute; d&rsquo;accord avec nos attentes sur la consonance d&rsquo;un accord. Ceci nous montre donc que tout le monde a une conception intuitive de la consonance bien que non musicien. Cette conception est en majorit&eacute; en accord avec la th&eacute;orie musicale.</p>
 <p><br /><br /></p>
