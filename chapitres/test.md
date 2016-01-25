@@ -3,10 +3,11 @@ This file file serves as your book's preface, a great place to describe your boo
 When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are
 $$x = { \frac{-b \pm \sqrt{b^2-4ac}}{2a}}.$$
 
-
+Latex:
 $$\frac{1}{2}$$
 
-{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/audio1.wav{% endaimg %}
+Son:
+{% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,./audio/FICHERAUDIO.wav{% endaimg %}
 
 > **Note** Il est intéressant de voir que 
 
