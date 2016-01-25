@@ -83,11 +83,9 @@
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/accord parfait majeur de Mi.wav"{% endaimg %}
 
 ![](../img/Image 5.png)
-<p>
-		<em>
-			Choix de la période avec le programme Regavi
-		</em>
-</p>
+<p><em>
+Choix de la période avec le programme Regavi
+</em></p>
 
 ![](../img/Image 6.png)
 <p><em>Spectrogramme  de la fréquence en kHz par rapport à l’amplitude obtenu avec Regressi</em></p>
