@@ -103,7 +103,9 @@ A l’inverse de la consonance, la dissonance sonne mal, ‘blesse’ les oreill
 	</tbody>
 </table>
 
-<p align="center"><em> Tableau 3: classification des consonances (communément acceptées) </em></p>
+<center>
+<p><em> Tableau 3: classification des consonances (communément acceptées) </em></p>
+</center>
 <p>&nbsp;&nbsp;
 On remarque que le principe de l’identité des octaves peut être justifié par la consonance de l’octave, tellement parfaite qu’un musicien considère deux sons qui ont une octave d’écart comme le même son car la consonance des deux est comparable à l’unisson. C’est pourquoi il peut les considérer comme étant la même note.
 </p>
