@@ -24,18 +24,15 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 
 
 <center>
-
-
+<p>
+</p>
 
 ![](../img/fig 1.1.jpeg)
 </center>
-
-
-
 <p align="right">&nbsp;&nbsp;
 Lorsque le spectrogramme change en fonction du temps, nous utilisons aussi un sonagramme, où l’on représente le temps en abscisse et les fréquences des harmoniques en ordonnées, et leurs amplitudes relatives sont soit représentées par des codes couleurs, soit en introduisant un nouvel axe pour les amplitude (auquel cas le graphe sera en 3D).
 </p>
-</center>
+
 
 ![](../img/fig 1.2.gif)
 
