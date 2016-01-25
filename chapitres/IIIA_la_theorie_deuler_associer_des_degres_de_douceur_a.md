@@ -47,6 +47,10 @@ avec pides nombres premiers et kides coefficients entiers positifs. nous pouvons
 
 <p>&nbsp;&nbsp;
     Dans une deuxi&egrave;me partie de l&rsquo;essai, Euler fait une &eacute;tude math&eacute;matique des harmoniques, dans lequel il justifie la consonance. Son &eacute;tude se base sur le calcul du $$PPCM$$ d&rsquo;un accord, qu&rsquo;il appelle exposant. Il obtient d&rsquo;abord un classement des consonances repr&eacute;sent&eacute; sur le tableau ci-dessous o&ugrave; les caract&egrave;res gras repr&eacute;sentent les rapports des consonances et ceux soulign&eacute;s, aux dissonances traditionnelles:</p>
+<center>
+<p>
+</p>
+
 
 ![](../img/image7.gif)
 
