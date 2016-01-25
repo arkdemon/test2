@@ -11,9 +11,7 @@ On remarque que pour que deux coups des notes co&iuml;ncident &agrave; nouveau, 
 </p>
 
 ![](../../img/Coups 2.PNG)
-<font size="1">
 <p><em>Repr&eacute;sentation de deux notes par leurs coups dont le rapport des fr&eacute;quences est 3/4</em></p>
-</font>
 </center>
 TODO a modifier le paragraphe suivant
 
