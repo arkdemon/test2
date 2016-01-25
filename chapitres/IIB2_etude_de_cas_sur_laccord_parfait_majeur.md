@@ -1,9 +1,9 @@
 ### Étude de cas sur l'accord parfait majeur
 
-<p>&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Notre oreille réussit à décomposer des bruits très complexes, qui sont des mélanges de nombreux sons. Nous pouvons réaliser une analyse similaire grâce à un logiciel. Afin de comprendre les différences de consonance entre deux accords, nous avons décidé d’étudier des vrai sons, et non des sons générés par un logiciel informatique. Pour ce faire, nous avons enregistré des notes et des accords de guitare électrique pour pouvoir les analyser et les comparer.
 </p>
-<p>&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Voici l'expérience que nous avons réalisé pour tenter d’étudier des vrai sons:
 </p>
 <p>
@@ -27,7 +27,7 @@
 		Protocole:
 	</u></strong>
 </p>
-<p>&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Nous allons connecter le microphone à l’ordinateur puis jouer une série de notes, par exemple un do à corde relâchée, un mi, un sol, etc. Une fois les enregistrements réalisés nous jouerons des accords, tels que l’accord de do majeur, ou l’accord de septième diminuée. Après avoir tout enregistré, nous allons vérifier l’exactitude des enregistrements en les comparant à des sons générés par ordinateur censés correspondre aux notes et accords enregistrés. à l’aide du programme Regavi et du programme Regressi.
 </p>
 <p>
@@ -35,10 +35,10 @@
 		Après l’expérience:
 	</u></strong>
 </p>
-<p>&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Nous avons rencontré des difficultés pour reproduire les sons sur l’ordinateur, et après consultation auprès du professeur, nous en avons conclu qu’il s’agissait d’un dysfonctionnement du programme utilisé. Nous allons donc utiliser une autre version du programme selon les conseils du professeur de physique.
 </p>
-<p>&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Nous somme confrontés à un autre problème. Après réflexion, nous avons constaté l’invalidité de nos enregistrements, dû à deux facteurs:
 </p>
 <ul>
@@ -49,7 +49,7 @@
 		Nous avons collé le microphone à la caisse de résonance, nous avons donc enregistré non pas les sons générés par la corde, mais les vibrations de la plaque en plastique couvrant la caisse de résonance.
 	</li>
 </ul>
-<p>&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Cette expérience demande donc à être réitérée ultérieurement. Voici donc notre deuxième expérience que nous avons réalisé. Elle consiste en enregistrant un accord de Mi majeur, puis l’analysant en utilisant un logiciel.
 </p>
 <p>
@@ -76,7 +76,7 @@
 		Protocole:
 	</u></strong>
 </p>
-<p>&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Nous allons enregistrer un accord parfait majeur de Mi (Mi2, Sol#2, Si2) joué et enregistré dans un lieu silencieux avec le programme Audacity. La guitare électrique est branchée à l’ordinateur (par le biais de la carte son), utilisant donc les capteurs électromagnétiques intégrés dans la guitare pour enregistrer le son. Les enregistrements seront ensuite transférés au programme Regavi, qui les traitera pour ensuite les envoyer vers le programme Regressi. Ce programme décomposera le signal périodique obtenu grace à l’enregistrement, nous donnant le spectrogramme de l’accord. A l’aide des outils offerts par le programme, nous analyserons le spectrogramme obtenu.
 </p>
 
@@ -218,10 +218,10 @@ Choix de la période avec le programme Regavi
 	</em>
 </p>
 
-<p>&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Nous constatons que ces fréquences correspondent approximativement à une suite arithmétique de raison $$40$$, donc qu’elles correspondent aux harmoniques du spectre d’un son dont la fréquence fondamentale est $$40Hz$$. La note correspondante à cette fréquence est donc la même que celle de $$320Hz$$ ($$320=8*40$$). En étudiant l’intervalle entre cette fréquence et celle du La3 ($$440Hz$$) nous obtenons le rapport $$\frac{440}{320} \approx \frac{4}{3}$$ donc leur intervalle est une quarte. La note inconnue est donc une quarte en dessous du La3, soit le Mi3, donc la note est un Mi (ceci est justifié puisque si l’on regarde la fréquence du Mi0, nous trouvons une fréquence de $$41.2 Hz$$). Toutes les harmoniques de l’accord correspondent à celle du Mi0, ce qui justifie appellation de cette note comme fondamentale de l’accord.
 </p>
-<p>&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
     En particulier, les notes de l’accord joué correspondent aux 4e, 5e et 6e harmoniques du spectre du Mi0 ($$75Hz$$). Ainsi nous pouvons penser que la cause de la consonance de cet accord est qu’il est constitué des premières harmoniques d’une note, le rendant ainsi plus naturel à notre oreille. En effet, nous entendons toujours ces harmoniques lorsque nous écoutons la note fondamentale: cela sera expliquée plus tard.
 </p>
 
