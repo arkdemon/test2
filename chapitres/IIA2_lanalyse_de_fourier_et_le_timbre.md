@@ -32,7 +32,7 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 </p>
 </center>
 <p align="right">&nbsp;&nbsp;
-Lorsque le spectrogramme change en fonction du temps, nous utilisons aussi un sonagramme, où l’on représente le temps en abscisse et les fréquences des harmoniques en ordonnées, et leurs amplitudes relatives sont soit représentées par des codes couleurs, soit en introduisant un nouvel axe pour les amplitude (auquel cas le graphe sera en 3D).
+    Lorsque le spectrogramme change en fonction du temps, nous utilisons aussi un sonagramme, où l’on représente le temps en abscisse et les fréquences des harmoniques en ordonnées, et leurs amplitudes relatives sont soit représentées par des codes couleurs, soit en introduisant un nouvel axe pour les amplitude (auquel cas le graphe sera en 3D).
 </p>
 <center>
 <p>
@@ -43,10 +43,10 @@ Lorsque le spectrogramme change en fonction du temps, nous utilisons aussi un so
 </p>
 </center>
 <p>&nbsp;&nbsp;
-On peut généraliser la série de Fourier et l’étendre à une fonction quelconque (comme si elle avait une période infinie), mais ce ne sera alors plus une série discrète d’harmoniques mais une intégrale continue d’harmoniques et pour calculer les amplitudes respectives de chaque partiels il faut désormais utiliser la transformée de Fourier. nous donnerons maintenant une interprétation acoustique de la série de Fourier.
+    On peut généraliser la série de Fourier et l’étendre à une fonction quelconque (comme si elle avait une période infinie), mais ce ne sera alors plus une série discrète d’harmoniques mais une intégrale continue d’harmoniques et pour calculer les amplitudes respectives de chaque partiels il faut désormais utiliser la transformée de Fourier. nous donnerons maintenant une interprétation acoustique de la série de Fourier.
 </p>
 <p>&nbsp;&nbsp;
-Bien que plusieurs sons aient la même hauteur, nous arrivons à les différencier. Par exemple, la note d’une guitare et d’un piano sont distinguables, mettant en évidence une nouvelle caractéristique du son: le timbre. Cette caractéristique permet d’établir la pureté d’un son. Par exemple, le premier enregistrement est plus pur que le deuxième même s’ils ont la même hauteur.
+    Bien que plusieurs sons aient la même hauteur, nous arrivons à les différencier. Par exemple, la note d’une guitare et d’un piano sont distinguables, mettant en évidence une nouvelle caractéristique du son: le timbre. Cette caractéristique permet d’établir la pureté d’un son. Par exemple, le premier enregistrement est plus pur que le deuxième même s’ils ont la même hauteur.
 </p>
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 3.1.wav"{% endaimg %}
@@ -56,7 +56,7 @@ Bien que plusieurs sons aient la même hauteur, nous arrivons à les différenci
 
 
 <p>&nbsp;&nbsp;
-En réalité, c’est parce que si l’on décompose ces deux ondes avec la série de Fourier, nous remarquerons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
+    En réalité, c’est parce que si l’on décompose ces deux ondes avec la série de Fourier, nous remarquerons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
 </p>
 
 
@@ -67,9 +67,9 @@ En réalité, c’est parce que si l’on décompose ces deux ondes avec la sér
 
 
 <p>&nbsp;&nbsp;
-Le son le plus pur correspond donc à une onde sinusoïdale. Une interprétation musicale de l’analyse de Fourier est que toute onde périodique peut être décomposée en une superposition de sons purs dont les fréquences sont multiples de la fréquence fondamentale. La complexité d’un son résulte du nombre de sons pur qui le composent (dont les intensités sont non négligeables) jusqu’à produire le son blanc lorsque toutes les harmoniques ont plus ou moins la même intensité
+    Le son le plus pur correspond donc à une onde sinusoïdale. Une interprétation musicale de l’analyse de Fourier est que toute onde périodique peut être décomposée en une superposition de sons purs dont les fréquences sont multiples de la fréquence fondamentale. La complexité d’un son résulte du nombre de sons pur qui le composent (dont les intensités sont non négligeables) jusqu’à produire le son blanc lorsque toutes les harmoniques ont plus ou moins la même intensité
 </p>
 
 <p>&nbsp;&nbsp;
-Ici nous abordons donc la pureté d’un son. Ainsi plus le son est pur, plus il est agréable à écouter comme nous l’avons remarqué avec les enregistrement. Nous faisons les premiers pas dans une explication physique et mathématiques de la consonance, et nous introduisons un outil important pour comprendre l’analyse de Fourier.
+    Ici nous abordons donc la pureté d’un son. Ainsi plus le son est pur, plus il est agréable à écouter comme nous l’avons remarqué avec les enregistrement. Nous faisons les premiers pas dans une explication physique et mathématiques de la consonance, et nous introduisons un outil important pour comprendre l’analyse de Fourier.
 </p>
