@@ -14,7 +14,12 @@ où $$f0$$ est la fréquence fondamentale (donc $$\frac{1}{T}$$) et les coeffici
 	$$
 	ak=\frac{2}{T} \int_{\frac{-T}{2}}^{\frac{T}{2}} f(x) \cos(k x)dx
 	$$
-	et $$
+</p>
+<p>
+	et
+</p>
+<p>
+$$
 	bk=\frac{2}{T} \int_{\frac{-T}{2}}^{\frac{T}{2}} f(x) \sin(k x)dx
 	$$
 </p>
