@@ -22,8 +22,8 @@
 * [Explications](chapitres/IV_explications.md)
    * [L’analyse des coups et l’analyse de Fourier](chapitres/chapitres/IVA_alanalyse_des_coups_et_lanalyse_de_fourier_md.md)
    * [Exploitation des résultats](chapitres/IVB_exploitation_des_resultats.md)
-* [Test](chapitres/test.md)
 * [Conclusion](chapitres/Conclusion.md)
+* [Test](chapitres/test.md)
 * [Annexe](chapitres/Annexe.md)
 * Synthèses Personnelles
    * Adrien
