@@ -15,11 +15,14 @@
 
 <p><a href="https://drive.google.com/open?id=0ByqkMz82VpcTak5kU1hXc3NPVE0"><em><span style="font-weight: 400;">enregistrement</span></em> </a><em><span style="font-weight: 400;">2.2</span></em></p>
 
+
 ![](../img/fig 3.1.tiff)
 
 <p><span style="font-weight: 400;">Mais si l&rsquo;on compare de plus pr&egrave;s les deux oscillogrammes, nous nous rendons compte qu&rsquo;au voisinage d&rsquo;un instant, l&rsquo;oscillogramme du deuxi&egrave;me enregistrement para&icirc;t p&eacute;riodique et partage la m&ecirc;me p&eacute;riode que le premier.</span></p>
 
+
 ![](../img/fig 4.1.tiff)
+
 
 ![](../img/fig 4.2.tiff)
 <p><span style="font-weight: 400;">On peut expliquer ce ph&eacute;nom&egrave;ne en supposant que la fonction d&rsquo;onde du deuxi&egrave;me enregistrement est un signal p&eacute;riodique &agrave; amplitude variable, c&rsquo;est &agrave; dire qu&rsquo;il peut &ecirc;tre &eacute;crit par exemple f(t)=A(t)*g(t), o&ugrave; g est p&eacute;riodique. Ainsi, bien que son enveloppe ne soit pas p&eacute;riodique, nous pouvons quand m&ecirc;me associer une fr&eacute;quence &agrave; l&rsquo;onde.</span></p>
