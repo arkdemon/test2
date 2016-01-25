@@ -9,7 +9,7 @@ La musique d'un point de vue mathématique et physique
 	La musique est un art qui produit des sons. Les musiciens ont donc cherché à retrouver ces sons qui sonnent bien à l’oreille; c’est ainsi qu’ils ont défini la consonance. Ce terme vient du verbe latin “consono”, composé du préfixe con, signifiant “avec”, et de son radical sono, “entendre”; la consonance signifie donc “entendre avec” et est étymologiquement opposé à la dissonance, qui serait “entendre séparément”. Son étymologie nous apporte une idée de sa signification. “Entendre avec” suggère l’idée de plusieurs sons, s’associant bien entre eux et qui produisent au final un seul son agréable. Cette perception agréable serait causée par le rapport privilégié qu’ils partagent.
 </p>
 <p>
-	<strong>
+	
 		Dans le but de vérifier cette intuition, nous nous pencherons sur les aspects mathématique et physique de cette question, et ses liens avec la musique.
-	</strong>
+	
 </p>
