@@ -16,6 +16,7 @@ Toute expérience nécessite des outils pour la réaliser, et il est toujours im
 3. Bobine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 4. Aimant &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 5. Courant électrique
+
 </font>
 
 <p>
