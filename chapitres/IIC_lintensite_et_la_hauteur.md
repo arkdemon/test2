@@ -43,11 +43,9 @@ On peut expliquer ce ph&eacute;nom&egrave;ne en supposant que la fonction d&rsqu
 <tbody>
 <tr>
 <td>
-<p>
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-</p>
+<p>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p align="center"><em>Représentation schématique d’un son par des coups</em></p>
+<p align="center"><em> Représentation schématique d’un son par des coups </em></p>
