@@ -21,9 +21,7 @@ $$
 <p>&nbsp;&nbsp;L&rsquo;&eacute;cart entre deux sons peut &ecirc;tre quantifi&eacute; par le rapport des fr&eacute;quences des deux notes consid&eacute;r&eacute;es. nous remarquons que c&rsquo;est une grandeur sans unit&eacute; qui est ind&eacute;pendante de l&rsquo;unit&eacute; de temps que l&rsquo;on choisit au d&eacute;part pour mesurer leurs fr&eacute;quences respectives, donc c&rsquo;est bien une propri&eacute;t&eacute; intrins&egrave;que. &Agrave; chaque intervalle, nous pouvons donc associer un rapport.</p>
 <p>&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
 
-<p>&nbsp;&nbsp;
-+ TABLEAU
-</p>
+TODO + TABLEAU
 
 <p>&nbsp;&nbsp;<em>Tableau 5: intervalles classiques avec leurs rapports correspondants</em></p>
 <p>&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
