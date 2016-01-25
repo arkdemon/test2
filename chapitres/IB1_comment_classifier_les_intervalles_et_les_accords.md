@@ -15,7 +15,6 @@
 <li style="font-weight: 400;">si l'on ajoute un demi-ton chromatique &agrave; un intervalle majeur il devient augment&eacute;.</li>
 </ul>
 <p><strong><strong>&nbsp;</strong></strong></p>
-<font size="10">
 <table>
 <tbody>
 <tr>
@@ -158,7 +157,6 @@
 </tr>
 </tbody>
 </table>
-</font>
 <center>
 <p><em>Tableau 2: quelques intervalles classiques et leurs demi-tons correspondants</em></p>
 </center>
