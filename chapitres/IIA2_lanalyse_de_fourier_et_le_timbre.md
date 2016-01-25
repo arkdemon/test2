@@ -31,7 +31,7 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 <p>
 </p>
 </center>
-<p align="right">&nbsp;&nbsp;
+<p>&nbsp;&nbsp;
     Lorsque le spectrogramme change en fonction du temps, nous utilisons aussi un sonagramme, où l’on représente le temps en abscisse et les fréquences des harmoniques en ordonnées, et leurs amplitudes relatives sont soit représentées par des codes couleurs, soit en introduisant un nouvel axe pour les amplitude (auquel cas le graphe sera en 3D).
 </p>
 <center>
