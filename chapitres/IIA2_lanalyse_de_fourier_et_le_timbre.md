@@ -15,7 +15,7 @@ où $$f0$$ est la fréquence fondamentale (donc $$\frac{1}{T}$$) et les coeffici
 	ak=\frac{2}{T} \int_{\frac{-T}{2}}^{\frac{T}{2}} f(x) \cos(k x)dx
 	$$
 </p>
-<p>
+<p align="center">
 	et
 </p>
 <p>
