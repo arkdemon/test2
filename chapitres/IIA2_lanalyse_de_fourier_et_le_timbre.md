@@ -27,7 +27,7 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 <p>
 </p>
 
-![](../img/fig 1.1.jpeg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../img/fig 1.1.jpeg)
 <p>
 </p>
 </center>
