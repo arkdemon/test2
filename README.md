@@ -2,7 +2,7 @@ La musique d'un point de vue mathématique et physique
 =======
 
 
-<center>
+
 
 <p>
 <font size="5">
@@ -14,7 +14,7 @@ Mesure et art :
 musique, métrique poétique, architecture (nombre d'or, etc.), arts plastiques (couleurs, illusions d'optique, etc.), etc.
 </font>
 </p>
-</center>
+
 
 <h1>Introduction</h1>
 
