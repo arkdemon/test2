@@ -4,12 +4,7 @@
 L&rsquo;intensit&eacute; d&rsquo;un son correspond &agrave; la perception de l&rsquo;amplitude de la fonction d&rsquo;onde, c&rsquo;est &agrave; dire la variation maximale de la pression. Ainsi, elle se mesure en Pascal dans le Syst&egrave;me International d&rsquo;unit&eacute;. L&rsquo;amplitude peut changer au cours du temps, et pour visualiser cela, nous utilisons les enveloppes, c&rsquo;est &agrave; dire que l&rsquo;on prend la courbe qui passe par les maximas locaux (enveloppe sup&eacute;rieure) et celle qui passe par les minimas locaux (enveloppe inf&eacute;rieure). En faisant la diff&eacute;rence des deux &agrave; un instant, nous obtenons l&rsquo;amplitude de l&rsquo;onde &agrave; cet instant.
 </p>
 
-
-
-
-
 ![](../img/fig 2.1.png)
-
 
 
 <p>&nbsp;&nbsp;Lorsque la fonction d&rsquo;onde est p&eacute;riodique dans le temps, notons $$T$$ la p&eacute;riode et $$f$$, sa fr&eacute;quence (l&rsquo;inverse de la p&eacute;riode). Fixons la fonction d&rsquo;onde &agrave; un point de l&rsquo;espace de tel sorte qu&rsquo;elle ne d&eacute;pend plus que du temps, au quel cas nous pouvons la noter $$f(t)$$ avec $$f$$ p&eacute;riodique. Lorsque nous entendons un son, la hauteur per&ccedil;ue correspond &agrave; la fr&eacute;quence. En effet, plus nous augmentons la fr&eacute;quence, plus la hauteur per&ccedil;ue para&icirc;tra aigu&euml;. Par exemple, ces deux enregistrements sont des signaux p&eacute;riodiques de fr&eacute;quences respectives $$440Hz$$ et $$880Hz$$. Si nous les &eacute;coutons, nous percevons bien que le deuxi&egrave;me son est plus aigu que le premier.</p>
