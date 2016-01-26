@@ -7,8 +7,7 @@
 &nbsp;
 </p>
 
-La musique d'un point de vue mathématique et physique
-=======
+<h6>La musique d'un point de vue mathématique et physique</h6>
 
 <p>
 &nbsp;
