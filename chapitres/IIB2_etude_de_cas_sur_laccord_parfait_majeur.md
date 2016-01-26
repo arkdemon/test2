@@ -50,7 +50,7 @@
 	</li>
 </ul>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Cette expérience demande donc à être réitérée ultérieurement. Voici donc la deuxième expérience que nous avons réalisée : l'enregistrement d'un accord de Mi majeur, puis l’analyse en utilisant un logiciel.
+	Cette expérience demande donc à être réitérée ultérieurement. Voici donc la deuxième expérience que nous avons réalisée : l'enregistrement d'un accord de Mi majeur, puis son analyse en utilisant un logiciel.
 </p>
 <p>
 	<strong><u>
