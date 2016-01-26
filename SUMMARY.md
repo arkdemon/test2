@@ -26,7 +26,7 @@
 * [Annexe](chapitres/Annexe.md)
 * [Test](chapitres/test.md)
 * [Synthèses Personnelles](syntheses_personnelles.md)
-   * Adrien
+   * [Adrien](adrien.md)
    * Alexandre
    * [David](david.md)
    * [Etienne](etienne.md)
