@@ -27,7 +27,7 @@
 * [Test](chapitres/test.md)
 * Synthèses Personnelles
    * Adrien
-   * Alexandre
+   * [Alexandre](chapitres/synthèse_alexandre.md)
    * David
    * Etienne
 
