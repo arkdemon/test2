@@ -35,18 +35,18 @@ table {
     margin-right:auto;*/
 }
 
-.book-summary,.summary,.chapter,.articles {
-    background-color: rgb(102, 204, 255);
-}
-
-.color-theme-1,.color-theme-2{
-    
-}
-
 .chapter {
     color: rgb(0, 51, 204);
 }
 
 .articles {
     color: rgb(0, 102, 255);
+}
+
+.book-summary,.summary,.chapter,.articles {
+    background-color: rgb(102, 204, 255);
+}
+
+.color-theme-1,.color-theme-2{
+    
 }
