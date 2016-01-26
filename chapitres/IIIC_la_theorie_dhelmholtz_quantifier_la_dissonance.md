@@ -17,7 +17,7 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Ce graphique est en accord avec les consonances d&eacute;j&agrave; &eacute;tablies (elles ont des valeurs proches de 0): l&rsquo;unisson (do), l&rsquo;octave (do), la quinte (sol), quarte (fa), sixte majeure (la), tierce majeure (mi), tierce mineure (mib) et sixte mineure (lab). Plus nous nous &eacute;loignons de ces intervalles, plus la dissonance cro&icirc;t rapidement. Cette th&eacute;orie scientifique concorde donc avec le monde de la musique.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Helmholtz parvient &agrave; ces r&eacute;sultats en plusieurs &eacute;tapes. D&rsquo;abord, il calcule l&rsquo;&eacute;nergie o&ugrave; les battements sont maximaux. nous fixons $$f_1$$, la fr&eacute;quence de r&eacute;f&eacute;rence par rapport &agrave; quoi nous allons calculer la dissonance d&rsquo;autres notes de fr&eacute;quence $$f$$. Cela correspond au do dont la fr&eacute;quence est $$264Hz$$ dans notre cas. L&rsquo;&eacute;cart des deux fr&eacute;quences, $$f - f_1 = f - 264$$.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
