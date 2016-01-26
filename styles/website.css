@@ -10,11 +10,11 @@ p {
     text-align:"justify";
 }
 
-h1 {
+h1, .chapter {
     color: rgb(152,0,0);
 }
 
-h2 {
+h2, .articles {
     color: rgb(0, 125, 0);
 }
 
