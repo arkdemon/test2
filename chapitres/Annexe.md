@@ -36,34 +36,34 @@
 	<tbody>
 		<tr>
 			<td>
-				<p>
+				<p><strong>
 					Sujet 1
-				</p>
+				</p></strong>
 			</td>
 			<td>
-				<p>
+				<p><strong>
 					Sujet 2
-				</p>
+				</p></strong>
 			</td>
 			<td>
-				<p>
+				<p><strong>
 					Sujet 3
-				</p>
+				</p></strong>
 			</td>
 			<td>
-				<p>
+				<p><strong>
 					Sujet 4
-				</p>
+				</p></strong>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<p>
-					accord parfait majeur;
-				</p>
-				<p>
+				<p><strong>
+					accord parfait majeur
+				</p></strong>
+				<p><strong>
 					accord parfait mineur
-				</p>
+				</p></strong>
 			</td>
 			<td>
 				<p>
@@ -88,39 +88,39 @@
 	<tbody>
 		<tr>
 			<td>
-				<p>
+				<p><strong>
 					Sujet 5
-				</p>
+				</p></strong>
 			</td>
 			<td>
-				<p>
+				<p><strong>
 					Sujet 6
-				</p>
+				</p></strong>
 			</td>
 			<td>
-				<p>
+				<p><strong>
 					Sujet 7
-				</p>
+				</p></strong>
 			</td>
 			<td>
-				<p>
+				<p><strong>
 					Sujet 8
-				</p>
+				</p></strong>
 			</td>
 			<td>
-				<p>
+				<p><strong>
 					Sujet 9
-				</p>
+				</p></strong>
 			</td>
 		</tr>
 		<tr>
 			<td>
-				<p>
+				<p><strong>
 					accord parfait majeur;
-				</p>
-				<p>
+				</p></strong>
+				<p><strong>
 					accord parfait mineur
-				</p>
+				</p></strong>
 			</td>
 			<td>
 				<p>
