@@ -1,32 +1,17 @@
 # Etienne
 
-<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Lors de toute la démarche de notre groupe pour trouver, étudier et puis rédiger notre Travail Personnel Encadré, plusieurs problèmes sont apparues.  Pourtant, ce long travail c’est très bien passé, et peu de problèmes entre les membres du groupe sont apparus.  Cette cohérence du groupe m’a aidé à mieux travailler, et à le faire avec plus d’entrain et d’enthousiasme.  Ceci m’a aussi permis de beaucoup apprendre, tout en restant dans la bonne humeur et en ayant beaucoup d'entrain.
 </p>
-<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Ce projet est devenu important dès la première séance de TPE à l’école, dans laquelle nous avons tenté de choisir les groupes.  Cette étape, assez difficile à cause des nombreuses connaissances que l’on avait dans la classe, à pris une grande coordination hors de la classe entre la première et la deuxième semaine.  La composition du groupe était très importante pour son fonctionnement.  Composé de quatre personnes, chacun avait ces forces qu’on à pu utiliser pour obtenir le résultat final du Travail.  Adrien, qui à beaucoup de connaissances physiques et mathématiques externes et avancées, à beaucoup aidé le groupe au début lors du choix de sujet, et ensuite pour le préciser.  Le choix du sujet à pris beaucoup de temps, car nous avions beaucoup d’idées, et à chaque fois que l’on décidait d’en prendre un, quelqu’un en suggérait une autre qui semblait plus intéressante.  Nous avons longuement pondérés la possibilité de rédiger un TPE sur l’étude des fourmis, et leur comportement en groupe.  Adrien à ensuite proposé de faire un TPE centré autour de la physique et des mathématiques qui forment la musique.  Ce sujet était parfait pour le groupe, car trois de ses quatre membres sont musiciens (Adrien, Alexandre et moi-même), et nous sommes tous intéressés par les deux matières sur lequel le sujet s'appuie.  Cette étape du projet était un problème pour notre groupe car nous y avons passé beaucoup trop de temps, nous mettant en retard par rapport aux autres groupes.
 </p>
-<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Alexandre, étant un élève très serieux, nous à aidé à bien faire progresser le travail tout au long de sa réalisation.  Il à été particulièrement productif quant à la recherche de certains points très spécifiques du TPE.  D’autre part, David, le dernier membre de notre groupe, pouvait amener certains éléments au TPE qui nous manquaient.  Il est le plus créatif d’entre nous, et à aussi une écriture et un style de rédaction particulier qui était très utile lors de la rédactio des parties généralles du travail, tel que l’introduction et la conclusion.
 </p>
-<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Un point important à mentionner est petits les désaccords  que j’ai pu avoir avec Adrien, car nous avons tous les deux des connaissances un peu plus avancées sur certains sujets, mais nos expériences et savoirs ne sont pas toujours identiques  .  Ces petits problèmes ont étés vite réglés avec un peu de recherche de ma part, ou une intervention des autres membres du groupe pour clarifier la situation pour tout le monde.
 </p>
-<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Au cours du TPE, j’ai découvert de nouveaux aspects des mathématiques et de la physique, qui m’ont toujours interessés, mais pour lesquels je n’avais pas de support pour apprendre.  Cette étude de la musique était pour moi une introduction aux intérgalles, et de leur utilisation mathématique et physique.  Mes recherches individuelles et les informations de tout le groupe m’ont aussi permis d’approfondir un domaine qui m’intéresse de par mon intéret pour la physique et son lien avec les mathématiques, et le fait que je suis musicien.
-</p>
-<p>
-	<br />
-	<br />
-</p>
-<p>
-	Article edited with
-	<a title="HTML5 Editor" href="http://html5-editor.net/">
-		the free online HTML5 editor
-	</a>
-	. Please purchase a
-	<a href="http://htmlg.com" target="_blank" rel="nofollow">
-		HTML G
-	</a>
-	 license to remove this promotional text.
 </p>
