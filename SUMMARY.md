@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [La Consonance](la_consonance.md)
 * [Notions](chapitres/I_notions.md)
    * [Sondage Introductif](chapitres/IA_sondage_introductif.md)
    * [Théorie Musicale](chapitres/IB_theorie_musicale.md)
@@ -30,5 +31,4 @@
    * Alexandre
    * David
    * Etienne
-* [La Consonance](la_consonance.md)
 
