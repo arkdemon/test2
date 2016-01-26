@@ -26,7 +26,9 @@ Tout microphone possède un diaphragme, aussi appelé membrane, qui est poussé 
 5. Courant électrique
 </font>
 </p>
-
+<p>
+&nbsp;
+</p>
 <p>
 </p>
 </center>
