@@ -51,5 +51,5 @@ $$D = \frac{3600*(f-264)^2}{(900+(f-264)^2)^2}$$
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Nous avons ainsi vu comment trois scientifiques expliquent la consonance: Euler en associant des degr&eacute;s de douceur aux rapports de fr&eacute;quences justifi&eacute;s par la co&iuml;ncidence des coups; D&rsquo;Alembert par des constats, et Helmholtz par les battements. Toutefois, leur th&eacute;ories sont d&rsquo;une certaine mesure arbitraires, car ils ne se fondent pas sur des hypoth&egrave;ses commun&eacute;ment accept&eacute;es. </p>
+    Nous avons ainsi vu comment trois scientifiques expliquent la consonance: Euler en associant des degr&eacute;s de douceur aux rapports de fr&eacute;quences justifi&eacute;s par la co&iuml;ncidence des coups; D&rsquo;Alembert par des constats, et Helmholtz par les battements. Toutefois, leurs th&eacute;ories sont d&rsquo;une certaine mesure arbitraires, car ils ne se fondent pas sur des hypoth&egrave;ses commun&eacute;ment accept&eacute;es. </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<br /><br /></p>
