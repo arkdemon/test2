@@ -20,7 +20,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 <tbody>
 <tr>
 <td>
-<p>Intervalles</p>
+<p><strong>Intervalles</strong></p>
 </td>
 <td colspan="2">
 <p>Seconde</p>
@@ -37,7 +37,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 </tr>
 <tr>
 <td>
-<p>demi-tons diatoniques</p>
+<p><strong>Demi-tons diatoniques</strong></p>
 </td>
 <td colspan="2">
 <p>1</p>
@@ -54,7 +54,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 </tr>
 <tr>
 <td>
-<p>Qualit&eacute;</p>
+<p><strong>Qualit&eacute;</strong></p>
 </td>
 <td>
 <p>Mineure</p>
@@ -75,7 +75,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 </tr>
 <tr>
 <td>
-<p>demi-tons chromatiques</p>
+<p><strong>Demi-tons chromatiques</strong></p>
 </td>
 <td>
 <p>0</p>
