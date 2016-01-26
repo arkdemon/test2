@@ -25,119 +25,73 @@ $$
     L&rsquo;&eacute;cart entre deux sons peut &ecirc;tre quantifi&eacute; par le rapport des fr&eacute;quences des deux notes consid&eacute;r&eacute;es. nous remarquons que c&rsquo;est une grandeur sans unit&eacute; qui est ind&eacute;pendante de l&rsquo;unit&eacute; de temps que l&rsquo;on choisit au d&eacute;part pour mesurer leurs fr&eacute;quences respectives, donc c&rsquo;est bien une propri&eacute;t&eacute; intrins&egrave;que. &Agrave; chaque intervalle, nous pouvons donc associer un rapport.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
 
+<p><strong>&nbsp;</strong></p>
 <table>
 <tbody>
 <tr>
 <td>
-<p><strong> Intervalles </strong></p>
+<p><span style="font-weight: 400;">Intervalles</span></p>
 </td>
 <td colspan="2">
-<p>Seconde</p>
+<p><span style="font-weight: 400;">Seconde</span></p>
 </td>
 <td colspan="2">
-<p>Tierce</p>
+<p><span style="font-weight: 400;">Tierce</span></p>
 </td>
 <td>
-<p>Quarte</p>
+<p><span style="font-weight: 400;">Quarte</span></p>
 </td>
 <td>
-<p>Triton</p>
-</td>
-<td>
-<p>Quinte</p>
-</td>
-<td colspan="2">
-<p>Sixte</p>
-</td>
-<td colspan="2">
-<p>Septième</p>
-</td>
-<td>
-<p>Octave</p>
+<p><span style="font-weight: 400;">Triton</span></p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong> Qualité </strong></p>
+<p><span style="font-weight: 400;">Qualit&eacute;</span></p>
 </td>
 <td>
-<p>Mineure</p>
+<p><span style="font-weight: 400;">Mineure</span></p>
 </td>
 <td>
-<p>Majeure</p>
+<p><span style="font-weight: 400;">Majeure</span></p>
 </td>
 <td>
-<p>Mineure</p>
+<p><span style="font-weight: 400;">Mineure</span></p>
 </td>
 <td>
-<p>Majeure</p>
+<p><span style="font-weight: 400;">Majeure</span></p>
 </td>
 <td>
-<p>Juste</p>
+<p><span style="font-weight: 400;">Juste</span></p>
 </td>
-<td></td>
-<td>
-<p>Juste</p>
-</td>
-<td>
-<p>Mineure</p>
-</td>
-<td>
-<p>Majeure</p>
-</td>
-<td>
-<p>Mineure</p>
-</td>
-<td>
-<p>Majeure</p>
-</td>
-<td>
-<p>Juste</p>
-</td>
+<td>&nbsp;</td>
 </tr>
 <tr>
 <td>
-<p><strong> Rapport </strong></p>
+<p><span style="font-weight: 400;">Rapport</span></p>
 </td>
 <td>
-<p>10/9</p>
+<p><span style="font-weight: 400;">10/9</span></p>
 </td>
 <td>
-<p>9/8</p>
+<p><span style="font-weight: 400;">9/8</span></p>
 </td>
 <td>
-<p>6/5</p>
+<p><span style="font-weight: 400;">6/5</span></p>
 </td>
 <td>
-<p>5/4</p>
+<p><span style="font-weight: 400;">5/4</span></p>
 </td>
 <td>
-<p>4/3</p>
+<p><span style="font-weight: 400;">4/3</span></p>
 </td>
 <td>
-<p>$$\sqrt{2}$$</p>
-</td>
-<td>
-<p>3/2</p>
-</td>
-<td>
-<p>8/5</p>
-</td>
-<td>
-<p>5/3</p>
-</td>
-<td>
-<p>9/5</p>
-</td>
-<td>
-<p>15/8</p>
-</td>
-<td>
-<p>2</p>
+<p><span style="font-weight: 400;">&radic;2</span></p>
 </td>
 </tr>
 </tbody>
 </table>
+
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<em>Tableau 5: intervalles classiques avec leurs rapports correspondants</em></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
