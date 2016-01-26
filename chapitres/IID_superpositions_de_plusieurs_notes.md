@@ -30,63 +30,63 @@ $$
 <tbody>
 <tr>
 <td>
-<p><span style="font-weight: 400;">Intervalles</span></p>
+<p><strong>Intervalles</strong></p>
 </td>
 <td colspan="2">
-<p><span style="font-weight: 400;">Seconde</span></p>
+<p>Seconde</p>
 </td>
 <td colspan="2">
-<p><span style="font-weight: 400;">Tierce</span></p>
+<p>Tierce</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Quarte</span></p>
+<p>Quarte</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Triton</span></p>
+<p>Triton</p>
 </td>
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">Qualit&eacute;</span></p>
+<p><strong>Qualit&eacute;</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Mineure</span></p>
+<p>Mineure</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Majeure</span></p>
+<p>Majeure</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Mineure</span></p>
+<p>Mineure</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Majeure</span></p>
+<p>Majeure</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Juste</span></p>
+<p>Juste</p>
 </td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td>
-<p><span style="font-weight: 400;">Rapport</span></p>
+<p><strong>Rapport</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">10/9</span></p>
+<p>10/9</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">9/8</span></p>
+<p>9/8</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">6/5</span></p>
+<p>6/5</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">5/4</span></p>
+<p>5/4</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">4/3</span></p>
+<p>4/3</p>
 </td>
 <td>
-<p><span style="font-weight: 400;">&radic;2</span></p>
+<p>$$\sqrt{2}$$</p>
 </td>
 </tr>
 </tbody>
@@ -96,7 +96,7 @@ $$
 <tbody>
 <tr>
 <td>
-<p>Intervalles</p>
+<p><strong>Intervalles</strong></p>
 </td>
 <td>
 <p>Quinte</p>
@@ -113,7 +113,7 @@ $$
 </tr>
 <tr>
 <td>
-<p>Qualit&eacute;</p>
+<p><strong>Qualit&eacute;</strong></p>
 </td>
 <td>
 <p>Juste</p>
@@ -136,7 +136,7 @@ $$
 </tr>
 <tr>
 <td>
-<p>Rapport</p>
+<p><strong>Rapport</strong></p>
 </td>
 <td>
 <p>3/2</p>
