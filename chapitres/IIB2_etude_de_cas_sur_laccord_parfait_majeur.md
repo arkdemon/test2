@@ -86,9 +86,15 @@
 <p><em>
 Choix de la période avec le programme Regavi
 </em></p>
+<p>
+&nbsp;
+</p>
 
 ![](../img/Image 6.png)
 <p><em>Spectrogramme  de la fréquence en kHz par rapport à l’amplitude obtenu avec Regressi</em></p>
+<p>
+&nbsp;
+</p>
 
 <table>
 	<tbody>
@@ -216,6 +222,9 @@ Choix de la période avec le programme Regavi
 	<em>
 		 Tableau 4: comparaison des fréquences des premières harmoniques de l’enregistrement avec leurs valeurs théoriques
 	</em>
+</p>
+<p>
+&nbsp;
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
