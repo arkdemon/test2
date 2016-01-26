@@ -93,7 +93,7 @@ $$
 </table>
 
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<em>Tableau 5: intervalles classiques avec leurs rapports correspondants</em></p>
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;<em>Tableau 5: intervalles classiques avec leurs rapports correspondants</em></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     On remarquera la diff&eacute;rence entre une note et un son, puisque la note est attribu&eacute;e &agrave; un son &agrave; une hauteur &agrave; une octave pr&egrave;s. C&rsquo;est &agrave; dire que deux sons espac&eacute;s d&rsquo;un nombre quelconque d&rsquo;octave repr&eacute;sentent la m&ecirc;me note. Autrement dit, le rapport des fr&eacute;quences des deux notes est une puissance de deux. Posons la relation binaire entre deux fr&eacute;quences $$f$$ et $$f'$$, et d&eacute;finissons la de telle sorte que $$f$$ et $$f'$$ v&eacute;rifient la relation si et seulement s&rsquo;il existe un entier n (qui peut &ecirc;tre n&eacute;gatif) tel que $$f=2nf'$$. Nous pouvons v&eacute;rifier sans peine que la relation est r&eacute;flexive, sym&eacute;trique et transitive, donc est une relation d&rsquo;&eacute;quivalence. Nous pouvons ainsi d&eacute;finir math&eacute;matiquement ce qu&rsquo;est une note: c&rsquo;est une classe d&rsquo;&eacute;quivalence par cette relation.</p>
