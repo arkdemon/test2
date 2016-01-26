@@ -58,12 +58,12 @@
 		</tr>
 		<tr>
 			<td>
-				<p><strong>
+				<p>
 					accord parfait majeur
-				</p></strong>
-				<p><strong>
+				</p>
+				<p>
 					accord parfait mineur
-				</p></strong>
+				</p>
 			</td>
 			<td>
 				<p>
@@ -115,12 +115,12 @@
 		</tr>
 		<tr>
 			<td>
-				<p><strong>
+				<p>
 					accord parfait majeur;
-				</p></strong>
-				<p><strong>
+				</p>
+				<p>
 					accord parfait mineur
-				</p></strong>
+				</p>
 			</td>
 			<td>
 				<p>
