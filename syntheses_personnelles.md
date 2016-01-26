@@ -1,3 +1,3 @@
 # Synthèses Personnelles
 
-!REDIRECT "adrien.md"
+!REDIRECT "adrien.html"
