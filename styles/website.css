@@ -34,7 +34,9 @@ table {
     /*margin-left:auto; 
     margin-right:auto;*/
 }
-
+code {
+        background-color: #333333;
+}
 body {
     background-color: yellow;
 }
