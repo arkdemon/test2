@@ -22,7 +22,9 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Ensuite, Helmholtz choisit la fonction: $$f(x)=(\frac{60x}{900+x^2})^2$$pour calculer la duret&eacute; propre en notant toutefois que "c'est l'expression la plus simple qui remplisse les conditions donn&eacute;es mais elle est naturellement arbitraire jusqu'&agrave; un certain point." Il a s&ucirc;rement obtenu cette fonction en sachant que la dissonance &eacute;tait maximale en $$30Hz$$, et presque nulle lorsque la diff&eacute;rence des fr&eacute;quence est grande. Dans notre cas, x correspond &agrave; la diff&eacute;rence de fr&eacute;quences entre les deux sons, ce qui nous donne:</p>
 
-<p>$$D = \frac{3600*(f-264)^2}{(900+(f-264)^2)^2}$$</p>
+<p>
+$$D = \frac{3600*(f-264)^2}{(900+(f-264)^2)^2}$$
+</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Et en multipliant l&rsquo;&eacute;nergie des battements (E) par D, nous obtenons la dissonance de deux sons simples. nous avons pour f variant de 296 &agrave; 396Hz, (qui correspond &agrave; la courbe 1:1 dans le graphique)</p>
