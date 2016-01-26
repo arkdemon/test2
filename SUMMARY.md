@@ -1,6 +1,5 @@
 # Summary
 
-* [La Consonance](la_consonance.md)
 * [Introduction](README.md)
 * [Notions](chapitres/I_notions.md)
    * [Sondage Introductif](chapitres/IA_sondage_introductif.md)
