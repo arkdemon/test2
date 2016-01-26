@@ -162,6 +162,9 @@ TODO changer début
 <center>
 <p><em>Tableau 2: quelques intervalles classiques et leurs demi-tons correspondants</em></p>
 </center>
+<p>
+&nbsp;
+</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     En musique, deux sons qui ont une octave de diff&eacute;rence sont la m&ecirc;me note: c&rsquo;est le principe de l&rsquo;identit&eacute; des octaves. Il en est de m&ecirc;me pour les intervalles. Ainsi, un intervalle d&eacute;doubl&eacute;, c&rsquo;est &agrave; dire un intervalle auquel nous avons ajout&eacute; au moins une octave, sonnera pareil que l&rsquo;intervalle simple. Par exemple, la tierce majeure form&eacute;e entre do et mi sonnera comme la 10e majeure entre do et mi une octave au dessus. (Ceci est vrai en harmonie classique mais l&rsquo;est moins dans d&rsquo;autres courants comme le jazz o&ugrave; les intervalles conservent leur identit&eacute; jusqu&rsquo;&agrave; la 13e).</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
