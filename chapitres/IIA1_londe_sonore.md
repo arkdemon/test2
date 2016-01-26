@@ -1,4 +1,5 @@
-### L'onde sonore
+##A. Des généralités sur le son
+###1. L'onde sonore
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
