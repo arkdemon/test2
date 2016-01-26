@@ -35,6 +35,6 @@ table {
     margin-right:auto;*/
 }
 
-div.book-summary {
+.book-summary,.summary,.chapter,.articles {
     background-color: yellow;
 }
