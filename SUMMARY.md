@@ -30,5 +30,5 @@
    * Alexandre
    * David
    * Etienne
-* Bibliographie
+* [Bibliographie](chapitres/bibliographie.md)
 
