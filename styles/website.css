@@ -35,6 +35,5 @@ table {
     margin-right:auto;*/
 }
 
-div.book-summary {
-    color: blue;
-}
+<div class="book-summary" style="background-color:black">
+
