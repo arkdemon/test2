@@ -29,7 +29,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Nous allons donc faire écouter à chaque sujet deux accords, un consonant et l’autre dissonant d’après la théorie musicale. Nous leurs demandons de choisir à chaque fois celui qui leur sonne le mieux et nous comparerons ensuite ces réponses avec nos connaissance de théorie musicale. Voici les accords sur lesquels nous avons testés chaque sujet.
+	Nous allons donc faire écouter à chaque sujet deux accords, un consonant et l’autre dissonant d’après la théorie musicale. Nous leurs demandons de choisir à chaque fois celui qui leur sonne le mieux et nous comparerons ensuite ces réponses avec nos connaissances de théorie musicale. Voici les accords sur lesquels nous avons testés chaque sujet.
 </p>
 
 <table>
