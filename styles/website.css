@@ -10,11 +10,11 @@ p {
     text-align:"justify";
 }
 
-h1, .chapter {
+h1 {
     color: rgb(152,0,0);
 }
 
-h2, .articles {
+h2 {
     color: rgb(0, 125, 0);
 }
 
@@ -36,5 +36,13 @@ table {
 }
 
 .book-summary,.summary,.chapter,.articles {
-    background-color: rgb(0, 102, 255);
+    background-color: rgb(102, 204, 255);
+}
+
+.chapter {
+    color: rgb(0, 51, 204);
+}
+
+.articles {
+    color: rgb(0, 102, 255);
 }
