@@ -1,4 +1,4 @@
-## La théorie de d’Alembert: une première notion des harmoniques
+## La théorie de d’Alembert : une première notion des harmoniques
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Suite &agrave; cette d&eacute;marche math&eacute;matique se distingue celle d&rsquo;Alembert qui prend une approche radicalement diff&eacute;rent. Dans sa th&eacute;orie, il repousse les pr&eacute;c&eacute;dentes comme la th&eacute;orie de la co&iuml;ncidence des coups, des ordres et d&rsquo;autres th&eacute;ories grecques. Elle tient son nom du musicien Rameau, car elle reprend et d&eacute;veloppe ses id&eacute;es. Publi&eacute;e en 1752 dans <em>El&eacute;ments de musique suivant les principes de M. Rameau </em>met donc en avant une th&eacute;orie de la musique, alternative et ind&eacute;pendante. </p>
