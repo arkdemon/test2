@@ -4,11 +4,11 @@
 TODO changer début
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Comme nous l&rsquo;avons vu dans le sondage pr&eacute;c&eacute;dent, nous sommes tous un peu pr&ecirc;t d&rsquo;accord avec les accords consid&eacute;r&eacute;s consonants par les musiciens. Mais avant de classifier ces accords, il faut savoir ce qu&rsquo;est un accord. En musique, il est consid&eacute;r&eacute; comme &eacute;tant un ensemble identifiable de plusieurs notes simultan&eacute;es, alors qu&rsquo;en harmonie tonale, il d&eacute;signe une combinaison d&rsquo;au moins trois notes simultan&eacute;es formant un tout. Deux notes jou&eacute;es en m&ecirc;me temps sont consid&eacute;r&eacute;es comme un intervalle harmonique par opposition &agrave; un intervalle m&eacute;lodieux o&ugrave; deux notes sont jou&eacute;es successivement. Si l&rsquo;on joue trois notes simultan&eacute;ment, il y aura donc deux intervalles harmoniques, le premier form&eacute; par la premi&egrave;re et la deuxi&egrave;me note, et le deuxi&egrave;me intervalle form&eacute; par la premi&egrave;re et la troisi&egrave;me note. Un accord est donc une superposition de plusieurs intervalles, et d&eacute;pend donc de ces derniers.</p>
+Comme nous l&rsquo;avons vu dans le sondage pr&eacute;c&eacute;dent, il semblerait qu'une grande majorité de personnes sont en accord avec les accords consonants définis par les musiciens. Mais avant de classifier ces accords, il faut savoir ce qu&rsquo;est un accord. En musique, il est consid&eacute;r&eacute; comme &eacute;tant un ensemble identifiable de plusieurs notes simultan&eacute;es, alors qu&rsquo;en harmonie tonale, il d&eacute;signe une combinaison d&rsquo;au moins trois notes simultan&eacute;es formant un tout. Deux notes jou&eacute;es en m&ecirc;me temps sont consid&eacute;r&eacute;es comme un intervalle harmonique par opposition &agrave; un intervalle m&eacute;lodieux o&ugrave; deux notes sont jou&eacute;es successivement. Si l&rsquo;on joue trois notes simultan&eacute;ment, il y aura donc deux intervalles harmoniques, le premier form&eacute; par la premi&egrave;re et la deuxi&egrave;me note, et le deuxi&egrave;me intervalle form&eacute; par la premi&egrave;re et la troisi&egrave;me note. Un accord est donc une superposition de plusieurs intervalles, et d&eacute;pend donc de ces derniers.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Tout d&rsquo;abord, il faut savoir comment nous nommons les intervalles. Un intervalle est constitu&eacute; de demi-tons, des unit&eacute;s indivisibles. ll existe plusieurs types de demi-ton: les demi-tons chromatiques, demi-ton entre deux notes de m&ecirc;me nom (e.g. fa et fa#) et les demi-tons diatoniques, demi-ton entre deux notes de nom diff&eacute;rent (e.g. fa# et sol). Le nom de l&rsquo;intervalle est donc d&eacute;termin&eacute; &agrave; partir du nombre de demi-tons diatoniques qui le composent. Par exemple, un intervalle d&rsquo;un demi-ton diatonique est appel&eacute; seconde.</p>
+Tout d&rsquo;abord, il faut savoir comment nous nommons les intervalles. Un intervalle est constitu&eacute; de demi-tons, des unit&eacute;s indivisibles. ll existe plusieurs types de demi-ton: les demi-tons chromatiques, demi-ton entre deux notes de m&ecirc;me nom (e.g. fa et fa#) et les demi-tons diatoniques, demi-ton entre deux notes de nom diff&eacute;rent (e.g. fa# et sol). Le nom de l&rsquo;intervalle est donc d&eacute;termin&eacute; &agrave; partir du nombre de demi-tons diatoniques qui le composent. Par exemple, un intervalle d&rsquo;un demi-ton diatonique est appel&eacute; seconde.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effectivement, les secondes, tierces, sixtes et septi&egrave;mes peuvent &ecirc;tre diminu&eacute;es, mineures, majeures ou augment&eacute;es tandis que les quartes, quintes et octaves peuvent &ecirc;tre diminu&eacute;es, justes ou augment&eacute;es. Ce sont les demi-tons chromatiques qui permettent de changer la qualit&eacute; d&rsquo;un intervalle. Ainsi:</p>
+Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effectivement, les secondes, tierces, sixtes et septi&egrave;mes peuvent &ecirc;tre diminu&eacute;es, mineures, majeures ou augment&eacute;es tandis que les quartes, quintes et octaves peuvent &ecirc;tre diminu&eacute;es, justes ou augment&eacute;es. Ce sont les demi-tons chromatiques qui permettent de changer la qualit&eacute; d&rsquo;un intervalle. Ainsi:</p>
 <ul>
 <li style="font-weight: 400;">si l'on retranche un demi-ton chromatique &agrave; un intervalle juste il devient diminu&eacute;.</li>
 <li style="font-weight: 400;">si l'on retranche un demi-ton chromatique &agrave; un intervalle majeur il devient mineur.</li>
@@ -162,9 +162,6 @@ TODO changer début
 <center>
 <p><em>Tableau 2: quelques intervalles classiques et leurs demi-tons correspondants</em></p>
 </center>
-<p>
-&nbsp;
-</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     En musique, deux sons qui ont une octave de diff&eacute;rence sont la m&ecirc;me note: c&rsquo;est le principe de l&rsquo;identit&eacute; des octaves. Il en est de m&ecirc;me pour les intervalles. Ainsi, un intervalle d&eacute;doubl&eacute;, c&rsquo;est &agrave; dire un intervalle auquel nous avons ajout&eacute; au moins une octave, sonnera pareil que l&rsquo;intervalle simple. Par exemple, la tierce majeure form&eacute;e entre do et mi sonnera comme la 10e majeure entre do et mi une octave au dessus. (Ceci est vrai en harmonie classique mais l&rsquo;est moins dans d&rsquo;autres courants comme le jazz o&ugrave; les intervalles conservent leur identit&eacute; jusqu&rsquo;&agrave; la 13e).</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -174,9 +171,6 @@ TODO changer début
 ![<align="middle">](../img/chiffrage d'accords.png)
 <p><center><em>Exemple de chiffrage d'accords</em></center></p>
 </center>
-<p>
-&nbsp;
-</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Un accord est dit classé lorsqu’il est réductible à une superposition de tierce. Les accords classés de trois notes, aussi appelés triades, comprennent donc la note fondamentale, sa tierce et sa quinte. Les accords à quatre notes comprennent une triade à laquelle nous ajoutons l’intervalle de septième (majeure ou mineure) ou la sixte majeure. Les accords de cinq notes ou plus comprennent en plus de l’accord de quatre notes, la seconde, la quarte ou la sixte.
 </p>
