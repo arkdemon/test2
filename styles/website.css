@@ -35,8 +35,8 @@ table {
     margin-right:auto;*/
 }
 
-background {
-    color: rgb(255, 184, 77);
+body {
+    background-color: rgb(255, 184, 77);
 }
 
 <div class="book-summary" style="background-color:black">
