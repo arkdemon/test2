@@ -105,7 +105,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 <tbody>
 <tr>
 <td style="text-align: center;">
-<p>Intervalles</p>
+<p><strong>Intervalles</strong></p>
 </td>
 <td style="text-align: center;">
 <p>Quinte</p>
@@ -122,7 +122,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>demi-tons diatoniques</p>
+<p><strong>Demi-tons diatoniques</strong></p>
 </td>
 <td style="text-align: center;">
 <p>4</p>
@@ -139,7 +139,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>Qualit&eacute;</p>
+<p><strong>Qualit&eacute;</p>
 </td>
 <td style="text-align: center;">
 <p>Juste</p>
@@ -162,7 +162,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 </tr>
 <tr>
 <td style="text-align: center;">
-<p>demi-tons chromatiques</p>
+<p><strong>Demi-tons chromatiques</strong></p>
 </td>
 <td style="text-align: center;">
 <p>3</p>
