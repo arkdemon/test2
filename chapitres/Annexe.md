@@ -1,7 +1,7 @@
 # Annexe
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Dans le but de connaître la réaction intuitive d’une personne face à différents accords, nous avons décidé de mettre en place un sondage, au cours duquel nous allons faire écouter les enregistrements de différents accords à une assistance (qui pourra être notre classe, notre famille ou des amis), à qui nous allons poser une série de question qui aura pour but de vérifier si la notion de consonance des musicien est bien partagée par le grand public.
+	Dans le but de connaître la réaction intuitive d’une personne face à différents accords, nous avons décidé de mettre en place un sondage, au cours duquel nous allons faire écouter les enregistrements de différents accords à une assistance (qui pourra être notre classe, notre famille ou des amis), à qui nous allons poser une série de question qui aura pour but de vérifier si la notion de consonance des musiciens est bien partagée par le grand public.
 </p>
 
 
