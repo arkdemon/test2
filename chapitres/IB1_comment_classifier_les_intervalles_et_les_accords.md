@@ -174,6 +174,9 @@ TODO changer début
 ![<align="middle">](../img/chiffrage d'accords.png)
 <p><center><em>Exemple de chiffrage d'accords</em></center></p>
 </center>
+<p>
+&nbsp;
+</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Un accord est dit classé lorsqu’il est réductible à une superposition de tierce. Les accords classés de trois notes, aussi appelés triades, comprennent donc la note fondamentale, sa tierce et sa quinte. Les accords à quatre notes comprennent une triade à laquelle nous ajoutons l’intervalle de septième (majeure ou mineure) ou la sixte majeure. Les accords de cinq notes ou plus comprennent en plus de l’accord de quatre notes, la seconde, la quarte ou la sixte.
 </p>
