@@ -1,7 +1,7 @@
 ###2. Étude de cas sur l'accord parfait majeur
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Notre oreille réussit à décomposer des bruits très complexes, qui sont des mélanges de nombreux sons. Nous pouvons réaliser une analyse similaire grâce à un logiciel. Afin de comprendre les différences de consonance entre deux accords, nous avons décidé d’étudier des vrai sons, et non des sons générés par un logiciel informatique. Pour ce faire, nous avons enregistré des notes et des accords de guitare électrique pour pouvoir les analyser et les comparer.
+	Notre oreille réussit à décomposer des bruits très complexes, qui sont des mélanges de nombreux sons. Nous pouvons réaliser une analyse similaire grâce à un logiciel. Afin de comprendre les différences de consonance entre deux accords, nous avons décidé d’étudier des vrais sons, et non des sons générés par un logiciel informatique. Pour ce faire, nous avons enregistré des notes et des accords de guitare électrique pour pouvoir les analyser et les comparer.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Voici l'expérience que nous avons réalisé pour tenter d’étudier des vrai sons:
