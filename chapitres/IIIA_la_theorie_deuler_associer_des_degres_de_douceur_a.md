@@ -16,7 +16,7 @@
 <p>
 </p>
 
-![](../img/fig 3.1.jpg)
+![](../img/Coups 1.PNG)
 <p>
 </p>
 </center>
