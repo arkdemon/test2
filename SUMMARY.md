@@ -29,6 +29,6 @@
    * Adrien
    * Alexandre
    * [David](david.md)
-   * Etienne
+   * [Etienne](etienne.md)
 * [Bibliographie](chapitres/bibliographie.md)
 
