@@ -1,17 +1,23 @@
 <center>
 <h1>La Consonance</h1>
 
-</center>
 
-<p>
-&nbsp;
-</p>
+
 
 <h6>La musique d'un point de vue mathématique et physique</h6>
+</center>
+
+
+
 
 <p>
 &nbsp;
 </p>
+
+<h2>
+Pourquoi certains accord sont plus consonants que d’autres?
+</h2>
+
 <p>
 &nbsp;
 </p>
