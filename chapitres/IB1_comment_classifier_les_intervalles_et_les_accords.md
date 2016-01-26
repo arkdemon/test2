@@ -1,4 +1,5 @@
-### Comment classifier les intervalles et les accords
+##B. Théorie Musicale
+###1. Comment classifier les intervalles et les accords
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Comme nous l&rsquo;avons vu dans le sondage pr&eacute;c&eacute;dent, nous sommes tous un peu pr&ecirc;t d&rsquo;accord avec les accords consid&eacute;r&eacute;s consonants par les musiciens. Mais avant de classifier ces accords, il faut savoir ce qu&rsquo;est un accord. En musique, il est consid&eacute;r&eacute; comme &eacute;tant un ensemble identifiable de plusieurs notes simultan&eacute;es, alors qu&rsquo;en harmonie tonale, il d&eacute;signe une combinaison d&rsquo;au moins trois notes simultan&eacute;es formant un tout. Deux notes jou&eacute;es en m&ecirc;me temps sont consid&eacute;r&eacute;es comme un intervalle harmonique par opposition &agrave; un intervalle m&eacute;lodieux o&ugrave; deux notes sont jou&eacute;es successivement. Si l&rsquo;on joue trois notes simultan&eacute;ment, il y aura donc deux intervalles harmoniques, le premier form&eacute; par la premi&egrave;re et la deuxi&egrave;me note, et le deuxi&egrave;me intervalle form&eacute; par la premi&egrave;re et la troisi&egrave;me note. Un accord est donc une superposition de plusieurs intervalles, et d&eacute;pend donc de ces derniers.</p>
