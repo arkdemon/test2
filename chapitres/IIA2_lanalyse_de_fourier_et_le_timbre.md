@@ -65,6 +65,9 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 En réalité, c'est parce que si l’on décompose ces deux ondes avec la série de Fourier, nous remarquons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
 </p>
+<center>
+<p>
+</p>
 
 
 
@@ -77,7 +80,8 @@ En réalité, c'est parce que si l’on décompose ces deux ondes avec la série
 
 
 ![](../img/fig 1.1.jpeg)
-<p align="center"><i>Specreogramme du deuxième enregistrement</i></p>
+<p align="center"><i>Spectreogramme du deuxième enregistrement</i></p>
+</center>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 Le son le plus pur correspond donc à une onde sinusoïdale. Une interprétation musicale de l’analyse de Fourier est que toute onde périodique peut être décomposée en une superposition de sons purs dont les fréquences sont multiples de la fréquence fondamentale. La complexité d’un son résulte du nombre de sons pur qui le composent (dont les intensités sont non-négligeables) jusqu’à produire le son blanc lorsque toutes les harmoniques ont plus ou moins la même intensité
 </p>
