@@ -19,7 +19,7 @@ h2 {
 }
 
 h3 {
-    color: rgb(153, 220, 255); /*color: rgb(0, 60, 125);*/
+    color: rgb(0, 102, 255); /*color: rgb(0, 60, 125);*/
 }
 
 h6 {
@@ -44,7 +44,7 @@ table {
 }
 
 .book-summary,.summary,.chapter,.articles {
-    background-color: rgb(179, 229, 255)/*rgb(102, 204, 255);*/
+    background-color: rgb(153, 220, 255)/*rgb(102, 204, 255);*/
 }
 
 .color-theme-1,.color-theme-2{
