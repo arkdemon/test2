@@ -57,6 +57,9 @@ avec pides nombres premiers et kides coefficients entiers positifs. nous pouvons
 
 <p><em>Tableau 6.1: degr&eacute;s de douceur avec leurs rapports correspondants</em></p>
 </center>
+<p>
+&nbsp;
+</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Puis, en prenant le tableau pr&eacute;c&eacute;dent et n&rsquo;y laissant que les consonances et dissonances, nous retrouvons cette classification:</p>
@@ -69,6 +72,10 @@ avec pides nombres premiers et kides coefficients entiers positifs. nous pouvons
 <p>
 </p>
 </center>
+<p>
+&nbsp;
+</p>
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Or, elle correspond &agrave; une des classifications de Mersenne, un religieux math&eacute;maticien et philosophe du XVII&egrave;me. Ce dernier a &eacute;crit <em>Harmonie universelle, contenant la th&eacute;orie et la pratique de la musique, </em>un ouvrage majeur du XVII&egrave;me si&egrave;cle publi&eacute; en 1636 et qui englobe tous les aspects de la musique de cette &eacute;poque<em>.</em> Euler comme Mersenne met en avant l&rsquo;id&eacute;e que les dissonances ne sont que des consonances de degr&eacute; &eacute;lev&eacute;: il n&rsquo;y a qu&rsquo;une fronti&egrave;re floue entre les deux. De nombreuses personnes partagent donc l&rsquo;id&eacute;e d&rsquo;Euler.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
