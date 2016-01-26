@@ -16,151 +16,91 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 <li style="font-weight: 400;">si l'on ajoute un demi-ton chromatique &agrave; un intervalle mineur il devient majeur.</li>
 <li style="font-weight: 400;">si l'on ajoute un demi-ton chromatique &agrave; un intervalle majeur il devient augment&eacute;.</li>
 </ul>
-<table>
+<p><strong>&nbsp;</strong></p>
+<table height="140px" width="503">
 <tbody>
 <tr>
 <td>
-<p><b>Intervalles</b></p>
+<p>Intervalles/p>
 </td>
 <td colspan="2">
-<p>Seconde</p>
+<p>Seconde/p>
 </td>
 <td colspan="2">
-<p>Tierce</p>
+<p>Tierce/p>
 </td>
 <td>
-<p>Quarte</p>
+<p>Quarte/p>
 </td>
 <td>
-<p>Triton</p>
-</td>
-<td>
-<p>Quinte</p>
-</td>
-<td colspan="2">
-<p>Sixte</p>
-</td>
-<td colspan="2">
-<p>Septi&egrave;me</p>
-</td>
-<td>
-<p>Octave</p>
+<p>Triton/p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Demi-tons diatoniques</strong></p>
+<p>demi-tons diatoniques/p>
 </td>
 <td colspan="2">
-<p>1</p>
+<p>1/p>
 </td>
 <td colspan="2">
-<p>2</p>
+<p>2/p>
 </td>
 <td>
-<p>3</p>
+<p>3/p>
 </td>
 <td>
-<p>3</p>
-</td>
-<td>
-<p>4</p>
-</td>
-<td colspan="2">
-<p>5</p>
-</td>
-<td colspan="2">
-<p>6</p>
-</td>
-<td>
-<p>7</p>
+<p>3/p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Qualit&eacute;</strong></p>
+<p>Qualit&eacute;/p>
 </td>
 <td>
-<p>Mineure</p>
+<p>Mineure/p>
 </td>
 <td>
-<p>Majeure</p>
+<p>Majeure/p>
 </td>
 <td>
-<p>Mineure</p>
+<p>Mineure/p>
 </td>
 <td>
-<p>Majeure</p>
+<p>Majeure/p>
 </td>
 <td>
-<p>Juste</p>
+<p>Juste/p>
 </td>
 <td>&nbsp;</td>
-<td>
-<p>Juste</p>
-</td>
-<td>
-<p>Mineure</p>
-</td>
-<td>
-<p>Majeure</p>
-</td>
-<td>
-<p>Mineure</p>
-</td>
-<td>
-<p>Majeure</p>
-</td>
-<td>
-<p>Juste</p>
-</td>
 </tr>
 <tr>
 <td>
-<p><strong>Demi-tons chromatiques</strong></p>
+<p>demi-tons chromatiques/p>
 </td>
 <td>
-<p>0</p>
+<p>0/p>
 </td>
 <td>
-<p>1</p>
+<p>1/p>
 </td>
 <td>
-<p>1</p>
+<p>1/p>
 </td>
 <td>
-<p>2</p>
+<p>2/p>
 </td>
 <td>
-<p>2</p>
+<p>2/p>
 </td>
 <td>
-<p>3</p>
-</td>
-<td>
-<p>3</p>
-</td>
-<td>
-<p>3</p>
-</td>
-<td>
-<p>4</p>
-</td>
-<td>
-<p>4</p>
-</td>
-<td>
-<p>5</p>
-</td>
-<td>
-<p>5</p>
+<p>3/p>
 </td>
 </tr>
 </tbody>
 </table>
-<center>
-<p><em>Tableau 2: quelques intervalles classiques et leurs demi-tons correspondants</em></p>
-</center>
+
+<p = align="center"><em>Tableau 2: quelques intervalles classiques et leurs demi-tons correspondants</em></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     En musique, deux sons qui ont une octave de diff&eacute;rence sont la m&ecirc;me note: c&rsquo;est le principe de l&rsquo;identit&eacute; des octaves. Il en est de m&ecirc;me pour les intervalles. Ainsi, un intervalle d&eacute;doubl&eacute;, c&rsquo;est &agrave; dire un intervalle auquel nous avons ajout&eacute; au moins une octave, sonnera pareil que l&rsquo;intervalle simple. Par exemple, la tierce majeure form&eacute;e entre do et mi sonnera comme la 10e majeure entre do et mi une octave au dessus. (Ceci est vrai en harmonie classique mais l&rsquo;est moins dans d&rsquo;autres courants comme le jazz o&ugrave; les intervalles conservent leur identit&eacute; jusqu&rsquo;&agrave; la 13e).</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
