@@ -40,11 +40,16 @@ Tout microphone possède un diaphragme, aussi appelé membrane, qui est poussé 
 
 ![](../img/Image 3.png)
 <p><em> Image d’une barre de six capteurs électromagnétiques de guitare électrique </em></p>
+<p>
+&nbsp;
+</p>
 
 ![](../img/Image 4.png)
 <p><em> Schéma modélisant les deux types de capteurs électromagnétiques d’une guitare électrique </em></p>
 </center>
-
+<p>
+&nbsp;
+</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     L’oreille est un organe de l’homme qui permet d’enregistrer des ondes acoustiques et de les transmettre au cerveau à l’aide de messages nerveux. Il réussit à identifier des sons différents qui semblent pourtant être superposés. Dans la cochlée, l’oreille analyse des différentes vibrations générées par le son, et trouve des fréquences (grâce aux vibrations dans le liquide de la cochlée) qui sont des multiples entre elles: nous appellons cela les harmoniques d’une note fondamentale. L’oreille assemble ces harmoniques, et en dégage un seul son.
 </p>
