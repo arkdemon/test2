@@ -8,9 +8,10 @@
     Pour retrouver la dissonance de deux sons complexes, il suffit, d&rsquo;apr&egrave;s Fourier, de simplement additionner toutes les dissonances entre les harmoniques correspondants. Sachant que le timbre correspond au spectrogramme du son, ce r&eacute;sultat d&eacute;pend donc du timbre du son, soit de l&rsquo;instrument. </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     On remarque que certains r&eacute;sultats de Helmholtz sont obtenus arbitrairement, ce qui montre la subjectivit&eacute; de la consonance et de la dissonance.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Helmholtz &eacute;tablit ensuite un graphique, sur lequel est bas&eacute; sa th&eacute;orie musicale, qui pr&eacute;sente la dissonance de plusieurs notes (calcul&eacute;e &agrave; partir des 10 premiers partiels harmoniques du violon) en fonction de la note. Le voici:</p>
+
 
 ![](../img/image8.png)
 
