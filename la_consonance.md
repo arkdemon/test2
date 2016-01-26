@@ -1,4 +1,7 @@
-# La Consonance
+<center>
+<h1>La Consonance</h1>
+
+</center>
 
 <p>
 &nbsp;
