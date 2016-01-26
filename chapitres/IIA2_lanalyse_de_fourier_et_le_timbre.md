@@ -63,7 +63,7 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    En réalité, c’est parce que si l’on décompose ces deux ondes avec la série de Fourier, nous remarquerons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
+En réalité, si l’on décompose ces deux ondes avec la série de Fourier, nous remarquons que la première onde ne contient qu’un seul harmonique, alors que la deuxième en contient une infinité.
 </p>
 
 
