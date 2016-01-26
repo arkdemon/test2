@@ -6,6 +6,7 @@
 
 ![](../img/fig 2.1.png)
 
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Lorsque la fonction d&rsquo;onde est p&eacute;riodique dans le temps, notons $$T$$ la p&eacute;riode et $$f$$, sa fr&eacute;quence (l&rsquo;inverse de la p&eacute;riode). Fixons la fonction d&rsquo;onde &agrave; un point de l&rsquo;espace de tel sorte qu&rsquo;elle ne d&eacute;pend plus que du temps, au quel cas nous pouvons la noter $$f(t)$$ avec $$f$$ p&eacute;riodique. Lorsque nous entendons un son, la hauteur per&ccedil;ue correspond &agrave; la fr&eacute;quence. En effet, plus nous augmentons la fr&eacute;quence, plus la hauteur per&ccedil;ue para&icirc;tra aigu&euml;. Par exemple, ces deux enregistrements sont des signaux p&eacute;riodiques de fr&eacute;quences respectives $$440Hz$$ et $$880Hz$$. Si nous les &eacute;coutons, nous percevons bien que le deuxi&egrave;me son est plus aigu que le premier.</p>
 
@@ -29,11 +30,16 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Mais si l&rsquo;on compare de plus pr&egrave;s les deux oscillogrammes, nous nous rendons compte qu&rsquo;au voisinage d&rsquo;un instant, l&rsquo;oscillogramme du deuxi&egrave;me enregistrement para&icirc;t p&eacute;riodique et partage la m&ecirc;me p&eacute;riode que le premier.
 </p>
-
+<center>
+<p>
+</p>
 
 ![](../img/fig 4.1.jpg)
 
+![](../img/fig 4.2.jpg)
 
+<p><i>Comparaison de l'oscillogramme du premier enregistrement avec celui du deuxième enregirsement à deux moments différents</i></p>
+</center>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     On peut expliquer ce ph&eacute;nom&egrave;ne en supposant que la fonction d&rsquo;onde du deuxi&egrave;me enregistrement est un signal p&eacute;riodique &agrave; amplitude variable, c&rsquo;est &agrave; dire qu&rsquo;il peut &ecirc;tre &eacute;crit par exemple $$f(t)=A(t)*g(t)$$, o&ugrave; g est p&eacute;riodique. Ainsi, bien que son enveloppe ne soit pas p&eacute;riodique, nous pouvons quand m&ecirc;me associer une fr&eacute;quence &agrave; l&rsquo;onde.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
