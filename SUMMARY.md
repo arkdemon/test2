@@ -28,7 +28,7 @@
 * [Synthèses Personnelles](syntheses_personnelles.md)
    * Adrien
    * Alexandre
-   * David
+   * [David](david.md)
    * Etienne
 * [Bibliographie](chapitres/bibliographie.md)
 
