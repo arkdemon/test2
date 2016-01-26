@@ -76,7 +76,7 @@ Nous nous attendions &agrave; ce que la majorit&eacute; des participants choisis
 </tbody>
 </table>
 <center>
-<p><em>Tableau 1.1: r&eacute;sultat du sondage</em></p>
+<p><em>Tableau 1.1: r&eacute;sultat du sondage de 9 personnes</em></p>
 </center>
 &nbsp;
 <table>
