@@ -19,7 +19,7 @@
 &nbsp;
 </p>
 
-TODO a modifier le paragraphe suivant
+
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 Dans la figure ci-dessus, nous avons représenté deux notes dont le rapport des fréquences est $$3/4$$, mais en dessous, nous avons rajouté une nouvelle note. Chacun de ses coups coïncide avec un coup des deux notes et c’est la note de fréquence maximale qui vérifie cette propriété. Pour calculer sa fréquence, simplifions les valeurs des fréquences. Comme le rapport des notes est rationnel, utilisons une échelle de temps telle que leurs fréquences respectives $$f_1$$ et $$f_2$$ soient entières et que à l’instant $$t=0$$ leurs coups correspondent, calculons la fréquence de la note recherchée. Les notes de fréquences $$f_1'$$ telles que chaque coup de celles-ci correspondent à un coup de la première note ont pour propriété que $$f_1'$$ est un diviseur de $$f_1$$ En effet, pour tout entier $$n$$, il existerait alors un entier $$m$$ tel que, $$n/f_1'$$(i.e. les instants o&ugrave; l&rsquo;on a un coup de $$f_1'$$) soit égal à $$m/f_1$$(i.e. les instants o&ugrave; l&rsquo;on a un coup de $$f_1$$) donc $$m*f_1=n*f_1$$ autrement dit tous multiples de $$f_1$$ sont multiples de $$f_1'$$ donc $$f_1'$$ est un diviseur de $$f_1$$. Ainsi, la fr&eacute;quence de la note recherch&eacute;e est un diviseur de $$f_1$$ et de $$f_2$$, et c&rsquo;est la plus grande possible, donc c&rsquo;est le $$PGCD$$ de $$f_1$$ et de $$f_2$$. </p>
