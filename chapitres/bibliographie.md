@@ -122,9 +122,7 @@
 	</a>
 </p>
 <p>
-	<strong>
-		<a href="https://www.youtube.com/watch?v=i_0DXxNeaQ0">
+			<a href="https://www.youtube.com/watch?v=i_0DXxNeaQ0">
 			https://www.youtube.com/watch?v=i_0DXxNeaQ0
 		</a>
-	</strong>
-</p>
+	</p>
