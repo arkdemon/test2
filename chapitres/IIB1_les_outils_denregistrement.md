@@ -1,4 +1,5 @@
-### Les outils d'enregistrement
+##B. Expérience
+###1. Les outils d'enregistrement
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Toute expérience nécessite des outils pour la réaliser, et il est toujours important de bien comprendre comment fonctionne ces outils avant de les utiliser. Pour cela, nous avons recherché quelques informations sur le fonctionnement d’un microphone avant de réaliser nos expériences.</p>
