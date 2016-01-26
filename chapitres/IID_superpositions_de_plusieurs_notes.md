@@ -25,7 +25,119 @@ $$
     L&rsquo;&eacute;cart entre deux sons peut &ecirc;tre quantifi&eacute; par le rapport des fr&eacute;quences des deux notes consid&eacute;r&eacute;es. nous remarquons que c&rsquo;est une grandeur sans unit&eacute; qui est ind&eacute;pendante de l&rsquo;unit&eacute; de temps que l&rsquo;on choisit au d&eacute;part pour mesurer leurs fr&eacute;quences respectives, donc c&rsquo;est bien une propri&eacute;t&eacute; intrins&egrave;que. &Agrave; chaque intervalle, nous pouvons donc associer un rapport.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
 
-TODO TABLEAU
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong> Intervalles </strong></p>
+</td>
+<td colspan="2">
+<p>Seconde</p>
+</td>
+<td colspan="2">
+<p>Tierce</p>
+</td>
+<td>
+<p>Quarte</p>
+</td>
+<td>
+<p>Triton</p>
+</td>
+<td>
+<p>Quinte</p>
+</td>
+<td colspan="2">
+<p>Sixte</p>
+</td>
+<td colspan="2">
+<p>Septième</p>
+</td>
+<td>
+<p>Octave</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong> Qualité </strong></p>
+</td>
+<td>
+<p>Mineure</p>
+</td>
+<td>
+<p>Majeure</p>
+</td>
+<td>
+<p>Mineure</p>
+</td>
+<td>
+<p>Majeure</p>
+</td>
+<td>
+<p>Juste</p>
+</td>
+<td></td>
+<td>
+<p>Juste</p>
+</td>
+<td>
+<p>Mineure</p>
+</td>
+<td>
+<p>Majeure</p>
+</td>
+<td>
+<p>Mineure</p>
+</td>
+<td>
+<p>Majeure</p>
+</td>
+<td>
+<p>Juste</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong> Rapport </strong></p>
+</td>
+<td>
+<p>10/9</p>
+</td>
+<td>
+<p>9/8</p>
+</td>
+<td>
+<p>6/5</p>
+</td>
+<td>
+<p>5/4</p>
+</td>
+<td>
+<p>4/3</p>
+</td>
+<td>
+<p>√2</p>
+</td>
+<td>
+<p>3/2</p>
+</td>
+<td>
+<p>8/5</p>
+</td>
+<td>
+<p>5/3</p>
+</td>
+<td>
+<p>9/5</p>
+</td>
+<td>
+<p>15/8</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<em>Tableau 5: intervalles classiques avec leurs rapports correspondants</em></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
