@@ -1,7 +1,7 @@
 # Conclusion
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	A l’aide du sondage, nous pouvons déduire que la consonance est, jusqu’à un certain point, commune à l’ensemble des humains. Cependant nous avons remarqués que la notion de consonance peut non seulement changer selon les époques mais aussi selon les personnes. Cela est visible dans le sondage, où une personne semble en désaccord avec le reste des participants. Les éléments techniques de la consonance sont décrits par la théorie musicale. Elle est aussi expliquée par les théories mathématico-musicales telle que celle d’Euler ou de Helmholtz, fondées sur des réalités physiques et mathématiques.
+	A l’aide du sondage, nous pouvons déduire que la consonance est, jusqu’à un certain point, commune à l’ensemble des humains. Cependant nous avons remarqué que la notion de consonance peut non seulement changer selon les époques mais aussi selon les personnes. Cela est visible dans le sondage, où une personne semble en désaccord avec le reste des participants. Les éléments techniques de la consonance sont décrits par la théorie musicale. Elle est aussi expliquée par les théories mathématico-musicales telle que celle d’Euler ou de Helmholtz, fondées sur des réalités physiques et mathématiques.
 </p>
 
 		
