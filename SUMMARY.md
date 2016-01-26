@@ -1,34 +1,34 @@
 # Summary
 
 * [La Consonance](la_consonance.md)
-    * [Introduction](README.md)
-    * [Notions](chapitres/I_notions.md)
-       * [Sondage Introductif](chapitres/IA_sondage_introductif.md)
-       * [Théorie Musicale](chapitres/IB_theorie_musicale.md)
-           * [Comment classifier les intervalles et les accords](chapitres/IB1_comment_classifier_les_intervalles_et_les_accords.md)
-           * [Classification des consonances par les musiciens](chapitres/IB2_classification_des_consonances_par_les_musiciens.md)
-    * [Approche Physique](chapitres/II_approche_physique.md)
-       * [Des généralités sur le son](chapitres/IIA_des_generalites_sur_le_son.md)
-           * [L'onde sonore](chapitres/IIA1_londe_sonore.md)
-           * [L'analyse de Fourier et le timbre](chapitres/IIA2_lanalyse_de_fourier_et_le_timbre.md)
-       * [Expérience](chapitres/IIB_experience.md)
-           * [Les outils d'enregistrement](chapitres/IIB1_les_outils_denregistrement.md)
-           * [Étude de cas sur l'accord parfait majeur](chapitres/IIB2_etude_de_cas_sur_laccord_parfait_majeur.md)
-       * [L’intensité et la hauteur](chapitres/IIC_lintensite_et_la_hauteur.md)
-       * [Superpositions de plusieurs notes](chapitres/IID_superpositions_de_plusieurs_notes.md)
-    * [Les théories mathématico-musicales autour de la consonance](chapitres/III_les_theories_mathematico-musicales_autour_de_la_co.md)
-       * [La théorie d’Euler: associer des degrés de douceur aux accords](chapitres/IIIA_la_theorie_deuler_associer_des_degres_de_douceur_a.md)
-       * [La théorie de d’Alembert: une première notion des harmoniques](chapitres/IIIB_la_theorie_de_dalembert_une_premiere_notion_des_ha.md)
-       * [La théorie d’Helmholtz: quantifier la dissonance](chapitres/IIIC_la_theorie_dhelmholtz_quantifier_la_dissonance.md)
-    * [Explications](chapitres/IV_explications.md)
-       * [L’analyse des coups et l’analyse de Fourier](chapitres/chapitres/IVA_alanalyse_des_coups_et_lanalyse_de_fourier_md.md)
-       * [Exploitation des résultats](chapitres/IVB_exploitation_des_resultats.md)
-    * [Conclusion](chapitres/Conclusion.md)
-    * [Annexe](chapitres/Annexe.md)
-    * [Test](chapitres/test.md)
-    * Synthèses Personnelles
-       * Adrien
-       * Alexandre
-       * David
-       * Etienne
-    
+* [Introduction](README.md)
+* [Notions](chapitres/I_notions.md)
+   * [Sondage Introductif](chapitres/IA_sondage_introductif.md)
+   * [Théorie Musicale](chapitres/IB_theorie_musicale.md)
+       * [Comment classifier les intervalles et les accords](chapitres/IB1_comment_classifier_les_intervalles_et_les_accords.md)
+       * [Classification des consonances par les musiciens](chapitres/IB2_classification_des_consonances_par_les_musiciens.md)
+* [Approche Physique](chapitres/II_approche_physique.md)
+   * [Des généralités sur le son](chapitres/IIA_des_generalites_sur_le_son.md)
+       * [L'onde sonore](chapitres/IIA1_londe_sonore.md)
+       * [L'analyse de Fourier et le timbre](chapitres/IIA2_lanalyse_de_fourier_et_le_timbre.md)
+   * [Expérience](chapitres/IIB_experience.md)
+       * [Les outils d'enregistrement](chapitres/IIB1_les_outils_denregistrement.md)
+       * [Étude de cas sur l'accord parfait majeur](chapitres/IIB2_etude_de_cas_sur_laccord_parfait_majeur.md)
+   * [L’intensité et la hauteur](chapitres/IIC_lintensite_et_la_hauteur.md)
+   * [Superpositions de plusieurs notes](chapitres/IID_superpositions_de_plusieurs_notes.md)
+* [Les théories mathématico-musicales autour de la consonance](chapitres/III_les_theories_mathematico-musicales_autour_de_la_co.md)
+   * [La théorie d’Euler: associer des degrés de douceur aux accords](chapitres/IIIA_la_theorie_deuler_associer_des_degres_de_douceur_a.md)
+   * [La théorie de d’Alembert: une première notion des harmoniques](chapitres/IIIB_la_theorie_de_dalembert_une_premiere_notion_des_ha.md)
+   * [La théorie d’Helmholtz: quantifier la dissonance](chapitres/IIIC_la_theorie_dhelmholtz_quantifier_la_dissonance.md)
+* [Explications](chapitres/IV_explications.md)
+   * [L’analyse des coups et l’analyse de Fourier](chapitres/chapitres/IVA_alanalyse_des_coups_et_lanalyse_de_fourier_md.md)
+   * [Exploitation des résultats](chapitres/IVB_exploitation_des_resultats.md)
+* [Conclusion](chapitres/Conclusion.md)
+* [Annexe](chapitres/Annexe.md)
+* [Test](chapitres/test.md)
+* Synthèses Personnelles
+   * Adrien
+   * Alexandre
+   * David
+   * Etienne
+
