@@ -1,4 +1,5 @@
-## La théorie d’Euler: associer des degrés de douceur aux accords
+#III. Les théories mathématico-musicales autour de la consonance
+##A. La théorie d’Euler: associer des degrés de douceur aux accords
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     En 1731, Euler &eacute;crit un essai sur la musique appel&eacute; <em>Essai d'une nouvelle th&eacute;orie de la musique, expos&eacute;e en toute clart&eacute; selon les principes de l'harmonie les mieux fond&eacute;s (Tentamen novae theoriae musicae ex certissimis harmoniae principiis dilucide expositae</em>) dans lequel il expose sa th&eacute;orie musicale. Elle ne sera publi&eacute;e qu&rsquo;en 1739, apr&egrave;s avoir &eacute;t&eacute; modifi&eacute;e tout au long de sa vie. </p>
