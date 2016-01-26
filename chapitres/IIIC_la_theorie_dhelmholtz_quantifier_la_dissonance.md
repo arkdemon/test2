@@ -47,7 +47,7 @@ $$D = \frac{3600*(f-264)^2}{(900+(f-264)^2)^2}$$
 ![](../img/image11.png)
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    La th&eacute;orie de Helmholtz est fond&eacute;e sur l&rsquo;&eacute;tude des battements. D&rsquo;apr&egrave;s lui, la dissonance entre deux sons simple est &eacute;gal au produit de l&rsquo;&eacute;nergie des battements par la duret&eacute; propre de l&rsquo;accord, la duret&eacute; propre &eacute;tant obtenue &agrave; partir de l&rsquo;&eacute;cart de fr&eacute;quences des deux sons. Pour obtenir la dissonance de deux sons complexes, il suffit d&rsquo;additionner la dissonance de leurs harmoniques. nous obtenons en m&ecirc;me temps les accords consonants, car ils correspondent aux accords de dissonance faible.
+    La th&eacute;orie de Helmholtz est fond&eacute;e sur l&rsquo;&eacute;tude des battements. D&rsquo;apr&egrave;s lui, la dissonance entre deux sons simples est &eacute;gal au produit de l&rsquo;&eacute;nergie des battements par la duret&eacute; propre de l&rsquo;accord, la duret&eacute; propre &eacute;tant obtenue &agrave; partir de l&rsquo;&eacute;cart de fr&eacute;quences des deux sons. Pour obtenir la dissonance de deux sons complexes, il suffit d&rsquo;additionner la dissonance de leurs harmoniques. nous obtenons en m&ecirc;me temps les accords consonants, car ils correspondent aux accords de dissonance faible.
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
