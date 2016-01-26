@@ -95,7 +95,7 @@ TODO accord complet
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    En r&eacute;sum&eacute;, Euler d&eacute;finit la consonance &agrave; partir de la th&eacute;orie de l&rsquo;ordre et de la th&eacute;orie de la co&iuml;ncidence des coups. Il classe les accords &agrave; partir de leur rapport de fr&eacute;quence: c&rsquo;est le degr&eacute; de douceur d&rsquo;un accord. Si cet accord pr&eacute;sente un rapport de la forme $$p:q$$ (diff&eacute;rent de $$1:q$$), il faut au pr&eacute;alable le diviser par son $$PGCD$$. Si p et q ne sont pas premiers entre eux, il faut aussi le diviser par leur $$PPCM$$. Il d&eacute;finit aussi l&rsquo;accord complet de sorte que si l&rsquo;on ajoute un son &agrave; cet accord, son degr&eacute; de douceur ne pourra qu&rsquo;augmenter.
+    En r&eacute;sum&eacute;, Euler d&eacute;finit la consonance &agrave; partir de la th&eacute;orie de l&rsquo;ordre et de la th&eacute;orie de la co&iuml;ncidence des coups. Il classe les accords &agrave; partir de leur rapport de fr&eacute;quence: c&rsquo;est le degr&eacute; de douceur d&rsquo;un accord. Si cet accord pr&eacute;sente un rapport de la forme $$p:q$$ (diff&eacute;rent de $$1:q$$), il faut au pr&eacute;alable le diviser par son $$PGCD$$. Si $$p$$ et $$q$$ ne sont pas premiers entre eux, il faut aussi le diviser par leur $$PPCM$$. Il d&eacute;finit aussi l&rsquo;accord complet de sorte que si l&rsquo;on ajoute un son &agrave; cet accord, son degr&eacute; de douceur ne pourra qu&rsquo;augmenter.
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
