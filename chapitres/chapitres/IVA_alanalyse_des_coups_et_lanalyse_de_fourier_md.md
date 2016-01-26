@@ -15,6 +15,10 @@
 </p>
 <p><em>Repr&eacute;sentation de deux notes par leurs coups dont le rapport des fr&eacute;quences est 3/4</em></p>
 </center>
+<p>
+&nbsp;
+</p>
+
 TODO a modifier le paragraphe suivant
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
