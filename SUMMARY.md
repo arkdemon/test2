@@ -24,7 +24,6 @@
    * [Exploitation des résultats](chapitres/IVB_exploitation_des_resultats.md)
 * [Conclusion](chapitres/Conclusion.md)
 * [Annexe](chapitres/Annexe.md)
-* [Test](chapitres/test.md)
 * [Synthèses Personnelles](syntheses_personnelles.md)
    * [Adrien](adrien.md)
    * Alexandre
