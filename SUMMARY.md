@@ -25,7 +25,7 @@
 * [Conclusion](chapitres/Conclusion.md)
 * [Annexe](chapitres/Annexe.md)
 * [Test](chapitres/test.md)
-* Synthèses Personnelles
+* [Synthèses Personnelles](syntheses_personnelles.md)
    * Adrien
    * Alexandre
    * David
