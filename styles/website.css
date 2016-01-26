@@ -35,8 +35,12 @@ table {
     margin-right:auto;*/
 }
 
-:not(.color-theme-1,.color-theme-2).book-summary,.summary,.chapter,.articles {
+.book-summary,.summary,.chapter,.articles {
     background-color: rgb(102, 204, 255);
+}
+
+.color-theme-1,.color-theme-2{
+    
 }
 
 .chapter {
