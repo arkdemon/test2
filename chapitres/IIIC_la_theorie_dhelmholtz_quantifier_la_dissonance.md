@@ -34,7 +34,7 @@ $$D = \frac{3600*(f-264)^2}{(900+(f-264)^2)^2}$$
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Jusqu&rsquo;&agrave; pr&eacute;sent, nous avons &eacute;tudi&eacute; la dissonance de deux sons simples. Pour obtenir la dissonance de deux sons en dents de scie, ce qui correspond au timbre d&rsquo;un instrument &agrave; cordes frott&eacute;es, il faut maintenant additionner les partiels des deux sons concern&eacute;s (Helmholtz prendra les 10 premiers harmoniques).</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<strong><strong>&nbsp;</strong></strong></p>
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Maintenant, lorsque l&rsquo;on fait varier $$f$$ entre $$264$$ et $$528$$ ($$=2*264$$; puisque la note se retrouve entre le do et le do une octave au-dessus) nous pouvons remplacer $$f$$ par $$f_1*k$$ ($$k$$ varie entre 1 et 2 et correspond donc au rapport $$f/f_1$$), soit $$264*k$$. nous pouvons calculer la dissonance entre deux harmoniques des deux sons (la $$m_1$$-&egrave;me du premier, de fr&eacute;quence $$264$$, et la $$m_2$$-&egrave;me du second, de fr&eacute;quence $$f$$) gr&acirc;ce &agrave; cette formule:</p>
 
