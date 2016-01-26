@@ -36,7 +36,7 @@
     En g&eacute;n&eacute;ralisant, nous associons le rapport $$1:p_1^{k_1}p_2^{k_2}...p_n^{k_n}$$ au degr&eacute; $$
 \sum_{i=1}^{n}=(k_i p_i) + 1
 $$
-avec pides nombres premiers et kides coefficients entiers positifs. nous pouvons aussi remarquer que ces r&eacute;sultats ne sont pas vraiment rigoureux, mais les propri&eacute;t&eacute;s qu&rsquo;Euler en d&eacute;duit sont int&eacute;ressantes.</p>
+avec pides nombres premiers et $$k_i$$ des coefficients entiers positifs. nous pouvons aussi remarquer que ces r&eacute;sultats ne sont pas vraiment rigoureux, mais les propri&eacute;t&eacute;s qu&rsquo;Euler en d&eacute;duit sont int&eacute;ressantes.</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     En effet, cette formule peut s&rsquo;appliquer &agrave; plus que 2 sons. Quatre sons dans les rapports $$1:p:q:r$$ avec $$p$$, $$q$$ et $$r$$ premiers sont assimil&eacute;s &agrave; $$1:pqr$$. Si au contraire, ils ne sont pas premiers, et que l&rsquo;on a par exemple: $$1:n:m:k$$ (avec $$n$$, $$m$$, et $$k$$ entiers), il suffit de prendre le $$PPCM$$ de tous ces facteurs, soit $$PPCM(n, m, k)$$, ce qui nous donne $$1:PPCM(n, m, k)$$. Euler peut ainsi toujours se ramener au cas $$1/n$$. </p>
