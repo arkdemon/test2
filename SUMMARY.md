@@ -27,7 +27,8 @@
 * [Test](chapitres/test.md)
 * Synthèses Personnelles
    * Adrien
-   * [Alexandre](chapitres/synthèse_alexandre.md)
+   * Alexandre
    * David
    * Etienne
+* La Consonance
 
