@@ -34,9 +34,9 @@
     Patrice Bailhache proposera en 1997 une autre approche pour obtenir $$p+q-1$$. Si l&rsquo;on prend un rapport $$p:q$$ avec $$p$$ et $$q$$ premiers entre eux, nous avons d&rsquo;apr&egrave;s la th&eacute;orie de la co&iuml;ncidence des coups, que seuls le premier et le dernier coups sont les m&ecirc;mes (le coup en commun provient du fait qu&rsquo;ils soient jou&eacute;s en m&ecirc;me temps; et comme ils sont premiers entre eux, ils ne partagent pas d&rsquo;autres coups en commun). En sachant que le dernier coup de la p&eacute;riode correspond au d&eacute;but de la p&eacute;riode d&rsquo;apr&egrave;s, le total des coups sera $$p+q-1$$.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     En g&eacute;n&eacute;ralisant, nous associons le rapport $$1:p_1^{k_1}p_2^{k_2}...p_n^{k_n}$$ au degr&eacute; $$
-\sum_{i=1}^{n}(k_i p_i - k_i) + 1
+\sum_{i=1}^{n}=(k_i p_i) + 1
 $$
-avec $$p_i$$ des nombres premiers et $$k_i$$ des coefficients entiers positifs. nous pouvons aussi remarquer que ces r&eacute;sultats ne sont pas vraiment rigoureux, mais les propri&eacute;t&eacute;s qu&rsquo;Euler en d&eacute;duit sont int&eacute;ressantes.</p>
+avec pides nombres premiers et kides coefficients entiers positifs. nous pouvons aussi remarquer que ces r&eacute;sultats ne sont pas vraiment rigoureux, mais les propri&eacute;t&eacute;s qu&rsquo;Euler en d&eacute;duit sont int&eacute;ressantes.</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     En effet, cette formule peut s&rsquo;appliquer &agrave; plus que 2 sons. Quatre sons dans les rapports $$1:p:q:r$$ avec $$p$$, $$q$$ et $$r$$ premiers sont assimil&eacute;s &agrave; $$1:pqr$$. Si au contraire, ils ne sont pas premiers, et que l&rsquo;on a par exemple: $$1:n:m:k$$ (avec $$n$$, $$m$$, et $$k$$ entiers), il suffit de prendre le $$PPCM$$ de tous ces facteurs, soit $$PPCM(n, m, k)$$, ce qui nous donne $$1:PPCM(n, m, k)$$. Euler peut ainsi toujours se ramener au cas $$1/n$$. </p>
@@ -68,7 +68,7 @@ avec $$p_i$$ des nombres premiers et $$k_i$$ des coefficients entiers positifs. 
 </p>
 
 ![](../img/image12.gif)
-<p><em>Tableau 6.2: les intervalles classiques avec leur degr&eacute; de douceur correspondants</em></p>
+<p><em>Tableau 6.2: les intervalles classiques avec leur degr&eacute; de douceur correspondant</em></p>
 <p>
 </p>
 </center>
@@ -95,7 +95,7 @@ TODO accord complet
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    En r&eacute;sum&eacute;, Euler d&eacute;finit la consonance &agrave; partir de la th&eacute;orie de l&rsquo;ordre et de la th&eacute;orie de la co&iuml;ncidence des coups. Il classe les accords &agrave; partir de leur rapport de fr&eacute;quence: c&rsquo;est le degr&eacute; de douceur d&rsquo;un accord. Si cet accord pr&eacute;sente un rapport de la forme $$p:q$$ (diff&eacute;rent de $$1:q$$), il faut au pr&eacute;alable le diviser par son $$PGCD$$. Si $$p$$ et $$q$$ ne sont pas premiers entre eux, il faut aussi le diviser par leur $$PPCM$$. Il d&eacute;finit aussi l&rsquo;accord complet de sorte que si l&rsquo;on ajoute un son &agrave; cet accord, son degr&eacute; de douceur ne pourra qu&rsquo;augmenter.
+    En r&eacute;sum&eacute;, Euler d&eacute;finit la consonance &agrave; partir de la th&eacute;orie de l&rsquo;ordre et de la th&eacute;orie de la co&iuml;ncidence des coups. Il classe les accords &agrave; partir de leur rapport de fr&eacute;quence: c&rsquo;est le degr&eacute; de douceur d&rsquo;un accord. Si cet accord pr&eacute;sente un rapport de la forme $$p:q$$ (diff&eacute;rent de $$1:q$$), il faut au pr&eacute;alable le diviser par son $$PGCD$$. Si p et q ne sont pas premiers entre eux, il faut aussi le diviser par leur $$PPCM$$. Il d&eacute;finit aussi l&rsquo;accord complet de sorte que si l&rsquo;on ajoute un son &agrave; cet accord, son degr&eacute; de douceur ne pourra qu&rsquo;augmenter.
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
