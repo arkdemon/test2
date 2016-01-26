@@ -16,7 +16,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 <li style="font-weight: 400;">si l'on ajoute un demi-ton chromatique &agrave; un intervalle mineur il devient majeur.</li>
 <li style="font-weight: 400;">si l'on ajoute un demi-ton chromatique &agrave; un intervalle majeur il devient augment&eacute;.</li>
 </ul>
-<table style="margin-left: auto; margin-right: auto;">
+<table>
 <tbody>
 <tr>
 <td>
