@@ -35,8 +35,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Maintenant, lorsque l&rsquo;on fait varier $$f$$ entre $$264$$ et $$528$$ ($$=2*264$$; puisque la note se retrouve entre le do et le do une octave au-dessus) nous pouvons remplacer $$f$$ par $$f_1*k$$ ($$k$$ varie entre 1 et 2 et correspond donc au rapport $$f/f_1$$), soit $$264*k$$. nous pouvons calculer la dissonance entre deux harmoniques des deux sons (la $$m_1$$-&egrave;me du premier, de fr&eacute;quence $$264$$, et la $$m_2$$-&egrave;me du second, de fr&eacute;quence $$f$$) gr&acirc;ce &agrave; cette formule:</p>
 
-![](../img/image10.png)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../img/image10.png)
 <p>(o&ugrave; $$3.14$$ correspond &agrave; $$\pi$$, dissh la dissonance de deux partiels et $$A$$ est une constante)</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Pour $$k$$ variant de $$1$$ &agrave; $$2$$, et $$m_1$$ et $$m_2$$ variant de $$1$$ &agrave; $$10$$ chacun, car nous prendrons les 10 premiers harmoniques (et $$A$$ qui ici vaut $$0.1$$), nous obtenons graphiquement:</p>
