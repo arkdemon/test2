@@ -26,3 +26,8 @@ h6 {
     font-size:large;
     color: rgb(255, 102, 0);
 }
+
+table {
+    width:75%;
+    height:75%;
+}
