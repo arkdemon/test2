@@ -15,8 +15,7 @@
 <li style="font-weight: 400;">si l'on ajoute un demi-ton chromatique &agrave; un intervalle mineur il devient majeur.</li>
 <li style="font-weight: 400;">si l'on ajoute un demi-ton chromatique &agrave; un intervalle majeur il devient augment&eacute;.</li>
 </ul>
-<p><strong><strong>&nbsp;</strong></strong></p>
-<table>
+<table style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
 <td>
