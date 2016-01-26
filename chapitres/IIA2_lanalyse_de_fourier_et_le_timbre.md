@@ -12,7 +12,7 @@ où $$f_0$$ est la fréquence fondamentale (donc $$\frac{1}{T}$$) et les coeffic
 </p>
 <p>
 	$$
-	ak=\frac{2}{T} \int_{\frac{-T}{2}}^{\frac{T}{2}} f(x) \cos(k x)dx
+	a_k=\frac{2}{T} \int_{-T/2}^{T/2} f(x) \cos(k x)dx
 	$$
 </p>
 <center>
@@ -22,7 +22,7 @@ où $$f_0$$ est la fréquence fondamentale (donc $$\frac{1}{T}$$) et les coeffic
 </center>
 <p>
 $$
-	bk=\frac{2}{T} \int_{\frac{-T}{2}}^{\frac{T}{2}} f(x) \sin(k x)dx
+	b_k=\frac{2}{T} \int_{-T/2}^{T/2} f(x) \sin(k x)dx
 	$$
 </p>
 <p>
