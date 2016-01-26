@@ -19,7 +19,7 @@
 		Sujets / camarades de classe
 	</li>
 	<li>
-		Questions suivante: Quel accord accord vous semble le plus agréable à écouter?
+		Questions suivante: Quel accord vous semble le plus agréable à écouter?
 	</li>
 </ul>
 
