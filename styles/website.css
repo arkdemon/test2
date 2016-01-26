@@ -45,7 +45,7 @@ table {
 }
 
 .book-summary,.summary,.chapter,.articles {
-    background-color: rgb(153, 220, 255)/*rgb(102, 204, 255);*/
+    background-color: rgb(153, 220, 255);/*rgb(102, 204, 255);*/
 }
 
 .color-theme-1,.color-theme-2{
