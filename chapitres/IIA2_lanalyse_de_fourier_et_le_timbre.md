@@ -26,7 +26,7 @@ $$
 	$$
 </p>
 <p>
-où $$T$$ est la période de $$f$$. On note quand même que l’on a implicitement supposé que notre série est convergente. Pour visualiser cette décomposition en harmoniques, nous utilisons souvent un spectrogramme, un graphique représentant en abscisse les fréquences des harmoniques et en ordonnée leurs amplitudes respectives.
+où $$T$$ est la période de $$f$$. On note quand même que l’on a implicitement supposé que notre série était convergente. Pour visualiser cette décomposition en harmoniques, nous utilisons souvent un spectrogramme, un graphique représentant en abscisse les fréquences des harmoniques et en ordonnée leurs amplitudes respectives.
 </p>
 
 
