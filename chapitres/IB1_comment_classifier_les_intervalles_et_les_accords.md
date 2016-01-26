@@ -16,7 +16,7 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 <li style="font-weight: 400;">si l'on ajoute un demi-ton chromatique &agrave; un intervalle mineur il devient majeur.</li>
 <li style="font-weight: 400;">si l'on ajoute un demi-ton chromatique &agrave; un intervalle majeur il devient augment&eacute;.</li>
 </ul>
-<table height="140px" width="503px">
+<table>
 <tbody>
 <tr>
 <td>
@@ -33,6 +33,18 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 </td>
 <td>
 <p>Triton</p>
+</td>
+<td>
+<p>Quinte</p>
+</td>
+<td colspan="2">
+<p>Sixte</p>
+</td>
+<td colspan="2">
+<p>Septième</p>
+</td>
+<td>
+<p>Octave</p>
 </td>
 </tr>
 <tr>
@@ -51,10 +63,22 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 <td>
 <p>3</p>
 </td>
+<td>
+<p>4</p>
+</td>
+<td colspan="2">
+<p>5</p>
+</td>
+<td colspan="2">
+<p>6</p>
+</td>
+<td>
+<p>7</p>
+</td>
 </tr>
 <tr>
 <td>
-<p><strong>Qualit&eacute;</strong></p>
+<p><strong>Qualité</strong></p>
 </td>
 <td>
 <p>Mineure</p>
@@ -71,7 +95,25 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 <td>
 <p>Juste</p>
 </td>
-<td>&nbsp;</td>
+<td> </td>
+<td>
+<p>Juste</p>
+</td>
+<td>
+<p>Mineure</p>
+</td>
+<td>
+<p>Majeure</p>
+</td>
+<td>
+<p>Mineure</p>
+</td>
+<td>
+<p>Majeure</p>
+</td>
+<td>
+<p>Juste</p>
+</td>
 </tr>
 <tr>
 <td>
@@ -94,6 +136,24 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 </td>
 <td>
 <p>3</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>5</p>
 </td>
 </tr>
 </tbody>
