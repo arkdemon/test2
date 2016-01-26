@@ -27,7 +27,7 @@ $$D = \frac{3600*(f-264)^2}{(900+(f-264)^2)^2}$$
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Et en multipliant l&rsquo;&eacute;nergie des battements (E) par D, nous obtenons la dissonance de deux sons simples. nous avons pour f variant de 296 &agrave; 396Hz, (qui correspond &agrave; la courbe 1:1 dans le graphique)</p>
+    Et en multipliant l&rsquo;&eacute;nergie des battements ($$E$$) par $$D$$, nous obtenons la dissonance de deux sons simples. nous avons pour $$f$$ variant de$$296$$ &agrave; $$396Hz$$, (qui correspond &agrave; la courbe $$1:1$$ dans le graphique)</p>
 
 ![](../img/image9.png)
 
