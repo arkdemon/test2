@@ -16,7 +16,7 @@
 
 <p>
 	<em>
-		 exemple d’un oscillogramme
+		 Exemple d’un oscillogramme
 	</em>
 </p>
 </center>
