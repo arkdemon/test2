@@ -32,7 +32,24 @@ Dans la figure ci-dessus, nous avons représenté deux notes dont le rapport des
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     On peut g&eacute;n&eacute;raliser cela &agrave; plusieurs notes, auquel cas nous associons la note dont la fr&eacute;quence est le $$PPCM$$ de toutes les fr&eacute;quences des notes. Encore une fois, la fr&eacute;quence d&eacute;pend de l&rsquo;unit&eacute; de mesure, mais pas la note ($$PPCM(k*f_1, k*f_2)=k*PPCM(f_1, f_2)$$). nous remarquererons que cette note traduit en fait le plus petit &eacute;cart entre deux coups cons&eacute;cutifs des notes consid&eacute;r&eacute;es, ce qui correspond aux battements. Ainsi, plus il est &eacute;lev&eacute;, plus l&rsquo;accord sera dissonant. Une interpr&eacute;tation de cette note par l&rsquo;analyse de Fourier est qu&rsquo;elle correspond &agrave; la plus petite (en terme de hauteur) des harmoniques qu&rsquo;ont toutes les notes en commun.</p>
 
-![](../../img/Image 13.PNG)
+<table style="height: 202px;" width="659">
+<tbody>
+<tr>
+<td>
+<p><strong>&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff0000;">&nbsp;</span><span style="color: #ff0000;">|</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00ff00;">|</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff0000;">|</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00ff00;">| </span>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff0000;">&nbsp;| </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #0000ff;">|</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff0000;">&nbsp;</span><span style="color: #ff0000;">|</span> &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00ff00;">&nbsp;</span><span style="color: #00ff00;">| </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff0000;">&nbsp;</span><span style="color: #ff0000;">| </span><span style="color: #ff0000;">&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #00ff00;">&nbsp;</span><span style="color: #00ff00;">|</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #ff0000;">|</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<span style="color: #0000ff;">&nbsp;</span><span style="color: #0000ff;">|</span>&nbsp;</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&nbsp;<span style="font-weight: 400;">PGCD(f1, f2)&nbsp;</span><span style="font-weight: 400;"><span style="color: #ff0000;">f1</span>&nbsp;</span><span style="font-weight: 400;"><span style="color: #00ff00;">f2</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-weight: 400; color: #0000ff;">PPCM(f1, f2)</span></p>
+<p><span style="font-weight: 400;">b&acirc;tons noirs: harmoniques de la note de fr&eacute;quence fondamentale PGCD(f1, f2)</span></p>
+<p><span style="color: #ff0000;"><span style="font-weight: 400;">b&acirc;tons rouges: harmoniques de la note de fr&eacute;quence fondamentale f1</span><span style="font-weight: 400;"> &nbsp;</span></span></p>
+<p><span style="font-weight: 400; color: #00ff00;">b&acirc;tons verts: harmoniques de la note de fr&eacute;quence fondamentale f2</span></p>
+<p><span style="font-weight: 400; color: #0000ff;">b&acirc;tons bleus: harmoniques de la note de fr&eacute;quence fondamentale PPCM(f1, f2)</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Ainsi, pour chaque accord, nous pouvons associer ces deux notes qui traduisent les propri&eacute;t&eacute;s g&eacute;n&eacute;rales de l&rsquo;accord, et l&rsquo;on pourrait penser qu&rsquo;ils auront donc une consonance &eacute;quivalente lorsque ces deux notes sont les m&ecirc;mes. C&rsquo;est pr&eacute;cis&eacute;ment ce que fait Euler qui se ramenait ainsi au cas $$1/n$$ pour un accord en prenant le $$PPCM$$ de toutes les fr&eacute;quences de l&rsquo;accord. De plus le lien que nous avons &eacute;tabli entre la co&iuml;ncidence des coups et l&rsquo;analyse de Fourier permet de mettre en valeur le lien sous-jacent des travaux de d&rsquo;Alembert avec cette th&eacute;orie qu&rsquo;il cherchait &agrave; ne pas utiliser.
