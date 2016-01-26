@@ -11,15 +11,15 @@ p {
 }
 
 h1 {
-    color: rgb(152,0,0);
+    color: rgb(0, 51, 204);/*color: rgb(152,0,0);*/
 }
 
 h2 {
-    color: rgb(0, 125, 0);
+    color: rgb(0, 102, 255); /*color: rgb(0, 125, 0);*/
 }
 
 h3 {
-    color: rgb(0, 60, 125);
+    color: rgb(153, 220, 255); /*color: rgb(0, 60, 125);*/
 }
 
 h6 {
