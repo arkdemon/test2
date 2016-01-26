@@ -54,8 +54,9 @@ avec pides nombres premiers et kides coefficients entiers positifs. nous pouvons
 ![](../img/image7.gif)
 <p>
 </p>
-</center>
+
 <p><em>Tableau 6.1: degr&eacute;s de douceur avec leurs rapports correspondants</em></p>
+</center>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Puis, en prenant le tableau pr&eacute;c&eacute;dent et n&rsquo;y laissant que les consonances et dissonances, nous retrouvons cette classification:</p>
