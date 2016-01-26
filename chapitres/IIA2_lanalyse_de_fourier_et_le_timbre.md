@@ -8,7 +8,7 @@ f(t)=\sum_{k=0} ^ {\infty} a_k \cos{(2 \pi f_0 k t)}+b_k \sin(2 \pi f_0 k t)
 $$
 
 <p>
-où $$f_0$$ est la fréquence fondamentale (donc $$\frac{1}{T}$$) et les coefficients constants $$ak$$ et $$bk$$ peuvent être calculés en fonction de $$f$$ par les formules
+où $$f_0$$ est la fréquence fondamentale (donc $$\frac{1}{T}$$) et les coefficients constants $$a_k$$ et $$b_k$$ peuvent être calculés en fonction de $$f$$ par les formules
 </p>
 <p>
 	$$
