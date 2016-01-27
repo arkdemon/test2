@@ -11,7 +11,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	De plus, la problématique que nous avons trouvé était des plus intéressantes: pourquoi certains accords sont-ils plus consonants que d’autres? Et pour que cela conserve son intérêt nous avons choisi d’aborder la question intuitivement, puis de développer en cherchant la réponse de manière mathématique et physique, en nous appuyant sur des théories de grands scientifiques. Le plan a donc été réalisé dans cette optique: une introduction intuitive, un développement scientifique, et une explication qui relie les deux.
+	De plus, la problématique que nous avons trouvé était des plus intéressantes : pourquoi certains accords sont-ils plus consonants que d’autres? Et pour que cela conserve son intérêt nous avons choisi d’aborder la question intuitivement, puis de développer en cherchant la réponse de manière mathématique et physique, en nous appuyant sur des théories de grands scientifiques. Le plan a donc été réalisé dans cette optique: une introduction intuitive, un développement scientifique, et une explication qui relie les deux.
 </p>
 <p>
 	<strong>
