@@ -31,7 +31,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Ainsi les premières semaines ont surtout été pour moi des cours sur la théorie musicale, puis j’ai pu me mettre au travail à proprement parler. Je trouve que la répartition du travail a été très bien faite. En tant que maillon intuitif de notre chaîne, j’étais responsable des recherches sur la consonances et la dissonance à proprement parler, c’est à dire musicalement et aussi intuitivement, ce qui relevait de la perception personnelle et psychologique. J’ai aussi fait des recherches sur des explications plus scientifiques, afin de commencer avec certaines bases.
+	Ainsi les premières semaines ont surtout été pour moi une période d'apprentissage sur la théorie musicale, puis j’ai pu me mettre au travail à proprement parler. Je trouve que la répartition du travail a été très bien faite. En tant que maillon intuitif de notre chaîne, j’étais responsable des recherches sur la consonances et la dissonance à proprement parler, c’est à dire musicalement et aussi intuitivement, ce qui relevait de la perception personnelle et psychologique. J’ai aussi fait des recherches sur des explications plus scientifiques, afin de commencer avec certaines bases.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Les formules mathématiques les plus poussées m'ont posé le plus de difficultés, car j’en comprenais l’utilité mais non leur fonctionnement, mais cela se résumait à une question de vocabulaire mathématique.
