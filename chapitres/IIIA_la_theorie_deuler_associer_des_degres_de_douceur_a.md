@@ -92,7 +92,7 @@ TODO accord complet
 <p><em>Enregistrement</em></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Autre exemple: si l&rsquo;on ajoute un deuxi&egrave;me do (do2) &agrave; l&rsquo;accord do, mi, et sol, nous aurons les coefficients 4, 5, 6 et 8 de $$PPCM$$ 120. nous sommes donc 1 degr&eacute; plus haut, et l&rsquo;accord compl&eacute;t&eacute; se verra ajout&eacute; un si &agrave; la 7e octave.
+    Autre exemple: si l&rsquo;on ajoute un deuxi&egrave;me do (do2) &agrave; l&rsquo;accord do, mi, et sol, nous aurons les coefficients 4, 5, 6 et 8 de $$PPCM$$ 120. Nous sommes donc 1 degr&eacute; plus haut, et l&rsquo;accord compl&eacute;t&eacute; se verra ajout&eacute; un si &agrave; la 7e octave.
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
