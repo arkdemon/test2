@@ -76,9 +76,9 @@ Ces classifications varient selon les époques et les personnes, et la place des
 			</td>
 			<td>
 				<br />
-				<p>
+				<li>
 					quarte juste
-				</p>
+				</li>
 			</td>
 			<td>
 				<ul>
