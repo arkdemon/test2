@@ -38,6 +38,6 @@ Pourquoi certains accords sont-ils plus consonants que d’autres?
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 	
-		Dans le but de vérifier cette intuition QUELLE INTUITION?, nous nous pencherons sur les aspects mathématiques et physiques de cette question, et ses liens avec la musique.
+		Dans le but de vérifier cette intuition, nous avons conduit cette étude pencherons sur les aspects mathématiques et physiques de cette question, et ses liens avec la musique.
 	
 </p>
