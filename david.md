@@ -34,7 +34,7 @@
 	Ainsi les premières semaines ont surtout été pour moi des cours sur la théorie musicale, puis j’ai pu me mettre au travail à proprement parler. Je trouve que la répartition du travail a été très bien faite. En tant que maillon intuitif de notre chaîne, j’étais responsable des recherches sur la consonances et la dissonance à proprement parler, c’est à dire musicalement et aussi intuitivement, ce qui relevait de la perception personnelle et psychologique. J’ai aussi fait des recherches sur des explications plus scientifiques, afin de commencer avec certaines bases.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Ce qui m’a posé le plus de difficultés a été sans aucun doute les formules mathématiques les plus poussées, car j’en comprenais l’utilité mais non pas comment elles fonctionnaient, mais cela se résumait à une question de vocabulaire mathématique.
+	Les formules mathématiques les plus poussées m'ont posé le plus de difficultés, car j’en comprenais l’utilité mais non leur fonctionnement, mais cela se résumait à une question de vocabulaire mathématique.
 </p>
 <p>
 	<strong>
@@ -44,7 +44,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Ce qui m’a surtout marqué, et dont j’ai constaté l’importance par la suite, c’était le fait qu’il fallait bien se mettre d’accord jusque dans les moindre détails. En effet il a fallut certaines mises au point entre les membres du groupe, et ce n’était qu’au bout de longues discussions que nous parvenions à nous mettre d’accord sur  des éléments importants, comme le choix de la problématique, mais aussi sur des détails. Cela m’a donné une idée de ce qu’est vraiment le travail de groupe.
+	Ce qui m’a surtout marqué, et dont j’ai constaté l’importance par la suite, c’est le fait qu’il fallait bien se mettre d’accord jusque dans les moindre détails. En effet il a fallut certaines mises au point entre les membres du groupe, et ce n’était qu’au bout de longues discussions que nous parvenions à nous mettre d’accord sur  des éléments importants, comme le choix de la problématique, mais aussi sur des détails. Cela m’a donné une idée de ce qu’est vraiment le travail de groupe.
 </p>
 <p>
 	<strong>
