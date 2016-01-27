@@ -37,7 +37,7 @@
 	<em>
 		 Youtube
 	</em>
-	 . 10 Jan 2012
+	 . 10 Jan 2012.
 	<a href="https://www.youtube.com/watch?v=Bn4x0ZqgPv8">
 		 https://www.youtube.com/watch?v=Bn4x0ZqgPv8
 	</a>
