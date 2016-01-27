@@ -116,5 +116,5 @@ Ces classifications varient selon les époques et les personnes, et la place des
     La consonance ou la dissonance d’un accord dépend donc des intervalles qui le composent. Un accord parfait, composé d’une tierce majeur et d’une quinte juste, sera donc perçu comme consonant. En réalité, c’est l'accord consonant par excellence.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Nous remarquons donc que la consonance peut être classée, et que cette classification évolue au cours de l’histoire. Cette évolution signale un certain degré de subjectivité quant à la perception de la consonance.
+    Nous remarquons donc que la consonance peut être classée, et que cette classification a évolué au cours de l’histoire. Cette évolution signale un certain degré de subjectivité quant à la perception de la consonance.
 </p>
