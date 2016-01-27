@@ -4,7 +4,7 @@
     Maintenant que nous avons vu les trois propri&eacute;t&eacute;s fondamentales d&rsquo;une note (la hauteur, le timbre et l&rsquo;intensit&eacute;) ainsi que leurs grandeurs physiques associ&eacute;es, nous savons d&eacute;sormais d&eacute;crire enti&egrave;rement un son. Mais il ne faut pas perdre de vue notre probl&eacute;matique qui repose sur la consonance des accords: il faut donc maintenant chercher &agrave; d&eacute;crire ce qui se passe lorsque nous superposons plusieurs sons en m&ecirc;me temps.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Une propri&eacute;t&eacute; remarquable de l&rsquo;&eacute;quation d&rsquo;onde est qu&rsquo;elle est lin&eacute;aire, c&rsquo;est-&agrave;-dire que si l&rsquo;on a deux solutions, leur somme en est une aussi. Ainsi, pour superposer deux ondes, nous les additionnons simplement et elle ne l'influenceront pas mutuellement, propri&eacute;t&eacute; connue sous le nom du principe de superposition.
+    Une propri&eacute;t&eacute; remarquable de l&rsquo;&eacute;quation d&rsquo;onde est qu&rsquo;elle est lin&eacute;aire, c&rsquo;est-&agrave;-dire que si l&rsquo;on a deux solutions, leur somme en est une aussi. Ainsi, pour superposer deux ondes, nous les additionnons simplement et elles ne s'influencent pas mutuellement, propri&eacute;t&eacute; connue sous le nom du principe de superposition.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Par exemple, superposons deux ondes sinuso&iuml;dales de m&ecirc;me amplitude et de fr&eacute;quence respectives $$f_1$$ et $$f_2$$ et de m&ecirc;me phase. Par une identit&eacute; trigonom&eacute;trique, nous calculons que l&rsquo;onde r&eacute;sultante vaut donc:
