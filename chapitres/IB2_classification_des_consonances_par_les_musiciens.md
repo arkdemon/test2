@@ -10,7 +10,7 @@ L’une des plus importantes, celle du scientifique Helmholtz au XIXème siècle
 Ces classifications varient selon les époques et les personnes, et la place des intervalles consonants dans la hiérarchie peut être expliquée par le rapport de fréquences et le phénomène de battements, que nous expliciterons dans une partie ultérieure.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
- A l’inverse de la consonance, la dissonance sonne mal, "blesse" les oreilles. Elle est souvent utilisée en musique pour ajouter de la tension, mais elle requiert ce que l’on appelle une “résolution” et parfois une préparation. Un accord consonant peut ainsi résoudre la dissonance provoquée antérieurement par un accord dissonant. Les dissonances sont composées du triton, des secondes et des septièmes.
+ A l’inverse de la consonance, la dissonance sonne mal, "blesse" les oreilles. Elle est souvent utilisée en musique pour ajouter de la tension; mais elle requiert ce que l’on appelle une “résolution” et parfois une préparation. Un accord consonant peut ainsi résoudre la dissonance provoquée antérieurement par un accord dissonant. Les dissonances sont composées du triton, des secondes et des septièmes.
 </p>
 <table>
 	<tbody>
