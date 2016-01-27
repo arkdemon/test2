@@ -1,3 +1,3 @@
 # Synthèses Personnelles
 
-!REDIRECT "chapitres/synthèse_adrien.html"
+!REDIRECT "./synthèse_adrien.html"
