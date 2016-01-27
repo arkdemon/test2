@@ -1,4 +1,5 @@
 # Bibliographie
+
 <p>
 	Bailhache, Patrice. "Acoustique Musicale."
 	<em>
