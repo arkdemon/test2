@@ -3,24 +3,26 @@
 <p>
 	Decreux, Eric.
 	<em>
-		Mathématiques, sciences et musique, Une introduction historique
+		 Mathématiques, sciences et musique, Une introduction historique
 	</em>
-	. Edition Ellipses
+	 . Edition Ellipses
 </p>
 <p>
-	Marie-Christine de La Souchère.
+	De, La Souchère Marie-Christine.
 	<em>
-		Les sons en 150 questions.
+		 Les Sons En 150 Questions
 	</em>
-	Edition Ellipses.
+	 . Paris: Ellipses, 2013
 </p>
 <p>
-	Collectif d’auteurs sous la direction de Pierre-Louis de Nanteuil.
+	Nanteuil, Pierre-Louis De.
 	<em>
-		Dictionnaire Encyclopédique du son.
+		 Dictionnaire Encyclopédique Du Son
 	</em>
-	Edition Dunod
+	 . Paris: Dunod, 2008
 </p>
+
+##A REFAIRE LE RESTE
 <p>
 	<a href="http://tous-au-piano.com/construction-accords-piano-les-notes-les-intervalles/">
 		http://tous-au-piano.com/construction-accords-piano-les-notes-les-intervalles/
