@@ -2,7 +2,7 @@
 ###1. Les outils d'enregistrement
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Toute expérience nécessite des outils pour la réaliser, et il est toujours important de bien comprendre comment fonctionne ces outils avant de les utiliser. Pour cela, nous avons recherché quelques informations sur le fonctionnement d’un microphone avant de réaliser nos expériences.</p>
+    Toute expérience nécessite des outils pour la réaliser, et il est toujours important de bien comprendre comment fonctionnent ces outils avant de les utiliser. Pour cela, nous avons recherché quelques informations sur le fonctionnement d’un microphone avant de réaliser nos expériences.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 Tout microphone possède un diaphragme, aussi appelé membrane, qui est poussé par les vibrations perçues, comme le son. La variation de la pression acoustique du milieu fait bouger le diaphragme. Pour pouvoir détecter et enregistrer les mouvements du diaphragme, nous les convertissons au préalable en courant électrique oscillant. C’est la méthode de conversion qui caractérise le type de microphone.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
