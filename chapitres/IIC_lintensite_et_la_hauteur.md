@@ -28,7 +28,7 @@
 ![](../img/fig 3.1.jpg)
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Mais si l&rsquo;on compare de plus pr&egrave;s les deux oscillogrammes, nous nous rendons compte qu&rsquo;au voisinage d&rsquo;un instant, l&rsquo;oscillogramme du deuxi&egrave;me enregistrement para&icirc;t p&eacute;riodique et partage la m&ecirc;me p&eacute;riode que le premier.
+    Si l&rsquo;on compare de plus pr&egrave;s les deux oscillogrammes, nous nous rendons compte qu&rsquo;au voisinage d&rsquo;un instant, l&rsquo;oscillogramme du deuxi&egrave;me enregistrement para&icirc;t p&eacute;riodique et partage la m&ecirc;me p&eacute;riode que le premier.
 </p>
 <center>
 <p>
