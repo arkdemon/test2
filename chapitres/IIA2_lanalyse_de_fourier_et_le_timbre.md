@@ -87,5 +87,5 @@ Le son le plus pur correspond donc à une onde sinusoïdale. Une interprétation
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-Nous abordons donc la pureté d’un son. Ainsi, plus le son est pur, plus il est agréable à écouter comme nous l’avons remarqué avec les enregistrements. Nous faisons les premiers pas dans une explication physique et mathématiques de la consonance, et nous introduisons un outil important pour comprendre l’analyse de Fourier.
+Nous abordons donc la pureté d’un son. Plus le son est pur, plus il est agréable à écouter comme nous l’avons remarqué avec les enregistrements. Nous faisons les premiers pas dans une explication physique et mathématiques de la consonance, et nous introduisons un outil important pour comprendre l’analyse de Fourier.
 </p>
