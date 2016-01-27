@@ -88,8 +88,11 @@ avec $$p_i$$ des nombres premiers et $$k_i$$ des coefficients entiers positifs. 
     On peut le justifier si l'on se r&eacute;f&egrave;re &agrave; la th&eacute;orie moderne des sons partiels de Helmholtz. En produisant les sons do, mi et sol, cette th&eacute;orie dit qu&rsquo;on entend &eacute;galement d&rsquo;autres fr&eacute;quences de ces notes (ce qui inclue tous les intervalles obtenus &agrave; partir de la note) plus &eacute;lev&eacute;es (comme le do une octave plus haut): ce sont les partiels de ces notes. nous en reparlerons plus tard. Dans notre cas, nous entendrons entre autres le si &agrave; plusieurs reprises, soit en tant que quinte de mi, soit en tant que tierce majeure de sol. Toutefois, l&rsquo;intensit&eacute; de si4 si5 si6 ne sera que tr&egrave;s faible.
 </p>
 
-TODO accord complet
-<p><em>Enregistrement de l'accord complet de do, mi et sol, où toutes les notes ont la même intensité. Comme on peut l'entendre, l'accord complet est plus dissonant, lorsque toutes les notes sont de même intensité. </em></p>
+
+<p><em>Enregistrement de l'accord parfait majeur de do</em></p>
+
+
+<p><em>Enregistrement de l'accord complet de l'accord parfait majeur de do</em></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 On remarque que l'accord complet où toutes les 
