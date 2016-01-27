@@ -2,7 +2,7 @@
 ##A. La théorie d’Euler: associer des degrés de douceur aux accords
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    En 1731, Euler &eacute;crit un essai sur la musique appel&eacute; <em>Essai d'une nouvelle th&eacute;orie de la musique, expos&eacute;e en toute clart&eacute; selon les principes de l'harmonie les mieux fond&eacute;s (Tentamen novae theoriae musicae ex certissimis harmoniae principiis dilucide expositae</em>) dans lequel il expose sa th&eacute;orie musicale. Elle ne sera publi&eacute;e qu&rsquo;en 1739, apr&egrave;s avoir &eacute;t&eacute; modifi&eacute;e tout au long de sa vie. </p>
+    En 1731, Euler &eacute;crit un essai sur la musique appel&eacute; <em>Essai d'une nouvelle th&eacute;orie de la musique, expos&eacute;e en toute clart&eacute; selon les principes de l'harmonie les mieux fond&eacute;s (Tentamen novae theoriae musicae ex certissimis harmoniae principiis dilucide expositae</em>), dans lequel il expose sa th&eacute;orie musicale. Elle ne sera publi&eacute;e qu&rsquo;en 1739, apr&egrave;s avoir &eacute;t&eacute; modifi&eacute;e tout au long de sa vie. </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     D&rsquo;apr&egrave;s Euler, un son est agr&eacute;able car il t&eacute;moigne d&rsquo;un ordre. Soit l&rsquo;ordre est connu, et il s&rsquo;agit seulement d&rsquo;une reconnaissance, soit il est inconnu et il faut le rechercher : ce dernier ordre concerne la musique. Il existe deux types d&rsquo;ordre de sons : la hauteur (si un son est grave ou aigu) et la dur&eacute;e. nous pouvons aussi admettre l&rsquo;existence d&rsquo;un ordre de son bas&eacute; sur l&rsquo;intensit&eacute;, mais il d&eacute;pend de comment le musicien joue le morceau. </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
