@@ -44,7 +44,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     On peut expliquer ce ph&eacute;nom&egrave;ne en supposant que la fonction d&rsquo;onde du deuxi&egrave;me enregistrement est un signal p&eacute;riodique &agrave; amplitude variable, c&rsquo;est-&agrave;-dire qu&rsquo;il peut &ecirc;tre &eacute;crit par exemple $$f(t)=A(t)*g(t)$$, o&ugrave; g est p&eacute;riodique. Ainsi, bien que son enveloppe ne soit pas p&eacute;riodique, nous pouvons quand m&ecirc;me associer une fr&eacute;quence &agrave; l&rsquo;onde.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Pour les sons, nous partons du principe &agrave; chaque fois que le signal sonore correspondant est p&eacute;riodique, donc nous pouvons associer &agrave; un son des &ldquo;coups,&rdquo; c&rsquo;est &agrave; dire un &eacute;v&egrave;nement p&eacute;riodique dont la p&eacute;riode est celle du signal. Cette consid&eacute;ration en terme de coups a donc un fondement physique.
+    Pour les sons, nous partons &agrave; chaque fois du principe  que le signal sonore correspondant est p&eacute;riodique, donc nous pouvons associer &agrave; un son des &ldquo;coups,&rdquo; c&rsquo;est &agrave; dire un &eacute;v&egrave;nement p&eacute;riodique dont la p&eacute;riode est celle du signal. Cette consid&eacute;ration en terme de coups a donc un fondement physique.
 </p>
 
 <table><tbody><tr><td><p align="center"><strong>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</strong></p></td></tr></tbody></table>
