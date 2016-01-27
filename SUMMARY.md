@@ -24,10 +24,10 @@
    * [Exploitation des résultats](chapitres/IVB_exploitation_des_resultats.md)
 * [Conclusion](chapitres/Conclusion.md)
 * [Annexe](chapitres/Annexe.md)
-* [Synthèses Personnelles](syntheses_personnelles.md)
-   * [Adrien](adrien.md)
+* [Synthèses Personnelles](chapitres/syntheses_personnelles.md)
+   * [Adrien](chapitres/synthèse_adrien.md)
    * Alexandre
-   * [David](david.md)
-   * [Etienne](etienne.md)
+   * [David](chapitres/synthèse_david.md)
+   * [Etienne](chapitres/synthèse_etienne.md)
 * [Bibliographie](chapitres/bibliographie.md)
 
