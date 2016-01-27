@@ -22,13 +22,6 @@
 	Edition Dunod
 </p>
 <p>
-	<strong>
-		<strong>
-			 
-		</strong>
-	</strong>
-</p>
-<p>
 	<a href="http://tous-au-piano.com/construction-accords-piano-les-notes-les-intervalles/">
 		http://tous-au-piano.com/construction-accords-piano-les-notes-les-intervalles/
 	</a>
@@ -41,16 +34,6 @@
 <p>
 	<a href="http://www.jstor.org/stable/924667?seq=1#page_scan_tab_contents">
 		http://www.jstor.org/stable/924667?seq=1#page_scan_tab_contents
-	</a>
-</p>
-<p>
-	<a href="https://www.youtube.com/watch?v=ihxASKVkkwg">
-		https://www.youtube.com/watch?v=ihxASKVkkwg
-	</a>
-</p>
-<p>
-	<a href="https://www.youtube.com/watch?v=Bn4x0ZqgPv8">
-		https://www.youtube.com/watch?v=Bn4x0ZqgPv8
 	</a>
 </p>
 <p>
@@ -122,7 +105,17 @@
 	</a>
 </p>
 <p>
-			<a href="https://www.youtube.com/watch?v=i_0DXxNeaQ0">
-			https://www.youtube.com/watch?v=i_0DXxNeaQ0
-		</a>
-	</p>
+	<a href="https://www.youtube.com/watch?v=i_0DXxNeaQ0">
+		https://www.youtube.com/watch?v=i_0DXxNeaQ0
+	</a>
+</p>
+<p>
+	<a href="https://www.youtube.com/watch?v=ihxASKVkkwg">
+		https://www.youtube.com/watch?v=ihxASKVkkwg
+	</a>
+</p>
+<p>
+	<a href="https://www.youtube.com/watch?v=Bn4x0ZqgPv8">
+		https://www.youtube.com/watch?v=Bn4x0ZqgPv8
+	</a>
+</p>
