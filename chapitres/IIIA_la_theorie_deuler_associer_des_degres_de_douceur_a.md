@@ -90,11 +90,11 @@ avec $$p_i$$ des nombres premiers et $$k_i$$ des coefficients entiers positifs. 
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/accord parfait.wav{% endaimg %}
 
-<p><em>Enregistrement de l'accord parfait majeur de do</em></p>
+<p><em>Enregistrement de l'accord parfait majeur de do généré sur Audacity</em></p>
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/accord complet.wav{% endaimg %}
 
-<p><em>Enregistrement de l'accord complet de l'accord parfait majeur de do</em></p>
+<p><em>Enregistrement de l'accord complet de l'accord parfait majeur de do généré sur Audacity</em></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 On remarque que l'accord complet où toutes les 
