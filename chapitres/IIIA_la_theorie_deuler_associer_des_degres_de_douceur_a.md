@@ -29,7 +29,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Cependant, Euler remarque que $$1:5$$ (qui correspond au rapport des fr&eacute;quences de la sixte mineure 3 octaves en-dessous et qui ne correspond pas &agrave; une puissance de deux mais un nombre premier) doit &ecirc;tre plus complexe que $$1:8$$ qui a le degr&eacute; 4, Euler lui attribue donc le degr&eacute; 5 et en d&eacute;duit par induction que pour $$p$$, un nombre premier, $$1:p$$ est de degr&eacute; $$p$$. </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Puis, il essaie de g&eacute;n&eacute;raliser en disant que le rapport $$1:pq$$ "d&eacute;passe" celui de 1:p comme $$1:q$$ d&eacute;passe $$1:1$$. Il faut donc que son degr&eacute; soit compos&eacute; de $$p$$, $$q$$ et $$1$$, ce qui donne le degr&eacute;: $$p + q - 1$$. </p>
+    Puis, il essaie de g&eacute;n&eacute;raliser en disant que le rapport $$1:pq$$ "d&eacute;passe" celui de $$1:p$$ comme $$1:q$$ d&eacute;passe $$1:1$$. Il faut donc que son degr&eacute; soit compos&eacute; de $$p$$, $$q$$ et $$1$$, ce qui donne le degr&eacute;: $$p + q - 1$$. </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Patrice Bailhache proposera en 1997 une autre approche pour obtenir $$p+q-1$$. Si l&rsquo;on prend un rapport $$p:q$$ avec $$p$$ et $$q$$ premiers entre eux, nous avons d&rsquo;apr&egrave;s la th&eacute;orie de la co&iuml;ncidence des coups, que seuls le premier et le dernier coups sont les m&ecirc;mes (le coup en commun provient du fait qu&rsquo;ils sont jou&eacute;s en m&ecirc;me temps; et comme ils sont premiers entre eux, ils ne partagent pas d&rsquo;autres coups en commun). En sachant que le dernier coup de la p&eacute;riode correspond au d&eacute;but de la p&eacute;riode d&rsquo;apr&egrave;s, le total des coups sera $$p+q-1$$.</p>
