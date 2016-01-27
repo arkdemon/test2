@@ -6,7 +6,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 Tout microphone possède un diaphragme, aussi appelé membrane, qui est poussé par les vibrations perçues, comme le son. La variation de la pression acoustique du milieu fait bouger le diaphragme. Pour pouvoir détecter et enregistrer les mouvements du diaphragme, ils sont convertis en courant électrique oscillant. La méthode de conversion définit le type de microphone.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Le microphone dynamique, aussi appelé microphone à bobine mobile, est le plus fréquemment utilisé. Il utilise une bobine qui est attachée à la membrane pour créer ce courant ; il vibre donc avec la membrane. Cette bobine est située dans le champ magnétique fixe d’un aimant : leur mouvement relatif génère donc un courant alternatif par induction. Ce type de microphone est très souvent utilisé car aucun courant est requis pour le faire fonctionner.</p>
+    Le microphone dynamique, aussi appelé microphone à bobine mobile, est le plus fréquemment utilisé. Il utilise une bobine qui est attachée à la membrane pour créer ce courant ; celle-ci vibre donc avec la membrane. Cette bobine est située dans le champ magnétique fixe d’un aimant : leur mouvement relatif génère donc un courant alternatif par induction. Ce type de microphone est très souvent utilisé car aucun courant est requis pour le faire fonctionner.</p>
 <center>
 <p>
 </p>
