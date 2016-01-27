@@ -22,6 +22,28 @@
 	 . Paris: Dunod, 2008
 </p>
 
+<p>
+	“Music 133 - Consonance and Dissonance 1”.
+	<em>
+		 Youtube
+	</em>
+	 . 10 Janvier 2012.
+	<a href="https://www.youtube.com/watch?v=ihxASKVkkwg">
+		 https://www.youtube.com/watch?v=ihxASKVkkwg
+	</a>
+</p>
+<p>
+	“Music 133 - Consonance and Dissonance 2”.
+	<em>
+		 Youtube
+	</em>
+	 . 10 Jan 2012
+	<a href="https://www.youtube.com/watch?v=Bn4x0ZqgPv8">
+		 https://www.youtube.com/watch?v=Bn4x0ZqgPv8
+	</a>
+</p>
+
+
 ##A REFAIRE LE RESTE
 <p>
 	<a href="http://tous-au-piano.com/construction-accords-piano-les-notes-les-intervalles/">
