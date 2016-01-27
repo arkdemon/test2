@@ -7,7 +7,7 @@ D’après Gevaert (un compositeur et théoricien belge du XIXème-XXème siècl
 L’une des plus importantes, celle du scientifique Helmholtz au XIXème siècle, divise les intervalles consonants en quatre catégories. L’unisson (c’est-à-dire l’émission de deux sons de la même hauteur), l’octave et la quinte forment le premier niveau de consonance, les consonances parfaites. Puis, les consonances imparfaites, le deuxième niveau, sont constituées de la sixte majeure et mineur et de la tierce majeure et mineure. Ensuite, il y a les consonances mixtes avec la quarte. On notera tout de même que le sort de la quarte avait longtemps été incertain, contrairement à la sixte mineure et majeure qui furent intégrées dès le XIIIème siècle.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-Ces classifications varient selon les époques et les personnes; et leur place dans la hiérarchie peut être expliquée par le rapport de fréquences et le phénomène de battements, que nous élaborerons dans une partie ultérieure.
+Ces classifications varient selon les époques et les personnes et la place des intervalles consonants dans la hiérarchie peut être expliquée par le rapport de fréquences et le phénomène de battements, que nous élaborerons dans une partie ultérieure.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
  A l’inverse de la consonance, la dissonance sonne mal, ‘blesse’ les oreilles. Elle est souvent utilisée en musique pour ajouter de la tension; mais elle requiert ce que l’on appelle une “résolution” et parfois une préparation. Un accord consonant peut ainsi résoudre la dissonance provoquée antérieurement par un accord dissonant. Les dissonances sont composées du triton, des secondes et des septièmes.
