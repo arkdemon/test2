@@ -18,7 +18,7 @@
     De plus, si l&rsquo;on peut d&eacute;composer l&rsquo;onde p&eacute;riodique en une somme d&rsquo;harmoniques avec la s&eacute;rie de Fourier, alors la hauteur per&ccedil;ue correspondra &agrave; celle de la fr&eacute;quence fondamentale.</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Mais m&ecirc;me si une onde n&rsquo;est pas p&eacute;riodique nous percevons toujours une hauteur. Par exemple, les deux sons enregistr&eacute;s sont bien de la m&ecirc;me hauteur bien que le deuxi&egrave;me son n&rsquo;est pas p&eacute;riodique.
+    M&ecirc;me si une onde n&rsquo;est pas p&eacute;riodique nous percevons toujours une hauteur. Par exemple, les deux sons enregistr&eacute;s sont bien de la m&ecirc;me hauteur bien que le deuxi&egrave;me son n&rsquo;est pas p&eacute;riodique.
 </p>
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 2.1.wav{% endaimg %}
