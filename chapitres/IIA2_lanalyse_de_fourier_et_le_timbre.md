@@ -75,7 +75,7 @@ En réalité, c'est parce que si l’on décompose ces deux ondes avec la série
 
 <p align="center"><i>Spectrogramme du premier enregistrement</i></p>
 
-![](../img/spectre scie.gif)
+![](../img/fig 5.2.jpg)
 <p align="center"><i>Spectrogramme du deuxième enregistrement</i></p>
 </center>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
