@@ -50,10 +50,10 @@ où $$T$$ est la période de $$f$$. On note quand même que l’on a impliciteme
 </p>
 </center>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    On peut généraliser la série de Fourier et l’étendre à une fonction quelconque (comme si elle avait une période infinie), mais ce ne sera alors plus une série discrète d’harmoniques mais une intégrale continue d’harmoniques. Pour calculer les amplitudes respectives de chaque partiel il faut désormais utiliser la transformée de Fourier. Nous donnons maintenant une interprétation acoustique de la série de Fourier.
+    On peut généraliser la série de Fourier et l’étendre à une fonction quelconque (comme si elle avait une période infinie), mais ce ne sera alors plus une série discrète d’harmoniques mais une intégrale continue d’harmoniques. Pour calculer les amplitudes respectives de chaque partiel il faut désormais utiliser la transformée de Fourier.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Bien que plusieurs sons aient la même hauteur, nous arrivons à les différencier. Par exemple, la note d’une guitare et d’un piano sont distinguables, mettant en évidence une nouvelle caractéristique du son: le timbre. Cette caractéristique permet d’établir la pureté d’un son. Par exemple, le premier enregistrement est plus pur que le deuxième même s’ils ont la même hauteur.
+     Nous donnons maintenant une interprétation acoustique de la série de Fourier. Bien que plusieurs sons aient la même hauteur, nous arrivons à les différencier. Par exemple, la note d’une guitare et d’un piano sont distinguables, mettant en évidence une nouvelle caractéristique du son: le timbre. Cette caractéristique permet d’établir la pureté d’un son. Par exemple, le premier enregistrement est plus pur que le deuxième même s’ils ont la même hauteur.
 </p>
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/enregistrement 3.1.wav"{% endaimg %}
