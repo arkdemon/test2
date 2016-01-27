@@ -28,7 +28,7 @@
 	</u></strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Nous allons connecter le microphone à l’ordinateur puis jouer une série de notes, par exemple un do à corde relâchée, un mi, un sol, etc. Une fois les enregistrements réalisés nous jouerons des accords, tels que l’accord de do majeur, ou l’accord de septième diminuée. Après avoir tout enregistré, nous allons vérifier l’exactitude des enregistrements en les comparant à des sons générés par ordinateur censés correspondre aux notes et accords enregistrés. à l’aide du programme Regavi et du programme Regressi.
+	Nous allons connecter le microphone à l’ordinateur puis jouer une série de notes, par exemple un do à corde relâchée, un mi, un sol, etc. Une fois les enregistrements réalisés nous jouerons des accords, tels que l’accord de do majeur, ou l’accord de septième diminuée. Après avoir tout enregistré, nous allons vérifier l’exactitude des enregistrements en les comparant à des sons générés par ordinateur censés correspondre aux notes et accords enregistrés à l’aide du programme Regavi et du programme Regressi.
 </p>
 <p>
 	<strong><u>
