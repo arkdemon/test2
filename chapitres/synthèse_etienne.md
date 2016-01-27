@@ -9,7 +9,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 	Alexandre, étant un élève très serieux, nous a aidé à bien faire progresser le travail tout au long de sa réalisation.  Il a été particulièrement productif quant à la recherche de certains points très spécifiques.  D’autre part, David, le dernier membre de notre groupe, a pu amener certains éléments au TPE qui nous manquaient.  Il est le plus créatif d’entre nous, et a aussi une écriture et un style de rédaction particulier, ce qui a été très utile lors de la rédaction des parties générales du travail telles que l’introduction et la conclusion.
 </p>
-<p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
 J'ai personnellement pu apporter mes propres connaissances et compétances au TPE pour l'améliorer et faciliter ca création.  Mes connaissances musicales et physiques m'ont donné un avantage lors de l'étude dude la théorie musicales aussi bien que du son.  Ceci me permettait de travailler éfficacement dzans toutes les parties du travail.  
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
