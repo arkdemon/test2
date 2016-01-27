@@ -73,13 +73,9 @@ En réalité, c'est parce que si l’on décompose ces deux ondes avec la série
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../img/fig 5.1.png)
 
-<p align="center"><i>Spectre du premier enregistrement</i></p>
+<p align="center"><i>Spectrogramme du premier enregistrement</i></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](../img/fig 5.2.png)
-<p align="center"><i>Oscillogramme du deuxième enregistrement</i></p>
-
-
-![](../img/fig 1.1.jpeg)
+![](../img/spectre scie.gif)
 <p align="center"><i>Spectrogramme du deuxième enregistrement</i></p>
 </center>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
