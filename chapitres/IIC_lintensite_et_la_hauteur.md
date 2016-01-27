@@ -36,9 +36,11 @@
 
 ![](../img/fig 4.1.jpg)
 
+<p><i>Comparaison de l'oscillogramme du premier enregistrement avec celui du deuxième enregistrement à un moment 1</i></p>
+
 ![](../img/fig 4.2.jpg)
 
-<p><i>Comparaison de l'oscillogramme du premier enregistrement avec celui du deuxième enregistrement à deux moments différents</i></p>
+<p><i>Comparaison de l'oscillogramme du premier enregistrement avec celui du deuxième enregistrement à un moment 2</i></p>
 </center>
 <p>&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
