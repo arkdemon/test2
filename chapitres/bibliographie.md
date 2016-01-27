@@ -8,7 +8,7 @@
 	 . Edition Ellipses
 </p>
 <p>
-	De, La Souchère Marie-Christine.
+	De La Souchère, Marie-Christine.
 	<em>
 		 Les Sons En 150 Questions
 	</em>
