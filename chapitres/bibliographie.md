@@ -5,21 +5,21 @@
 	<em>
 		 Mathématiques, sciences et musique, Une introduction historique
 	</em>
-	 . Edition Ellipses
+	 . Edition Ellipses.
 </p>
 <p>
 	De La Souchère, Marie-Christine.
 	<em>
 		 Les Sons En 150 Questions
 	</em>
-	 . Paris: Ellipses, 2013
+	 . Paris: Ellipses, 2013.
 </p>
 <p>
 	Nanteuil, Pierre-Louis De.
 	<em>
 		 Dictionnaire Encyclopédique Du Son
 	</em>
-	 . Paris: Dunod, 2008
+	 . Paris: Dunod, 2008.
 </p>
 
 <p>
