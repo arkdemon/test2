@@ -43,7 +43,7 @@
 </p>
 <ul>
 	<li >
-		L’environnement dans lequel ils ont été réalisés étaient trop bruyant
+		L’environnement dans lequel ils ont été réalisés était trop bruyant
 	</li>
 	<li >
 		Nous avons collé le microphone à la caisse de résonance, nous avons donc enregistré non pas les sons générés par la corde, mais les vibrations de la plaque en plastique couvrant la caisse de résonance.
