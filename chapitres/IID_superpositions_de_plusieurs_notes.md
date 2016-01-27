@@ -7,7 +7,7 @@
     Une propri&eacute;t&eacute; remarquable de l&rsquo;&eacute;quation d&rsquo;onde est qu&rsquo;elle est lin&eacute;aire, c&rsquo;est-&agrave;-dire que si l&rsquo;on a deux solutions, leur somme en est une aussi. Ainsi, pour superposer deux ondes, nous les additionnons simplement et elles ne s'influencent pas mutuellement, propri&eacute;t&eacute; connue sous le nom du principe de superposition.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Par exemple, superposons deux ondes sinuso&iuml;dales de m&ecirc;me amplitude et de fr&eacute;quence respectives $$f_1$$ et $$f_2$$ et de m&ecirc;me phase. Par une identit&eacute; trigonom&eacute;trique, nous calculons que l&rsquo;onde r&eacute;sultante vaut donc:
+    Par exemple, superposons deux ondes sinuso&iuml;dales de m&ecirc;me amplitude, de fr&eacute;quence respectives $$f_1$$ et $$f_2$$ et de m&ecirc;me phase. Par une identit&eacute; trigonom&eacute;trique, nous calculons que l&rsquo;onde r&eacute;sultante vaut donc:
 </p>
 <p>$$
 A\sin(2 \pi f_1 t)+ A\sin(2 \pi f_2 t) = 2 A \sin(2 \pi \frac{f_1+f_2}{2}t) cos(2 \pi \frac{f_1-f_2}{2}t)
