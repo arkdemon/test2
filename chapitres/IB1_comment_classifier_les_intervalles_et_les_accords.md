@@ -204,5 +204,5 @@ Il reste &agrave; d&eacute;finir la qualit&eacute; d&rsquo;un intervalle. Effect
 	Par exemple, les deux renversements cités plus haut représentent en réalité le même accord: l’accord parfait majeur.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	C’est ainsi que l’on classifie un accord. Cette classification met en évidence les différences entre les accords, différences qui peuvent influencer la consonance et dissonance.
+	C’est ainsi que l’on classifie un accord. Cette classification met en évidence les différences entre les accords, différences qui peuvent influencer la consonance de l'accord.
 </p>
