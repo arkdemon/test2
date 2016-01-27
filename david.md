@@ -54,7 +54,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Ainsi, ce projet m’a permit de découvrir plusieurs choses. Dans un premier temps, cela m’a permis de découvrir en profondeur, et sous des aspects variés, le monde de la musique, lequel m’a toujours fasciné. Dans un deuxième temps, il m’a ouvert la voie vers une approche différente du travail, dans laquelle l’implication et la recherche personnelle sont essentielles. Et finalement, il m’a poussé vers un travail collectif, et m’a permis d’en comprendre les travers (manque de communication, etc.) et de comment les résoudre.
+	Ainsi, ce projet m’a permit de découvrir plusieurs choses. Dans un premier temps, cela m’a permis de découvrir en profondeur, et sous des aspects variés, le monde de la musique, lequel m’a toujours fasciné. Dans un deuxième temps, il m’a ouvert la voie vers une approche différente du travail, dans laquelle l’implication et la recherche personnelle sont essentielles. Et finalement, il m’a poussé vers un travail collectif, et m’a permis d’en comprendre les travers (manque de communication, etc.) et de comment les résoudre, mais aussi de découvrir mes amis sous un aspect différent.
 </p>
 <p>
 	Le TPE a donc été une expérience enrichissante sous tous les aspects.
