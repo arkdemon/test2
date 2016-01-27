@@ -15,7 +15,7 @@
 	 . Paris: Ellipses, 2013.
 </p>
 <p>
-	Nanteuil, Pierre-Louis De.
+	De Nanteuil, Pierre-Louis.
 	<em>
 		 Dictionnaire Encyclopédique Du Son
 	</em>
