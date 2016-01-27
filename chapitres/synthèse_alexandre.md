@@ -1,7 +1,7 @@
 # Alexandre
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-Dès qu’Adrien nous a proposé le sujet de la musique, j’ai été très intéressé. Tout d’abord parce que je n’ai jamais fait de solfège, bien que je fasse de la guitare. En réalité, lors d’un voyage scolaire entrepris cette année à Briançon, plusieurs de mes camarades de classe avaient déjà parlé de la théorie musicale, des intervalles, de l’oreille absolue et je ne savais pas vraiment en quoi ça consistait. Du coup, j’avais envie de découvrir ce sujet. En plus, nos thèmes précédents (qui incluaient entre autres le biomimétisme et la perception) n’étaient pas appropriés pour un sujet de TPE, car étant trop généraux ou menant au cerveau.
+Dès qu’Adrien nous a proposé le sujet de la musique qui est devenu consonance, j’ai été très intéressé. Tout d’abord parce que je n’ai jamais fait de solfège, bien que je fasse de la guitare. En réalité, lors d’un voyage scolaire entrepris cette année à Briançon, plusieurs de mes camarades de classe avaient déjà parlé de la théorie musicale, des intervalles, de l’oreille absolue et je ne savais pas vraiment en quoi ça consistait. Du coup, j’avais envie de découvrir ce sujet. En plus, nos thèmes précédents (qui incluaient entre autres le biomimétisme et la perception) n’étaient pas appropriés pour un sujet de TPE, car étant trop généraux ou menant au cerveau.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
 En plus, on l’abordait d’un point de vue scientifique: on ne cherchait pas à étudier la musique, mais à l’expliquer. C’est pourquoi le sujet m’a immédiatement séduit.
