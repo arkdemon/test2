@@ -21,7 +21,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	C’est donc avec un certain entrain que je me suis lancé dans ce travail. A partir du moment où le sujet a été choisi, la problématique a mis quelques semaines à venir. Et elle aussi m’a intéressé. En effet quoi de plus intéressant que de connaître les raisons de la beauté de la musique. Pour être au point j’ai du faire beaucoup d’efforts de compréhension et d’apprentissage, me documenter auprès de mes compagnons musiciens ou en cherchant d’autres sources rien que pour connaître les bases, et cela m’a plu car c’était l’image que je me faisais du TPE, une occasion de s’obliger à se cultiver personnellement pour pouvoir répondre à une question.
+	C’est donc avec un certain entrain que je me suis lancé dans ce travail. A partir du moment où le sujet a été choisi, la problématique a mis quelques semaines à venir. Et elle aussi m’a intéressé. En effet quoi de plus intéressant que de connaître les raisons de la beauté de la musique. Pour être au point j’ai du faire beaucoup d’efforts de compréhension et d’apprentissage, me documenter auprès de mes compagnons musiciens ou en cherchant d’autres sources pour connaître les bases, et cela m’a plu car c’était l’image que je me faisais du TPE, une occasion de s’obliger à se cultiver personnellement pour pouvoir répondre à une question.
 </p>
 <p>
 	<strong>
