@@ -4,7 +4,7 @@
 
 
 
-<h6>La musique d'un point de vue mathématique et physique</h6>
+<h6>La consonance d'un point de vue mathématique et physique</h6>
 </center>
 
 
