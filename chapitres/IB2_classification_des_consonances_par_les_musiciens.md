@@ -104,7 +104,7 @@ Ces classifications varient selon les époques et les personnes, et la place des
 </table>
 
 <center>
-<p><em> Tableau 3: classification des consonances (communément acceptées) </em></p>
+<p><em> Tableau 3: classification des consonances (communément acceptée) </em></p>
 </center>
 <p>
 &nbsp;
