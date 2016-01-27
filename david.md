@@ -44,7 +44,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Ce qui m’a surtout marqué, et dont j’ai constaté l’importance par la suite, c’est le fait qu’il fallait bien se mettre d’accord jusque dans les moindre détails. En effet il a fallut certaines mises au point entre les membres du groupe, et ce n’était qu’au bout de longues discussions que nous parvenions à nous mettre d’accord sur  des éléments importants, comme le choix de la problématique, mais aussi sur des détails. Cela m’a donné une idée de ce qu’est vraiment le travail de groupe.
+	Le besoin de bien se mettre d'accord jusque dans les moindres détails a été un fait important, dont j’ai constaté l’importance par la suite. En effet il a fallut certaines mises au point entre les membres du groupe, et ce n’était qu’au bout de longues discussions que nous parvenions à nous mettre d’accord sur  des éléments importants, comme le choix de la problématique, mais aussi sur des détails. Cela m’a donné une idée de ce qu’est vraiment le travail de groupe.
 </p>
 <p>
 	<strong>
