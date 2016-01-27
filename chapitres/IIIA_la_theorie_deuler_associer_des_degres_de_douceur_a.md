@@ -100,5 +100,5 @@ TODO accord complet
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Pourtant, Euler n&rsquo;est pas le seul &agrave; chercher &agrave; expliquer la musique. D&rsquo;Alembert, un de ses contemporains en fera de m&ecirc;me.
+    Euler n&rsquo;est pas le seul &agrave; chercher &agrave; expliquer la musique. D&rsquo;Alembert, un de ses contemporains en fait de m&ecirc;me.
 </p>
