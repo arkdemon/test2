@@ -21,7 +21,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	C’est donc avec un certain entrain que je me suis lancé dans ce travail. A partir du moment où le sujet a été choisi, la problématique a mis quelques semaines à venir. Et elle aussi m’a intéressé. En effet quoi de plus intéressant que de connaître les raisons de la beauté de la musique. Pour être au point j’ai du faire beaucoup d’efforts de compréhension et d’apprentissage, me documenter auprès de mes compagnons musiciens ou en cherchant d’autres sources pour connaître les bases, et cela m’a plu car c’était l’image que je me faisais du TPE, une occasion de s’obliger à se cultiver personnellement pour pouvoir répondre à une question.
+	C’est donc avec un certain entrain que je me suis lancé dans ce travail. A partir du moment où le sujet a été choisi, la problématique a mis quelques semaines à venir. Et elle aussi m’a intéressé. En effet quoi de plus intéressant que de connaître les raisons de la beauté de la musique. Pour être au point j’ai du faire beaucoup d’efforts de compréhension et d’apprentissage, me documenter auprès de mes compagnons musiciens ou en cherchant d’autres sources pour connaître les bases, et cela m’a plu car c’était l’image que je me faisais du TPE : un travail qui incite à se cultiver personnellement, à s'impliquer pour pouvoir répondre à une question.
 </p>
 <p>
 	<strong>
@@ -31,10 +31,10 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Ainsi les premières semaines ont surtout été pour moi comme des cours sur la théorie musicale, puis j’ai pu me mettre au travail à proprement parler. Je trouve que la répartition du travail a été très bien faite. En tant que maillon intuitif de notre chaîne, j’étais responsable des recherches sur la consonances et la dissonance à proprement parler, c’est à dire musicalement et aussi intuitivement, ce qui relevait de la perception personnelle et psychologique. J’ai aussi fait des recherches sur des explications plus scientifiques, afin de commencer avec certaines bases.
+	Ainsi les premières semaines ont surtout été pour moi des cours sur la théorie musicale, puis j’ai pu me mettre au travail à proprement parler. Je trouve que la répartition du travail a été très bien faite. En tant que maillon intuitif de notre chaîne, j’étais responsable des recherches sur la consonances et la dissonance à proprement parler, c’est à dire musicalement et aussi intuitivement, ce qui relevait de la perception personnelle et psychologique. J’ai aussi fait des recherches sur des explications plus scientifiques, afin de commencer avec certaines bases.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Ce qui m’a posé le plus de difficulté a été sans aucun doute les formules mathématiques les plus poussées, car j’en comprenais l’utilité mais non pas comment elles fonctionnaient, mais cela se résumait à une question de vocabulaire mathématique.
+	Ce qui m’a posé le plus de difficultés a été sans aucun doute les formules mathématiques les plus poussées, car j’en comprenais l’utilité mais non pas comment elles fonctionnaient, mais cela se résumait à une question de vocabulaire mathématique.
 </p>
 <p>
 	<strong>
