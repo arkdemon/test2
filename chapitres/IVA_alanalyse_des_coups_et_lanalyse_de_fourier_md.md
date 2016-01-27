@@ -10,7 +10,7 @@
 <p>
 </p>
 
-![](../../img/Coups 2.PNG)
+![](../img/Coups 2.PNG)
 <p>
 </p>
 <p><em>Repr&eacute;sentation de deux notes par leurs coups dont le rapport des fr&eacute;quences est 3/4</em></p>
