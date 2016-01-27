@@ -44,7 +44,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Le besoin de bien se mettre d'accord jusque dans les moindres détails a été un fait important, dont j’ai constaté l’importance par la suite. En effet il a fallut certaines mises au point entre les membres du groupe, et ce n’était qu’au bout de longues discussions que nous parvenions à nous mettre d’accord sur  des éléments importants, comme le choix de la problématique, mais aussi sur des détails. Cela m’a donné une idée de ce qu’est vraiment le travail de groupe.
+	Le besoin de bien se mettre d'accord jusque dans les moindres détails a été un fait important, dont j’ai constaté l’importance par la suite. En effet il a fallut certaines mises au point entre les membres du groupe, et ce n’était qu’au bout de longues discussions que nous parvenions à nous mettre d’accord sur  des éléments importants, comme le choix de la problématique, mais aussi sur des détails. Cela m’a donné une idée de ce qu’est vraiment le travail de groupe, et des individualités qui doivent composer entre elles.
 </p>
 <p>
 	<strong>
@@ -54,7 +54,7 @@
 	</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Ainsi, ce projet m’a permit de découvrir plusieurs choses. Dans un premier temps, cela m’a permis de découvrir en profondeur, et sous des aspects variés, le monde de la musique, lequel m’a toujours fasciné. Dans un deuxième temps, il m’a ouvert la voie vers une approche différente du travail, dans laquelle l’implication et la recherche personnelle sont essentielles. Et finalement, il m’a poussé vers un travail collectif, et m’a permis d’en comprendre les travers (manque de communication, etc.) et de savoir comment les éviter.
+	Ainsi, ce projet m’a permit de découvrir plusieurs choses. Dans un premier temps, cela m’a permis de découvrir en profondeur, et sous des aspects variés, le monde de la musique, lequel m’a toujours fasciné. Dans un deuxième temps, il m’a ouvert la voie vers une approche différente du travail, dans laquelle l’implication et la recherche personnelle sont essentielles. Et finalement, il m’a poussé vers un travail collectif, et m’a permis d’en comprendre les travers (manque de communication, etc.) et de comment les résoudre.
 </p>
 <p>
 	Le TPE a donc été une expérience enrichissante sous tous les aspects.
