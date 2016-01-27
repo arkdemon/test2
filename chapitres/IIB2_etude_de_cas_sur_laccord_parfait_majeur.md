@@ -77,7 +77,7 @@
 	</u></strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Nous allons enregistrer un accord parfait majeur de Mi (Mi2, Sol#2, Si2) joué et enregistré dans un lieu silencieux avec le programme Audacity. La guitare électrique est branchée à l’ordinateur (par le biais de la carte son), utilisant donc les capteurs électromagnétiques intégrés dans la guitare pour enregistrer le son. Les enregistrements seront ensuite transférés au programme Regavi, qui les traitera pour ensuite les envoyer vers le programme Regressi. Ce programme décomposera le signal périodique obtenu grâce à l’enregistrement, nous donnant le spectrogramme de l’accord. A l’aide des outils offerts par le programme, nous analyserons le spectrogramme obtenu.
+	Nous allons enregistrer un accord parfait majeur de Mi (Mi2, Sol#2, Si2) joué et enregistré dans un lieu silencieux avec le programme Audacity. La guitare électrique est branchée à l’ordinateur (par le biais de la carte son), utilisant donc les capteurs électromagnétiques intégrés dans la guitare pour enregistrer le son. Les enregistrements seront ensuite transférés au programme Regavi, qui les traitera pour ensuite les envoyer vers le programme Regressi. Ce programme décomposera le signal périodique obtenu grâce à l’enregistrement, nous donnant le spectrogramme de l’accord. A l’aide des outils du programme, nous analyserons le spectrogramme obtenu.
 </p>
 
 {% aimg imgwidth="0", imgheight="0", audiocontrols="" %}../img/icon.jpg,../audio/accord parfait majeur de Mi.wav"{% endaimg %}
