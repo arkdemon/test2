@@ -20,7 +20,7 @@
    * [La théorie de d’Alembert: une première notion des harmoniques](chapitres/IIIB_la_theorie_de_dalembert_une_premiere_notion_des_ha.md)
    * [La théorie d’Helmholtz: quantifier la dissonance](chapitres/IIIC_la_theorie_dhelmholtz_quantifier_la_dissonance.md)
 * [Explications](chapitres/IV_explications.md)
-   * [L’analyse des coups et l’analyse de Fourier](chapitres/chapitres/IVA_alanalyse_des_coups_et_lanalyse_de_fourier_md.md)
+   * [L’analyse des coups et l’analyse de Fourier](chapitres/IVA_alanalyse_des_coups_et_lanalyse_de_fourier_md.md)
    * [Exploitation des résultats](chapitres/IVB_exploitation_des_resultats.md)
 * [Conclusion](chapitres/Conclusion.md)
 * [Annexe](chapitres/Annexe.md)
