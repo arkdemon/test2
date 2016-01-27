@@ -97,10 +97,6 @@ avec $$p_i$$ des nombres premiers et $$k_i$$ des coefficients entiers positifs. 
 <p><em>Enregistrement de l'accord complet de l'accord parfait majeur de do généré sur Audacity</em></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-On remarque que l'accord complet où toutes les 
-</p>
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;
     Autre exemple: si l&rsquo;on ajoute un deuxi&egrave;me do (do2) &agrave; l&rsquo;accord do, mi, et sol, nous aurons les coefficients 4, 5, 6 et 8 de $$PPCM$$ 120. Nous sommes donc 1 degr&eacute; plus haut, et l&rsquo;accord compl&eacute;t&eacute; se voit ajout&eacute; un si &agrave; la 7e octave.
 </p>
 
