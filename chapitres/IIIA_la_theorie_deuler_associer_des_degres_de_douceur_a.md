@@ -78,7 +78,7 @@ avec $$p_i$$ des nombres premiers et $$k_i$$ des coefficients entiers positifs. 
 </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Or, elle correspond &agrave; une des classifications de Mersenne, un religieux math&eacute;maticien et philosophe du XVII&egrave;me. Ce dernier a &eacute;crit <em>Harmonie universelle, contenant la th&eacute;orie et la pratique de la musique, </em>un ouvrage majeur du XVII&egrave;me si&egrave;cle publi&eacute; en 1636 et qui englobe tous les aspects de la musique de cette &eacute;poque<em>.</em> Euler comme Mersenne met en avant l&rsquo;id&eacute;e que les dissonances ne sont que des consonances de degr&eacute; &eacute;lev&eacute;: il n&rsquo;y a qu&rsquo;une fronti&egrave;re floue entre les deux. De nombreuses personnes partagent donc l&rsquo;id&eacute;e d&rsquo;Euler.</p>
+    Or, elle correspond &agrave; une des classifications de Mersenne, un religieux math&eacute;maticien et philosophe du XVII&egrave;me. Ce dernier a &eacute;crit <em>Harmonie universelle, contenant la th&eacute;orie et la pratique de la musique, </em>un ouvrage majeur du XVII&egrave;me si&egrave;cle publi&eacute; en 1636 et qui englobe tous les aspects de la musique de cette &eacute;poque<em>.</em> Euler comme Mersenne met en avant l&rsquo;id&eacute;e que les dissonances ne sont que des consonances de degr&eacute; &eacute;lev&eacute;: il n&rsquo;y a qu&rsquo;une fronti&egrave;re floue entre les deux. Cette idée était donc répandue à l'époque d'Euler.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Mais Euler va plus loin. Il remarque que si l&rsquo;on ajoute un ou plusieurs sons &agrave; un accord, de rapports correspondant &agrave; des diviseurs de l&rsquo;exposant (l&rsquo;exposant &eacute;tant le $$PPCM$$), son degr&eacute; de douceur ne change pas. Par exemple, $$1:2:3:6$$ a le m&ecirc;me exposant que $$1:6$$ et $$2:3$$ car ils ont le m&ecirc;me $$PPCM$$, c&rsquo;est &agrave; dire 6. Il d&eacute;finit alors l&rsquo;accord dit complet comme un accord dont nous ne pouvons ajouter de sons sans que son degr&eacute; n&rsquo;augmente (c&rsquo;est &agrave; dire sans que son $$PPCM$$ n&rsquo;augmente): cet accord contient donc tous les diviseurs de son exposant. Par exemple, $$1:2:3:6$$ est un accord complet. Pour Euler, un effet de pl&eacute;nitude est alors ressenti par l&rsquo;oreille. C&rsquo;est comme cela qu&rsquo;il retrouve les accords les plus consonants de chaque degr&eacute;.
 </p>
@@ -89,7 +89,11 @@ avec $$p_i$$ des nombres premiers et $$k_i$$ des coefficients entiers positifs. 
 </p>
 
 TODO accord complet
-<p><em>Enregistrement d'un accord complet, où toutes les notes ont la même intensité</em></p>
+<p><em>Enregistrement de l'accord complet de do, mi et sol, où toutes les notes ont la même intensité. Comme on peut l'entendre, l'accord complet est plus dissonant, lorsque toutes les notes sont de même intensité. </em></p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;
+On remarque que l'accord complet où toutes les 
+</p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Autre exemple: si l&rsquo;on ajoute un deuxi&egrave;me do (do2) &agrave; l&rsquo;accord do, mi, et sol, nous aurons les coefficients 4, 5, 6 et 8 de $$PPCM$$ 120. Nous sommes donc 1 degr&eacute; plus haut, et l&rsquo;accord compl&eacute;t&eacute; se voit ajout&eacute; un si &agrave; la 7e octave.
