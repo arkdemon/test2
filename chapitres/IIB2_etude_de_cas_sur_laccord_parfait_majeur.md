@@ -39,7 +39,7 @@
 	Nous avons rencontré des difficultés pour reproduire les sons sur l’ordinateur, et après consultation auprès du professeur, nous en avons conclu qu’il s’agissait d’un dysfonctionnement du programme utilisé. Nous allons donc utiliser une autre version du programme selon les conseils du professeur de physique.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-	Nous somme confrontés à un autre problème. Après réflexion, nous avons constaté l’invalidité de nos enregistrements, dû à deux facteurs:
+	Nous somme confrontés à d'autres problèmes et après réflexion, avons constaté l’invalidité de nos enregistrements, dû à deux facteurs:
 </p>
 <ul>
 	<li >
