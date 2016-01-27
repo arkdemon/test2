@@ -26,7 +26,7 @@
 * [Annexe](chapitres/Annexe.md)
 * [Synthèses Personnelles](chapitres/syntheses_personnelles.md)
    * [Adrien](chapitres/synthèse_adrien.md)
-   * Alexandre
+   * [Alexandre](chapitres/synthèse_alexandre.md)
    * [David](chapitres/synthèse_david.md)
    * [Etienne](chapitres/synthèse_etienne.md)
 * [Bibliographie](chapitres/bibliographie.md)
