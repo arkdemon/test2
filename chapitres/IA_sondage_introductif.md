@@ -104,5 +104,5 @@ Nous nous attendions &agrave; ce que la majorit&eacute; des participants choisis
 </center>
 &nbsp;
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Nous remarquons que les réponses des participants sont en grande majorit&eacute; conformes à nos attentes sur la consonance d&rsquo;un accord. Ceci nous montre donc que tout le monde, même les non-musiciens, a une conception intuitive de la consonance. Cette conception est en majorit&eacute; en accord avec la th&eacute;orie musicale.</p>
+    Nous remarquons que les réponses des participants sont en grande majorit&eacute; conformes à nos attentes sur la consonance d&rsquo;un accord. Ceci nous montre donc que chaque personne, même non-musicienne, a une conception intuitive de la consonance. Cette conception est en majorit&eacute; en accord avec la th&eacute;orie musicale.</p>
 <p><br /><br /></p>
