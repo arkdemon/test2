@@ -5,7 +5,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     D&rsquo;Alembert ne cherche pas &agrave; d&eacute;montrer sa th&eacute;orie, seulement &agrave; donner des d&eacute;ductions. Pour lui, la musique est un sujet &agrave; la fois physique et math&eacute;matique qui ne se d&eacute;montre pas. Ainsi, il avoue qu&rsquo;il y a une absence de certitude totale.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Il consacre sa premi&egrave;re partie &agrave; une th&eacute;orie g&eacute;n&eacute;rale de l'harmonie, et sa deuxi&egrave;me partie &agrave; un abr&eacute;g&eacute; des r&egrave;gles de composition. nous nous focaliserons sur un extrait de sa premi&egrave;re partie. </p>
+    Il consacre sa premi&egrave;re partie &agrave; une th&eacute;orie g&eacute;n&eacute;rale de l'harmonie, et sa deuxi&egrave;me partie &agrave; un abr&eacute;g&eacute; des r&egrave;gles de composition. Nous nous focaliserons sur un extrait de sa premi&egrave;re partie. </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Sa th&eacute;orie repose sur deux exp&eacute;riences. La premi&egrave;re dit que lorsqu&rsquo;un corps sonore (c&rsquo;est &agrave; dire un objet qui peut produire un son en vibrant, e.g. une corde), r&eacute;sonne, nous entendons en plus du &ldquo;son principal et de son octave&rdquo;, la quinte une octave au-dessus de ce son, et la tierce majeure deux octaves au-dessus. Pour la deuxi&egrave;me exp&eacute;rience, il s&rsquo;agit de la ressemblance entre un son et le son une octave au-dessus ou en-dessous. Ces r&eacute;sultats sont seulement issus de l&rsquo;observation et ne sont pas justifi&eacute;s. </p>
