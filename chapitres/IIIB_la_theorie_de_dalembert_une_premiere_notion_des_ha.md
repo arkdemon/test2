@@ -1,7 +1,7 @@
 ## La théorie de d’Alembert : une première notion des harmoniques
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Suite &agrave; cette d&eacute;marche math&eacute;matique se distingue celle d&rsquo;Alembert qui prend une approche radicalement diff&eacute;rente. Dans sa th&eacute;orie, il repousse les pr&eacute;c&eacute;dentes comme la th&eacute;orie de la co&iuml;ncidence des coups, des ordres et d&rsquo;autres th&eacute;ories grecques. Elle tient son nom du musicien Rameau, car elle reprend et d&eacute;veloppe ses id&eacute;es. Publi&eacute;e en 1752 dans <em>El&eacute;ments de musique suivant les principes de M. Rameau </em>met donc en avant une th&eacute;orie de la musique, alternative et ind&eacute;pendante. </p>
+    Suite &agrave; cette d&eacute;marche math&eacute;matique se distingue celle d&rsquo;Alembert qui prend une approche radicalement diff&eacute;rente. Dans sa th&eacute;orie, il repousse les pr&eacute;c&eacute;dentes comme la th&eacute;orie de la co&iuml;ncidence des coups, des ordres et d&rsquo;autres th&eacute;ories grecques. Elle tient son nom du musicien Rameau, car elle reprend et d&eacute;veloppe ses id&eacute;es. Publi&eacute;e en 1752 dans <em>El&eacute;ments de musique suivant les principes de M. Rameau </em>, elle met donc en avant une th&eacute;orie de la musique alternative et ind&eacute;pendante. </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     D&rsquo;Alembert ne cherche pas &agrave; d&eacute;montrer sa th&eacute;orie, seulement &agrave; donner des d&eacute;ductions. Pour lui, la musique est un sujet &agrave; la fois physique et math&eacute;matique qui ne se d&eacute;montre pas. Ainsi, il avoue qu&rsquo;il y a une absence de certitude totale.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
