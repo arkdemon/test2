@@ -1,7 +1,7 @@
 ##D. Superposition de plusieurs notes
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    Maintenant que nous avons vu les trois propri&eacute;t&eacute;s fondamentales d&rsquo;une note (la hauteur, le timbre et l&rsquo;intensit&eacute;) ainsi que leurs grandeurs physiques associ&eacute;es, nous savons d&eacute;sormais d&eacute;crire enti&egrave;rement un son. Mais il ne faut pas perdre de vue notre probl&eacute;matique qui se repose sur la consonance des accords, donc il faudra maintenant chercher &agrave; d&eacute;crire ce qui se passe lorsque nous superposons plusieurs sons en m&ecirc;me temps.
+    Maintenant que nous avons vu les trois propri&eacute;t&eacute;s fondamentales d&rsquo;une note (la hauteur, le timbre et l&rsquo;intensit&eacute;) ainsi que leurs grandeurs physiques associ&eacute;es, nous savons d&eacute;sormais d&eacute;crire enti&egrave;rement un son. Mais il ne faut pas perdre de vue notre probl&eacute;matique qui repose sur la consonance des accords, donc il faudra maintenant chercher &agrave; d&eacute;crire ce qui se passe lorsque nous superposons plusieurs sons en m&ecirc;me temps.
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
     Une propri&eacute;t&eacute; remarquable de l&rsquo;&eacute;quation d&rsquo;onde est qu&rsquo;elle est lin&eacute;aire, c&rsquo;est &agrave; dire que si l&rsquo;on a deux solutions, leur somme en est une aussi. Ainsi, pour superposer deux ondes, nous les additionnons simplement et elle ne l'influenceront pas mutuellement, propri&eacute;t&eacute; connue sous le nom du principe de superposition.
