@@ -1,7 +1,7 @@
 ##C. L’intensité et la hauteur
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;
-    L&rsquo;intensit&eacute; d&rsquo;un son correspond &agrave; la perception de l&rsquo;amplitude de la fonction d&rsquo;onde, c&rsquo;est &agrave; dire la variation maximale de la pression. Elle se mesure en Pascal dans le Syst&egrave;me International d&rsquo;Unit&eacute;s. L&rsquo;amplitude peut changer au cours du temps. Pour visualiser cela, nous utilisons les enveloppes, c&rsquo;est &agrave; dire que l&rsquo;on prend la courbe qui passe par les maximas locaux (enveloppe sup&eacute;rieure) et celle qui passe par les minimas locaux (enveloppe inf&eacute;rieure). En faisant la diff&eacute;rence des deux &agrave; un instant, nous obtenons l&rsquo;amplitude de l&rsquo;onde &agrave; cet instant.
+    L&rsquo;intensit&eacute; d&rsquo;un son correspond &agrave; la perception de l&rsquo;amplitude de la fonction d&rsquo;onde, c&rsquo;est &agrave; dire la variation maximale de la pression. Elle se mesure en Pascal dans le Syst&egrave;me International d&rsquo;Unit&eacute;s. L&rsquo;amplitude peut changer au cours du temps. Pour visualiser cela, nous utilisons les enveloppes, c&rsquo;est-&agrave;-dire que l&rsquo;on prend la courbe qui passe par les maximas locaux (enveloppe sup&eacute;rieure) et celle qui passe par les minimas locaux (enveloppe inf&eacute;rieure). En faisant la diff&eacute;rence des deux &agrave; un instant, nous obtenons l&rsquo;amplitude de l&rsquo;onde &agrave; cet instant.
 </p>
 
 ![](../img/fig 2.1.png)
